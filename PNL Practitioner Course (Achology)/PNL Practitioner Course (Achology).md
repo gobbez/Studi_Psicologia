@@ -1,0 +1,15 @@
+#psicologia 
+
+Mappa del corso PNL Practitioner di Achology.
+
+## [[Capitolo 1 - Fondamenti della PNL]]
+
+## [[Capitolo 2 - Costruzione della Realtà]]
+
+## [[Capitolo 3 - Stati e Obiettivi]]
+
+## [[Capitolo 4 - Motivazione e Cambiamento]]
+
+## [[Capitolo 5 - Equazione dello Stato]]
+
+## [[Capitolo 6 - Problemi e Soluzioni]]

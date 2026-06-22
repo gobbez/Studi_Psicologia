@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "e5936404acd18560",
+    "type": "split",
+    "children": [
+      {
+        "id": "967b2dfeddec45ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15bb683b08bf9b9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psicologia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Psicologia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba25ac603c8fcf1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f30f411cd0d46aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bc535a1405f914a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "a5bbfc68631f9275",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "454bd103b642ca58",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2fc995afcab1fb4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4ce64fb8873e989",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb4ce52c12ac7ee0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          },
+          {
+            "id": "e8d37ab752b33129",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Psicologia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a Psicologia"
+            }
+          },
+          {
+            "id": "24793bccd89803a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Psicologia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da Psicologia"
+            }
+          },
+          {
+            "id": "4c2af8612d828e7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "3e013efc0cddeb31",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "d1945957359ae8e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Psicologia.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Psicologia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 755.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false
+    }
+  },
+  "active": "15bb683b08bf9b9f",
+  "lastOpenFiles": [
+    "Senza nome.md",
+    "Psicologia.md",
+    "Politica/Politica.md",
+    "Influenza Sociale/Influenza Sociale.md",
+    "Linguaggio del Corpo/Linguaggio del Corpo.md",
+    "Politica/Polarizzazione Politica.md",
+    "Politica/Polarizzazione Politica.md.tmp.467.cdc7aebfee5b",
+    "Politica/Framing Politico.md",
+    "Politica/Framing Politico.md.tmp.467.9f0cc2501026",
+    "Politica/Bias Politici.md",
+    "Politica/Bias Politici.md.tmp.467.e77e9947be44",
+    "Politica/Identità Politica.md",
+    "Politica/Identità Politica.md.tmp.467.95de009c35d5",
+    "Politica/Leader Politico.md",
+    "Politica/Leader Politico.md.tmp.467.781b162502b5",
+    "Politica/Comportamento Elettorale.md",
+    "Politica/Comportamento Elettorale.md.tmp.467.b883a1f1690c",
+    "Politica/Propaganda.md",
+    "Politica/Propaganda.md.tmp.467.63861ecf5c10",
+    "Politica/Opinione Pubblica.md",
+    "Politica/Opinione Pubblica.md.tmp.467.a96f41072514",
+    "Politica/Politica.md.tmp.467.440a5081017f",
+    "Politica",
+    "Linguaggio del Corpo/Applicazione Linguaggio del Corpo.md",
+    "Linguaggio del Corpo/Contatto Visivo.md",
+    "Linguaggio del Corpo/Spazio Personale.md",
+    "Linguaggio del Corpo/Gesture e Movimenti.md",
+    "Linguaggio del Corpo/Postura.md",
+    "Linguaggio del Corpo/Espressioni Facciali.md",
+    "Influenza Sociale/Bias di Gruppo.md",
+    "Influenza Sociale/Dinamiche di Gruppo.md",
+    "Influenza Sociale/Leadership.md",
+    "Influenza Sociale/Effetto dello Spettatore.md",
+    "Influenza Sociale/Deindividuazione.md",
+    "Influenza Sociale/Discriminazione.md",
+    "Influenza Sociale/Stereotipi e Pregiudizi.md",
+    "b.jpeg",
+    "c.jpeg",
+    "d.jpeg",
+    "e.jpeg",
+    "a.jpeg",
+    "p2.jpeg",
+    "p3.jpeg",
+    "p4.jpeg",
+    "p5.jpeg",
+    "p1.jpeg"
+  ]
+}
