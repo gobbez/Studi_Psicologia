@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Psicologia"
             }
-          },
-          {
-            "id": "e278316594544c69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PNL Practitioner Course (Achology)/PNL Practitioner Course (Achology).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PNL Practitioner Course (Achology)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,11 +192,23 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "e278316594544c69",
+  "active": "15bb683b08bf9b9f",
   "lastOpenFiles": [
-    "PNL Practitioner Course (Achology)/Capitolo 7 - Processi di Cambiamento Personale.md",
-    "PNL Practitioner Course (Achology)/PNL Practitioner Course (Achology).md",
+    "Coaching/Coaching.md",
     "Psicologia.md",
+    "Psicologia.md.tmp.618.f6ca7d34edad",
+    "Coaching/Miglioramento Continuo.md",
+    "Coaching/Gestione Risposte Emotive al Feedback.md",
+    "Coaching/Modello SBI.md",
+    "Coaching/Modello Sandwich.md",
+    "Coaching/Modello Sandwich.md.tmp.618.38aee89a010b",
+    "Coaching/Feedback Costruttivo.md",
+    "Coaching/Feedback Costruttivo.md.tmp.618.3aa0ff893dea",
+    "Coaching/Coaching.md.tmp.618.1541d7f03279",
+    "Coaching",
+    "PNL Practitioner Course (Achology)/PNL Practitioner Course (Achology).md",
+    "Lezione 18 - Feedback Costruttivo nel Coaching.txt",
+    "PNL Practitioner Course (Achology)/Capitolo 7 - Processi di Cambiamento Personale.md",
     "PNL Practitioner Course (Achology)/Livelli di Consapevolezza di Sé.md",
     "PNL Practitioner Course (Achology)/Posizioni Percettive.md",
     "PNL Practitioner Course (Achology)/Posizioni Percettive.md.tmp.618.ded2166757e7",
@@ -225,12 +222,6 @@
     "PNL Practitioner Course (Achology)/Prontezza al Cambiamento.md",
     "PNL Practitioner Course (Achology)/Prontezza al Cambiamento.md.tmp.618.806de7142b38",
     "PNL Practitioner Course (Achology)/Ruoli Professionali nell'Aiuto.md",
-    "PNL Practitioner Course (Achology)/Ruoli Professionali nell'Aiuto.md.tmp.618.2d9e0b22151c",
-    "PNL Practitioner Course (Achology)/Capitolo 7 - Processi di Cambiamento Personale.md.tmp.618.e7e4acbb0eb6",
-    "PNL Practitioner Course (Achology)/PNL Practitioner Course (Achology).md.tmp.618.87b2b21e5f18",
-    "pnl_chapter7.txt",
-    "pnl_chapter6.txt",
-    "Nuovo Documento di testo.txt",
     "PNL Practitioner Course (Achology)/Reframing.md",
     "PNL Practitioner Course (Achology)/Modello Tradizionale vs PNL.md",
     "PNL Practitioner Course (Achology)/La Mappa non è il Territorio.md",
@@ -238,13 +229,6 @@
     "PNL Practitioner Course (Achology)/Capitolo 6 - Problemi e Soluzioni.md",
     "PNL Practitioner Course (Achology)/Capitolo 5 - Equazione dello Stato.md",
     "PNL Practitioner Course (Achology)/Capitolo 4 - Motivazione e Cambiamento.md",
-    "PNL Practitioner Course (Achology)/Capitolo 3 - Stati e Obiettivi.md",
-    "PNL Practitioner Course (Achology)/Capitolo 2 - Costruzione della Realtà.md",
-    "PNL Practitioner Course (Achology)/Capitolo 1 - Fondamenti della PNL.md",
-    "Senza nome.md",
-    "Politica/Politica.md",
-    "Influenza Sociale/Influenza Sociale.md",
-    "Linguaggio del Corpo/Linguaggio del Corpo.md",
     "b.jpeg",
     "c.jpeg",
     "d.jpeg",

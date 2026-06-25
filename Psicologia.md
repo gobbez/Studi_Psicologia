@@ -6,6 +6,7 @@
 # [[Psicologia Personalità]]
 # [[Teoria del Comportamento]]
 # [[Comunicazione]]
+# [[Coaching]]
 # [[PNL Practitioner Course (Achology)]]
 # [[Psicologia delle Emozioni]]
 # [[Resilienza]]

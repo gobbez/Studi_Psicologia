@@ -27,3 +27,5 @@ Studio dei comportamenti comunicativi efficaci e agili.
 ## [[Gestione delle Critiche]]
 
 ## [[Linguaggio del Corpo]]
+
+## [[Coaching]]
