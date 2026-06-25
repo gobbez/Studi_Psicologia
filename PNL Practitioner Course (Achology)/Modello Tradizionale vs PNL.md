@@ -1,4 +1,4 @@
-#psicologia 
+#pnl
 
 Differenza tra il modello tradizionale della causalità emotiva e il modello PNL.
 

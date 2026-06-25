@@ -1,4 +1,4 @@
-#psicologia 
+#pnl
 
 Quinto capitolo: il modello PNL della percezione, dello stato emotivo e della riprogrammazione.
 

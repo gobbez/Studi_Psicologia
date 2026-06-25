@@ -1,4 +1,4 @@
-#psicologia 
+#pnl
 
 Terzo capitolo: la gestione degli stati interni e la formulazione degli obiettivi.
 

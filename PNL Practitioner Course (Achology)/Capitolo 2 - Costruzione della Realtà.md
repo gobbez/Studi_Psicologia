@@ -1,4 +1,4 @@
-#psicologia 
+#pnl
 
 Secondo capitolo: come costruiamo la realtà e come possiamo cambiarne la percezione.
 

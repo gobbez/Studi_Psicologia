@@ -1,4 +1,4 @@
-#psicologia 
+#pnl
 
 Quarto capitolo: motivazione, stati emotivi e tecniche di facilitazione del cambiamento.
 

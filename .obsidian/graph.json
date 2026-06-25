@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#psicologia  ",
@@ -19,6 +19,13 @@
       "color": {
         "a": 1,
         "rgb": 15202408
+      }
+    },
+    {
+      "query": "tag:#pnl  ",
+      "color": {
+        "a": 1,
+        "rgb": 6054102
       }
     }
   ],

@@ -1,4 +1,4 @@
-#psicologia 
+#pnl
 
 Nel modello PNL lo stato emotivo non è determinato direttamente dagli eventi esterni, ma dalla nostra rappresentazione interna.
 

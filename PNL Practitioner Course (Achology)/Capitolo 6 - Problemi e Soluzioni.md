@@ -1,4 +1,4 @@
-#psicologia 
+#pnl
 
 Sesto capitolo del corso: lavorare con i problemi, distinguere il problema apparente dal vero problema e trovare soluzioni.
 

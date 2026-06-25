@@ -1,4 +1,4 @@
-#psicologia 
+#pnl
 
 Primo capitolo del corso: i fondamenti teorici e pratici della PNL.
 

@@ -1,4 +1,4 @@
-#psicologia 
+#pnl
 
 Principio fondamentale della PNL: ciò che percepiamo non è la realtà oggettiva, ma una rappresentazione interna filtrata.
 

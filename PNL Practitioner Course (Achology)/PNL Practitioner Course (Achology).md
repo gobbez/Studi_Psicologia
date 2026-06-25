@@ -1,4 +1,4 @@
-#psicologia 
+#pnl
 
 Mappa del corso PNL Practitioner di Achology.
 
@@ -13,3 +13,5 @@ Mappa del corso PNL Practitioner di Achology.
 ## [[Capitolo 5 - Equazione dello Stato]]
 
 ## [[Capitolo 6 - Problemi e Soluzioni]]
+
+## [[Capitolo 7 - Processi di Cambiamento Personale]]

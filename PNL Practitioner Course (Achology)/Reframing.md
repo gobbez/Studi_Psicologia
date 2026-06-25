@@ -1,4 +1,4 @@
-#psicologia 
+#pnl
 
 Tecnica PNL per cambiare il significato o la prospettiva di un evento, modificando così la risposta emotiva e comportamentale.
 
