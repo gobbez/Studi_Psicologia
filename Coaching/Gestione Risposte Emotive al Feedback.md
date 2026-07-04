@@ -15,5 +15,8 @@ Strategie:
 - riformulare in termini più neutri o positivi
 - concedere tempo per la riflessione
 - promuovere [[Mindfulness]] e [[Regolazione Emotiva]]
+- adattare l'approccio alle esigenze emotive del coachee
+
+Un atteggiamento empatico permette di distinguere tra feedback che richiedono una reazione immediata e situazioni che richiedono un approccio più delicato, rafforzando il rapporto di fiducia.
 
 [[Coaching]]

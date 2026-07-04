@@ -9,11 +9,12 @@ Ciclo di apprendimento:
 4. **Valutazione** delle prestazioni per avviare un nuovo ciclo
 
 Strategie:
-- stabilire obiettivi chiari e misurabili
+- stabilire obiettivi chiari, specifici e misurabili
 - incoraggiare la richiesta proattiva di feedback
-- implementare sessioni di feedback regolari
-- monitorare e valutare i progressi
+- implementare sessioni di feedback regolari e strutturate
+- monitorare e valutare i progressi con strumenti concreti
+- seguire i feedback con piani d'azione specifici
 
-Una cultura del feedback favorisce motivazione, innovazione e miglioramento delle performance.
+Una cultura del feedback favorisce motivazione, innovazione e miglioramento delle performance individuali e di team.
 
 [[Coaching]]
