@@ -15,3 +15,7 @@ Mappa del corso PNL Practitioner di Achology.
 ## [[Capitolo 6 - Problemi e Soluzioni]]
 
 ## [[Capitolo 7 - Processi di Cambiamento Personale]]
+
+## [[Capitolo 8 - Ancore]]
+
+## [[Capitolo 9 - Comunicazione e Influenza]]
