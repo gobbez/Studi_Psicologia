@@ -19,3 +19,7 @@ Mappa del corso PNL Practitioner di Achology.
 ## [[Capitolo 8 - Ancore]]
 
 ## [[Capitolo 9 - Comunicazione e Influenza]]
+
+## [[Capitolo 10 - Eccellenza e Efficacia]]
+
+## [[Capitolo 11 - Virtù e Autorealizzazione]]
