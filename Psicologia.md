@@ -8,6 +8,7 @@
 # [[Comunicazione]]
 # [[Coaching]]
 # [[PNL Practitioner Course (Achology)]]
+# [[Human Connection Enginering (HCE)]]
 # [[Psicologia delle Emozioni]]
 # [[Resilienza]]
 # [[Cronoritmi]]
