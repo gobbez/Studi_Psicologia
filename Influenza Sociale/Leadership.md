@@ -3,8 +3,9 @@
 Capacità di influenzare, guidare e motivare un gruppo verso un obiettivo comune.
 
 Stili principali:
-- **Democratico**: partecipativo, condivide decisioni
-- **Autoritario**: decisioni centralizzate, controllo forte
+- **Carismatico**: influenza attraverso visione ispiratrice, comunicazione evocativa, empatia ed esemplarità → [[Leadership Carismatica]]
+- **Democratico / Partecipativo**: coinvolge attivamente il team, promuove comunicazione aperta e condivisione del potere
+- **Autocratico / Autoritario**: controllo centralizzato, decisioni unilaterali e comunicazione diretta
 - **Laissez-faire**: libertà di azione, intervento minimo
 
 Un buon leader bilancia visione, empatia e capacità decisionale.
