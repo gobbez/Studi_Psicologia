@@ -41,9 +41,16 @@
         "a": 1,
         "rgb": 65280
       }
+    },
+    {
+      "query": "tag:#studi-scientifici  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 201,
-  "scale": 0.13168724279835348,
+  "scale": 0.1846232622585804,
   "close": true
 }
