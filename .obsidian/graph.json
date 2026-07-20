@@ -8,10 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "path:\"Psicologia Personalità\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 37375
+      }
+    },
+    {
       "query": "tag:#psicologia  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 16739179
       }
     },
     {
@@ -25,11 +32,18 @@
       "query": "tag:#pnl  ",
       "color": {
         "a": 1,
-        "rgb": 6054102
+        "rgb": 10067188
+      }
+    },
+    {
+      "query": "tag:#hce  ",
+      "color": {
+        "a": 1,
+        "rgb": 65280
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -39,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 201,
-  "scale": 0.18462326225858086,
+  "scale": 0.13168724279835348,
   "close": true
 }
