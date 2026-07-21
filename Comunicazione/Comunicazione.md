@@ -14,6 +14,9 @@ Studio dei comportamenti comunicativi efficaci e agili.
 
 ## [[Psicologia della Comunicazione]]
 
+## [[Comunicazione e Interazione]]
+Differenza tra trasmissione di messaggi e scambio reciproco tra persone.
+
 ## [[Ascolto Attivo]]
 
 ## [[Guidare la Conversazione]]
