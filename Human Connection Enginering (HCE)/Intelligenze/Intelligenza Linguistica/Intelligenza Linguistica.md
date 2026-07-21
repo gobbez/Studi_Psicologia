@@ -15,6 +15,9 @@ Capacità di scegliere e usare le parole, le strutture e i pattern linguistici p
 - Usare il framing per orientare la percezione.
 - Adattare il lessico al profilo dell'interlocutore.
 
+## Semantica
+Per l'approfondimento sul significato delle parole, dei frame e dei filtri, vedi [[Semantica]].
+
 ## Collegamenti
 [[Algoritmi Linguistici]]
 [[Strategie Linguistico Comportamentali Cognitive (SLCC)]]
