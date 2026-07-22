@@ -15,5 +15,18 @@ Capacità di analizzare le architetture mentali, progettare piani d'azione e pre
 - Scegliere il momento e il contesto migliori per proporre un'idea.
 - Costruire sequenze persuasive prima di un incontro.
 
+# [[Sistemi di Riferimento]]
+
+
+----
+# AREE
+- ## [[1 - Schema]]
+- ## [[2 - Endpoint]]
+- ## [[3 - Team]]
+- ## [[4 - Unità]]
+- ## [[5 - Piano]]
+
+
+----
 ## Collegamenti
 [[Intelligenze]]
