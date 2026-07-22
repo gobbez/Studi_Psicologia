@@ -18,6 +18,4 @@ Capacità di usare il comportamento, la postura, i gesti e le abitudini per comu
 ## Collegamenti
 [[Comunicazione Non Verbale]]
 [[Linguaggio del Corpo]]
-[[Intelligenza Strategica]]
-[[Intelligenza Emotiva]]
 [[Intelligenze]]

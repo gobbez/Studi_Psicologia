@@ -18,5 +18,3 @@ Cornici semantiche che orientano il modo in cui un'informazione viene interpreta
 
 ## Collegamenti
 [[Semantica]]
-[[Filtri]]
-[[Parole]]

@@ -43,11 +43,6 @@ In ogni interazione umana il cervello processa simultaneamente molteplici input 
 Controllare le variabili dell'interazione significa ridurre il rumore percettivo e allineare il messaggio verbale con quello non verbale, emotivo e ambientale.
 
 ## Collegamenti
-[[Intelligenza Ambientale]]
-[[Intelligenza Comportamentale]]
-[[Intelligenza Emotiva]]
-[[Intelligenza Linguistica]]
-[[Neuroscienze]]
 [[Comunicazione Non Verbale]]
 [[Scienza dell'Apparenza]]
 [[Human Connection Enginering (HCE)]]

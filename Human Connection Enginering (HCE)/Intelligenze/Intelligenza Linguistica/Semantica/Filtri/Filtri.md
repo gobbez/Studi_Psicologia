@@ -15,5 +15,3 @@ Schemi cognitivi attraverso cui una persona seleziona, enfatizza o ignora inform
 
 ## Collegamenti
 [[Semantica]]
-[[Frames]]
-[[Parole]]

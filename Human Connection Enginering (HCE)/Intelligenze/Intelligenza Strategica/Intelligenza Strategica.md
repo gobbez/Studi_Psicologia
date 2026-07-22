@@ -16,8 +16,4 @@ Capacità di analizzare le architetture mentali, progettare piani d'azione e pre
 - Costruire sequenze persuasive prima di un incontro.
 
 ## Collegamenti
-[[Intelligenza Comportamentale]]
-[[Intelligenza Ambientale]]
-[[Intelligenza Linguistica]]
-[[Intelligenza Emotiva]]
 [[Intelligenze]]

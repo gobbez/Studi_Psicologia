@@ -20,7 +20,4 @@ Per l'approfondimento sul significato delle parole, dei frame e dei filtri, vedi
 
 ## Collegamenti
 [[Algoritmi Linguistici]]
-[[Strategie Linguistico Comportamentali Cognitive (SLCC)]]
-[[Intelligenza Strategica]]
-[[Intelligenza Emotiva]]
 [[Intelligenze]]

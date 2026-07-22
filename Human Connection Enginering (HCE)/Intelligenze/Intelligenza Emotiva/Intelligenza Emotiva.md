@@ -17,7 +17,4 @@ Capacità di riconoscere, comprendere e gestire le proprie emozioni e quelle alt
 
 ## Collegamenti
 [[Psicologia delle Emozioni]]
-[[Intelligenza Strategica]]
-[[Intelligenza Comportamentale]]
-[[Intelligenza Linguistica]]
 [[Intelligenze]]

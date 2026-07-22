@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "d0aa39ab7280d727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human Connection Enginering (HCE)/Variabili dell'Interazione.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variabili dell'Interazione"
+            }
+          },
+          {
             "id": "2d55fa675ba60c96",
             "type": "leaf",
             "state": {
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -251,13 +265,24 @@
   },
   "active": "fb4ce52c12ac7ee0",
   "lastOpenFiles": [
-    "Human Connection Enginering (HCE)/Strategie Linguistico Comportamentali Cognitive (SLCC).md",
     "Studi Scientifici/Studi Scientifici.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/Semantica/Parole/Parole.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/Semantica/Filtri/Filtri.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/Semantica/Frames/Frames.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/Intelligenza Linguistica.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/Semantica/Frames/Functional Priming.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/Intelligenza Strategica.md",
+    "Human Connection Enginering (HCE)/Strategie Linguistico Comportamentali Cognitive (SLCC).md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/Intelligenza Ambientale.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/Intelligenza Comportamentale.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/Intelligenza Emotiva.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/Subordination.md",
+    "Human Connection Enginering (HCE)/Variabili dell'Interazione.md",
+    "Studi Scientifici/The Role of Colors in Stress Reduction.md",
+    "Human Connection Enginering (HCE)/Human Connection Enginering (HCE).md",
     "Human Connection Enginering (HCE)/Corso Persuasione/Phylosophy.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/Subordination.md.tmp.390.65325e7dbba1",
     "README.md",
-    "Studi Scientifici/The Role of Colors in Stress Reduction.md",
     "README.md.tmp.390.54c8f9624d6b",
     "Psicologia.md.tmp.390.35340e6481aa",
     "Studi Scientifici/The Role of Colors in Stress Reduction.txt",
@@ -265,7 +290,6 @@
     "Studi Scientifici/Nuovo Documento di testo.txt",
     "Studi Scientifici",
     "Psicologia Personalità/Psicologia Personalità.md",
-    "Human Connection Enginering (HCE)/Human Connection Enginering (HCE).md",
     "Human Connection Enginering (HCE)/Corso Persuasione",
     "Human Connection Enginering (HCE)/Corso Persuasione/Corso Persuasione.md",
     "Psicologia.md",
@@ -277,15 +301,6 @@
     "PNL Practitioner Course (Achology)/Immediatezza e Timeline.md",
     "PNL Practitioner Course (Achology)/Chunking.md",
     "PNL Practitioner Course (Achology)/Cancellazioni Linguistiche.md",
-    "PNL Practitioner Course (Achology)/Generalizzazioni Linguistiche.md",
-    "PNL Practitioner Course (Achology)/Distorsioni Linguistiche.md",
-    "PNL Practitioner Course (Achology)/Meta-Modello PNL.md",
-    "PNL Practitioner Course (Achology)/Struttura della Comunicazione.md",
-    "PNL Practitioner Course (Achology)/Fasi della Fiducia.md",
-    "PNL Practitioner Course (Achology)/Hearts and Minds.md",
-    "PNL Practitioner Course (Achology)/Capitolo 9 - Comunicazione e Influenza.md",
-    "Coaching/Coaching.md",
-    "Coaching/Miglioramento Continuo.md",
     "b.jpeg",
     "c.jpeg",
     "d.jpeg",

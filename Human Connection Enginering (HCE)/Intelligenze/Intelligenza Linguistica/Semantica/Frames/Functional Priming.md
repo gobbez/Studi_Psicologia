@@ -41,7 +41,4 @@ Parole come *tranquillo*, *sereno*, *spazio* attivano una risposta fisiologica d
 
 ## Collegamenti
 [[Frames]]
-[[Parole]]
-[[Semantica]]
-[[Intelligenza Linguistica]]
 [[Neuroscienze]]

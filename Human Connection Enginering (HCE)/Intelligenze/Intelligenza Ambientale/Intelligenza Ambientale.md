@@ -15,7 +15,4 @@ Capacità di percepire, scegliere e modificare il contesto fisico per favorire i
 - Ridurre distrazioni o elementi di stress dall'ambiente.
 
 ## Collegamenti
-[[Scienza dell'Apparenza]]
-[[Intelligenza Strategica]]
-[[Intelligenza Comportamentale]]
 [[Intelligenze]]

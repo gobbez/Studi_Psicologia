@@ -15,5 +15,3 @@ Unità fondamentali della semantica. La scelta delle parole attiva significati, 
 
 ## Collegamenti
 [[Semantica]]
-[[Filtri]]
-[[Frames]]
