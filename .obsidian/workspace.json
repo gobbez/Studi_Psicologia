@@ -50,20 +50,6 @@
             }
           },
           {
-            "id": "1ec98175f8c2d1c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/Intelligenza Strategica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intelligenza Strategica"
-            }
-          },
-          {
             "id": "29e75c0cd4422b6d",
             "type": "leaf",
             "state": {
@@ -120,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -293,24 +279,33 @@
   },
   "active": "29e75c0cd4422b6d",
   "lastOpenFiles": [
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/1 - Schema/1 - Schema.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/Intelligenza Strategica.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/5 - Piano/5 - Piano.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/5 - Piano/5 - Piano.md.tmp.427.63ae51e01179",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/4 - Unità/4 - Unità.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/4 - Unità/4 - Unità.md.tmp.427.354ad12aef89",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/3 - Team/3 - Team.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/3 - Team/3 - Team.md.tmp.427.36e515e096c2",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/2 - Endpoint/2 - Endpoint.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/2 - Endpoint/2 - Endpoint.md.tmp.427.2e8e37461829",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/1 - Schema/1 - Schema.md.tmp.427.fd69a103ef03",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/5 - Piano",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/4 - Unità",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/3 - Team",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/2 - Endpoint",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/1 - Schema",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/Intelligenza Linguistica.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/5 - Piano/Timing/Timing.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/5 - Piano/Steps/Steps.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/5 - Piano/Timing/Timing.md.tmp.414.c5038228b628",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/5 - Piano/Steps/Steps.md.tmp.414.b2c2aa88a096",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/5 - Piano/Exit/Exit.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/5 - Piano/Steps",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/5 - Piano/Timing",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/5 - Piano/Exit/Exit.md.tmp.414.f27f4cad0ddd",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/5 - Piano/Exit/Exit Planning.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/5 - Piano/Exit",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/5 - Piano/5 - Piano.md.tmp.414.2bd8c2e63ec7",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/5 - Piano/Exit Planning.md.tmp.414.9a72a87ed7ea",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Frames.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/Intelligenza Strategica.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/1 - Schema/1 - Schema.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/Sistemi di Riferimento.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/1 - Semantica.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Parole.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Functional Priming.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Filtri/Filtri.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/4 - Unità/4 - Unità.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/3 - Team/3 - Team.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/2 - Endpoint/2 - Endpoint.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/Semantica/Semantica.md",
     "Human Connection Enginering (HCE)/Variabili dell'Interazione.md",
     "Human Connection Enginering (HCE)/Strategie Linguistico Comportamentali Cognitive (SLCC).md",
@@ -319,16 +314,6 @@
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/Semantica/Parole/Parole.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/Semantica/Filtri/Filtri.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/Semantica/Frames/Frames.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/Semantica/Frames/Functional Priming.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/Intelligenza Ambientale.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/Intelligenza Comportamentale.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/Intelligenza Emotiva.md",
-    "Studi Scientifici/The Role of Colors in Stress Reduction.md",
-    "Human Connection Enginering (HCE)/Human Connection Enginering (HCE).md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Phylosophy.md",
-    "README.md",
-    "Psicologia Personalità/Psicologia Personalità.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Corso Persuasione.md",
     "b.jpeg",
     "c.jpeg",
     "d.jpeg",

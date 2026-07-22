@@ -17,7 +17,7 @@ Capacità di scegliere e usare le parole, le strutture e i pattern linguistici p
 
 ----
 # AREE
-- ## [[Semantica]]
+- ## [[1 - Semantica]]
 
 
 ----

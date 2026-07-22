@@ -22,3 +22,4 @@ Il **Piano** è la sequenza ordinata di azioni concrete che trasforma la strateg
 
 ## Collegamenti
 [[Intelligenza Strategica]]
+[[Exit]]

@@ -14,4 +14,4 @@ Schemi cognitivi attraverso cui una persona seleziona, enfatizza o ignora inform
 - **Filtro di generalizzazione**: un'esperienza singola viene estesa a tutte le situazioni simili.
 
 ## Collegamenti
-[[Semantica]]
+[[1 - Semantica]]

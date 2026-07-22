@@ -17,4 +17,4 @@ Cornici semantiche che orientano il modo in cui un'informazione viene interpreta
 - [[Functional Priming]]: uso dei frame per attivare stati cognitivi, emotivi o comportamentali specifici prima di un messaggio.
 
 ## Collegamenti
-[[Semantica]]
+[[1 - Semantica]]

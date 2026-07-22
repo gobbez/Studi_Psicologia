@@ -14,4 +14,4 @@ Unità fondamentali della semantica. La scelta delle parole attiva significati, 
 - Scegliere metafore che supportino il frame desiderato.
 
 ## Collegamenti
-[[Semantica]]
+[[1 - Semantica]]
