@@ -64,20 +64,6 @@
             }
           },
           {
-            "id": "c6921065af0e44b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/Intelligenza Comportamentale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intelligenza Comportamentale"
-            }
-          },
-          {
             "id": "612b8bb0038f0903",
             "type": "leaf",
             "state": {
@@ -90,9 +76,51 @@
               "icon": "lucide-file",
               "title": "Studi Scientifici"
             }
+          },
+          {
+            "id": "07b8af06ea06afd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human Connection Enginering (HCE)/Corso Persuasione/Subordination.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Subordination"
+            }
+          },
+          {
+            "id": "40618709cf0f983b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human Connection Enginering (HCE)/Corso Persuasione/Phylosophy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phylosophy"
+            }
+          },
+          {
+            "id": "ebbc7705c4751b1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human Connection Enginering (HCE)/Corso Persuasione/Phylosophy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phylosophy"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -263,26 +291,36 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "8bc535a1405f914a",
+  "active": "40618709cf0f983b",
   "lastOpenFiles": [
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/5 - Execute",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/4 - Learn",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/3 - Impatto",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/2 - Mindset",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/1 - Segni",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/Intelligenza Comportamentale.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Subordination.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/3 - Team/Feedback",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/3 - Team/Partnership",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/3 - Team/Lead",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Phylosophy.md",
+    "Studi Scientifici/Studi Scientifici.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/lscc.png",
     "Human Connection Enginering (HCE)/Strategie Linguistico Comportamentali Cognitive (SLCC).md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/1 - Segni/1 - Segni.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenze.md",
+    "Linguaggio del Corpo/Linguaggio del Corpo.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/Intelligenza Comportamentale.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/Intelligenza Comportamentale.md.tmp.518.e070071da7fe",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/5 - Execute/5 - Execute.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/5 - Execute/5 - Execute.md.tmp.518.19b33c48c490",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/4 - Learn/4 - Learn.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/4 - Learn/4 - Learn.md.tmp.518.4ad495b2646a",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/3 - Impatto/3 - Impatto.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/3 - Impatto/3 - Impatto.md.tmp.518.4d9bb1ced582",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/2 - Mindset/2 - Mindset.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/2 - Mindset/2 - Mindset.md.tmp.518.11423e52883f",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/1 - Segni/1 - Segni.md.tmp.518.1cb2bf5d461a",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/5 - Execute",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/Sistemi di Riferimento.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/Intelligenza Linguistica.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/1 - Schema/Regole/Regole.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/1 - Schema/1 - Schema.md.tmp.518.432af73ef886",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/1 - Schema/Regole/Regole.md.tmp.518.605921fcc26c",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/1 - Schema/Framework/Framework.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/1 - Schema/Framework/Framework.md.tmp.518.1dbb8b896841",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/1 - Schema/Abstraction/Abstraction.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/1 - Schema/Abstraction/Abstraction.md.tmp.518.a34c306fd9f9",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/1 - Schema/Framework",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/1 - Schema/Abstraction",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/5 - Piano/5 - Piano.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/5 - Piano/Timing/Timing.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/5 - Piano/Steps/Steps.md",
@@ -291,16 +329,6 @@
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Frames.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/Intelligenza Strategica.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/1 - Schema/1 - Schema.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/1 - Semantica.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Parole.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Functional Priming.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Filtri/Filtri.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/4 - Unità/4 - Unità.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/3 - Team/3 - Team.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/2 - Endpoint/2 - Endpoint.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/Semantica/Semantica.md",
-    "Human Connection Enginering (HCE)/Variabili dell'Interazione.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Subordination.md",
     "b.jpeg",
     "c.jpeg",
     "d.jpeg",
@@ -309,7 +337,6 @@
     "p2.jpeg",
     "p3.jpeg",
     "p4.jpeg",
-    "p5.jpeg",
-    "p1.jpeg"
+    "p5.jpeg"
   ]
 }

@@ -3,15 +3,20 @@
 SLCC di subordinazione: individua il modo in cui una persona si posiziona rispetto all'autorità e al comando, distinguendo due profili linguistico-comportamentali.
 
 # Workers
+==Intelligenza: Strategica
+Area colpita: Team
+Sottoarea: [[Lead]]==
 - eseguono, si adattano alle regole e alle richieste altrui
 - linguaggio orientato al "fare" e al servire un'autorità esterna
 - si trovano a proprio agio nel ricevere istruzioni chiare
-
 ### Fondamento e validazione
 Il profilo Worker corrisponde alla posizione subordinata nelle gerarchie sociali. Fiske (1991, 1992), nella *Relational Models Theory*, descrive l'**Authority Ranking** come un modello relazionale in cui i subordinati sono tenuti a deferire, rispettare e obbedire, mentre i superiori assumono responsabilità di guida e protezione. Kelley (1988, 1992) classifica i follower lungo due dimensioni — *pensiero critico indipendente* e *coinvolgimento attivo* — e mostra che i follower efficaci non sono passivi, ma pensano in modo autonomo e partecipano attivamente. Questo suggerisce che il Worker "puro" (solo esecuzione) è uno stile tra i possibili, non necessariamente il più efficace.
 
 ---
 # Commanders
+==Intelligenza: Strategica
+Area colpita: Team
+Sottoarea: [[Partnership]]==
 - guidano, decidono e assumono il controllo della situazione
 - linguaggio orientato al comando, alla direzione e alla responsabilità
 - si trovano a proprio agio nell'assegnare compiti e prendere decisioni

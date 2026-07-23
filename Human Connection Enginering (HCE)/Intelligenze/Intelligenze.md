@@ -1,6 +1,6 @@
 #hce
 
-Modello SCALE delle cinque intelligenze di HCE, descritto da Paolo Borzacchiello in *HCE. La scienza delle interazioni umane* (Gribaudo, 2020). Ogni intelligenza rappresenta un canale attraverso cui le persone elaborano, comunicano e influenzano le interazioni.
+Modello SCALE ([[Modello SCALE]]) delle cinque intelligenze di HCE, descritto da Paolo Borzacchiello in *HCE. La scienza delle interazioni umane* (Gribaudo, 2020). Ogni intelligenza rappresenta un canale attraverso cui le persone elaborano, comunicano e influenzano le interazioni.
 
 ## [[Intelligenza Strategica]]
 Usare le architetture mentali, elaborare strategie, prevedere risultati.

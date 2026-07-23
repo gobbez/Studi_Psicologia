@@ -19,3 +19,6 @@ Uso dello sguardo per regolare attenzione, fiducia e dominanza.
 
 ## [[Applicazione Linguaggio del Corpo]]
 Coaching, comunicazione efficace, ascolto attivo e costruzione del rapport.
+
+## [[Comunicazione Non Verbale]]
+Comunicazione attraverso il corpo, la postura, la voce e la disposizione dello spazio.
