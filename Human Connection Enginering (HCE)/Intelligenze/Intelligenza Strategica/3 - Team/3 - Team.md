@@ -19,5 +19,10 @@ Il **Team** è l'insieme delle persone coinvolte nella realizzazione della strat
 - Assegnare compiti in base a punti di forza individuali.
 - Anticipare resistenze o conflitti prima che blocchino il piano.
 
+## Aree del Team
+- [[Feedback]]: scambio di informazioni per allineare, correggere e far crescere il gruppo.
+- [[Lead]]: guida, direzione e influenza sul team.
+- [[Partnership]]: costruzione di alleanze strategiche interne ed esterne.
+
 ## Collegamenti
 [[Intelligenza Strategica]]
