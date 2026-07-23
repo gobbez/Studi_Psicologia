@@ -2,7 +2,7 @@
 
 # Intelligenza Comportamentale
 
-Capacità di usare il comportamento, la postura, i gesti e le abitudini per comunicare in modo coerente ed efficace.
+Capacità di usare il comportamento, la postura, i gesti, i toni, volumi e le abitudini per comunicare in modo coerente ed efficace.
 
 ## Caratteristiche
 - Consapevolezza del proprio corpo e della propria presenza.

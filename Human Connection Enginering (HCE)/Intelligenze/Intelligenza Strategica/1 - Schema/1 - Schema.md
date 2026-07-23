@@ -19,5 +19,10 @@ Nell'Intelligenza Strategica, lo **Schema** è la rappresentazione mentale, la m
 - Identificare i bisogni, le paure e i valori dell'interlocutore.
 - Prevedere reazioni e ostacoli prima che emergano.
 
+## Aree dello Schema
+- [[Abstraction]]: capacità di estrarre pattern e principi generali dai dettagli concreti.
+- [[Framework]]: strutture di pensiero e modelli operativi per organizzare l'azione.
+- [[Regole]]: vincoli, principi e procedure che governano il pensiero strategico.
+
 ## Collegamenti
 [[Intelligenza Strategica]]
