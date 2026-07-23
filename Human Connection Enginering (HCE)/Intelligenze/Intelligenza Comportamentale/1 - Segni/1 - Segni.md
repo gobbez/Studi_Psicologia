@@ -51,6 +51,11 @@ Distanza fisica, uso dello spazio, posizione nell'ambiente.
 
 I Segni sono il punto di partenza dell'Intelligenza Comportamentale. Senza la capacità di osservare e interpretare i segnali non verbali, ogni strategia comunicativa resta cieca a metà della informazione disponibile.
 
+## Aree dei Segni
+- [[Espressione]]: volto, sguardo e microespressioni.
+- [[Gestualità]]: movimenti delle mani, delle braccia e del corpo.
+- [[Posture]]: posizione del corpo, orientamento e occupazione dello spazio.
+
 ## Collegamenti
 [[Intelligenza Comportamentale]]
 [[Linguaggio del Corpo]]

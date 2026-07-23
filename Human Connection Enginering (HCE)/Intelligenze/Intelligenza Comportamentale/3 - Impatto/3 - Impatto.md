@@ -45,5 +45,10 @@ L'effetto a lungo termine sul rapporto tra le persone.
 
 L'Impatto è la valuta dell'Intelligenza Comportamentale. Comunicare bene non basta: conta l'effetto che il proprio comportamento produce. Misurare e calibrare l'impatto è ciò che trasforma un'azione in una strategia efficace.
 
+## Aree dell'Impatto
+- [[Umore]]: stato emotivo trasmesso e attivato durante l'interazione.
+- [[Voce]]: impatto del suono, del tono, del ritmo e della prosodia.
+- [[Wonders]]: momenti di meraviglia, sorpresa e memorabilità.
+
 ## Collegamenti
 [[Intelligenza Comportamentale]]
