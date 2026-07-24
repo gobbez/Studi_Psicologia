@@ -52,5 +52,10 @@ Rendere automatiche le nuove abitudini efficaci.
 
 Il Learn rende l'Intelligenza Comportamentale evolutiva. Senza apprendimento, ogni interazione resta un evento isolato; con il Learn, ogni interazione diventa un passo verso una maggiore efficacia relazionale.
 
+## Aree del Learn
+- [[Memoria]]: conservazione e richiamo delle esperienze utili.
+- [[Ricerca]]: esplorazione attiva di nuove informazioni e modelli.
+- [[Training]]: pratica ripetuta per consolidare competenze.
+
 ## Collegamenti
 [[Intelligenza Comportamentale]]

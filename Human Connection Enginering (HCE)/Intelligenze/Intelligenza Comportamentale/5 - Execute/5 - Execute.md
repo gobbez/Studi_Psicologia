@@ -46,5 +46,10 @@ Continuare anche di fronte a resistenze o imprevisti, senza forzature.
 
 L'Execute è il banco di prova dell'Intelligenza Comportamentale. Tutta l'analisi sui segni, il mindset, l'impatto e l'apprendimento trova il suo senso nell'azione. Una buona esecuzione trasforma la strategia in risultato concreto.
 
+## Aree dell'Execute
+- [[Challenge]]: affrontare sfide, prove e resistenze.
+- [[Play]]: approccio ludico, sperimentazione e leggerezza.
+- [[Reward]]: rinforzi, gratificazioni e motivazione.
+
 ## Collegamenti
 [[Intelligenza Comportamentale]]

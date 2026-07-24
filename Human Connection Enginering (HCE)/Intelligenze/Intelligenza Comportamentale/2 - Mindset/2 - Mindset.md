@@ -45,5 +45,10 @@ Il primo agisce rapidamente; il secondo si ferma a valutare prima di decidere.
 
 Il Mindset è il motore invisibile dell'Intelligenza Comportamentale. Determina come si percepisce una situazione e quali comportamenti ne derivano. Gestirlo strategicamente significa aumentare il proprio range di azione.
 
+## Aree del Mindset
+- [[Abitudini]]: pattern comportamentali e mentali automatici.
+- [[Flessibilità]]: capacità di adattare il proprio atteggiamento al contesto.
+- [[Reazioni]]: risposte automatiche o scelte di fronte agli eventi.
+
 ## Collegamenti
 [[Intelligenza Comportamentale]]
