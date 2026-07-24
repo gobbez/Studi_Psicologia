@@ -8,5 +8,5 @@ Si tende a farsi meriti nel caso di successi e a dare le colpe agli altri quando
 
 
 ---
+[[Bias]]
 [[Neuroscienze]]
-[[Human Connection Enginering (HCE)]]
