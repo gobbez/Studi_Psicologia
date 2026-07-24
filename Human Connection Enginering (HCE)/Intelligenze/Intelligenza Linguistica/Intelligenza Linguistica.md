@@ -18,6 +18,10 @@ Capacità di scegliere e usare le parole, le strutture e i pattern linguistici p
 ----
 # AREE
 - ## [[1 - Semantica]]
+- ## [[2 - Contenuto]]
+- ## [[3 - Ordine]]
+- ## [[4 - Persuasione]]
+- ## [[5 - Effectiveness]]
 
 
 ----
