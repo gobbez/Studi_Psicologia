@@ -16,4 +16,6 @@
 # [[Linguaggio del Corpo]]
 # [[Politica]]
 # [[Psicologia Sviluppo]]
+
+## [[Scrum]]
 # [[Studi Scientifici]]

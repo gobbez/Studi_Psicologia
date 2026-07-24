@@ -8,3 +8,8 @@ Metodologia AGILE, basata sul rugby, per creare un progetto in maniera coesa
 # [[Developers]]
 
 # [[Scrum of Scrums]]
+
+
+
+---
+[[Psicologia]]
