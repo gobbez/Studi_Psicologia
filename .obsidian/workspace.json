@@ -34,37 +34,9 @@
               "icon": "lucide-file",
               "title": "Human Connection Enginering (HCE)"
             }
-          },
-          {
-            "id": "d0aa39ab7280d727",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human Connection Enginering (HCE)/Variabili dell'Interazione.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Variabili dell'Interazione"
-            }
-          },
-          {
-            "id": "b1ef4ca302a4b19d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neuroscienze/Self-serving Bias.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Self-serving Bias"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,45 +207,45 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "b1ef4ca302a4b19d",
+  "active": "889cf07620d875d9",
   "lastOpenFiles": [
+    "Human Connection Enginering (HCE)/Variabili dell'Interazione.md",
+    "Neuroscienze/Self-serving Bias.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Tools/Tools.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Tools/Tools.md.tmp.461.24aad36a20f4",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look.md.tmp.461.da50e90b2d21",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Charms/Charms.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Charms/Charms.md.tmp.461.475acfd1b42d",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/4 - Nearness/Territorio/Territorio.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/4 - Nearness/Territorio/Territorio.md.tmp.461.741c313a1f2f",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/4 - Nearness/Envious/Envious.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/4 - Nearness/Envious/Envious.md.tmp.461.e11891216423",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/4 - Nearness/Context/Context.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/4 - Nearness/Context/Context.md.tmp.461.12e4ce62577f",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Stile/Stile.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Stile/Stile.md.tmp.461.d6736db9c7f0",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Impressione/Impressione.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Impressione/Impressione.md.tmp.461.fc19720b205c",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Colori/Colori.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Colori/Colori.md.tmp.461.2d21eb6033dd",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/2 - Condizioni/Luce/Luce.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/2 - Condizioni/Luce/Luce.md.tmp.461.cdaa5847077e",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/2 - Condizioni/Feelings/Feelings.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/2 - Condizioni/Clima/Clima.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/1 - Spazi/Shapes/Shapes.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/1 - Spazi/Materiali/Materiali.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/1 - Spazi/Layout/Layout.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/5 - Equipaggiamento.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/4 - Nearness/4 - Nearness.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/3 - Eyeful.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/2 - Condizioni/2 - Condizioni.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/1 - Spazi/1 - Spazi.md",
     "Scrum/Scrum.md",
     "Psicologia.md",
-    "Neuroscienze/Self-serving Bias.md",
     "Neuroscienze/Neuroscienze.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/3 - Impatto/Voce/Amplied Impact.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/1 - Schema/Regole/Regole.md",
-    "Human Connection Enginering (HCE)/Cards/Regole.jfif",
-    "Human Connection Enginering (HCE)/Cards/Non confermato 879066.crdownload",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/1 - Schema/Framework/Framework.md",
-    "Human Connection Enginering (HCE)/Cards/Framework.jfif",
-    "Human Connection Enginering (HCE)/Cards/Non confermato 138319.crdownload",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/1 - Schema/Abstraction/Abstraction.md",
-    "Human Connection Enginering (HCE)/Cards/Abstraction.jfif",
-    "Human Connection Enginering (HCE)/Cards/Non confermato 373912.crdownload",
-    "Human Connection Enginering (HCE)/Cards",
-    "Human Connection Enginering (HCE)/Nuova cartella",
-    "Human Connection Enginering (HCE)/Strategie Linguistico Comportamentali Cognitive (SLCC).md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/3 - Impatto/3 - Impatto.md.tmp.518.b9ac5520e462",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/3 - Impatto/Wonders/Wonders.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/3 - Impatto/Wonders/Wonders.md.tmp.518.339df7dad9ba",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/3 - Impatto/Voce/Voce.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/3 - Impatto/Umore/Umore.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/1 - Segni/Posture/Segnali di Piacere.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/1 - Segni/1 - Segni.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/1 - Segni/Posture/Posture.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/1 - Segni/Gestualità/Gestualità.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/1 - Segni/Espressione/Espressione.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Frames.md",
-    "Studi Scientifici/Studi Scientifici.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Subordination.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/3 - Team/Partnership/Partnership.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/3 - Team/Lead/Lead.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/3 - Team/Feedback/Feedback.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Phylosophy.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/lscc.png",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenze.md",
-    "Linguaggio del Corpo/Linguaggio del Corpo.md",
     "b.jpeg",
     "c.jpeg",
     "d.jpeg",
