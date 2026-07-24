@@ -19,5 +19,10 @@ L'**Endpoint** è l'obiettivo finale, il risultato desiderato o la meta verso cu
 - Comunicare l'endpoint al team per allineare gli sforzi.
 - Verificare a metà percorso se le azioni svolte puntano ancora alla meta.
 
+## Aree dell'Endpoint
+- [[Obiettivi]]: definizione chiara e motivante della meta da raggiungere.
+- [[Misure]]: indicatori e criteri per valutare il successo.
+- [[Controllo]]: monitoraggio, verifica e correzione del percorso.
+
 ## Collegamenti
 [[Intelligenza Strategica]]
