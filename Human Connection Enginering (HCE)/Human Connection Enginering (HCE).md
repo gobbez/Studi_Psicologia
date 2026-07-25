@@ -19,3 +19,6 @@ Differenza tra trasmissione di messaggi e scambio reciproco tra persone.
 
 ## [[Combo]]
 Utilizzo di diversi strumenti delle varie aree delle Intelligenze, simultaneamente per creare maggiori effetti.
+
+## [[Sistema di Apprendimento]]
+Metodo di apprendimento per memorizzare più efficacemente i concetti.
