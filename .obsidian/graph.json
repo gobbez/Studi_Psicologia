@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 0
       }
+    },
+    {
+      "query": "tag:#chimica  ",
+      "color": {
+        "a": 1,
+        "rgb": 16431359
+      }
     }
   ],
   "collapse-display": true,
@@ -57,9 +64,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "repelStrength": 9.58419958419958,
   "linkStrength": 1,
-  "linkDistance": 201,
-  "scale": 0.1846232622585796,
+  "linkDistance": 30,
+  "scale": 0.3628873693012077,
   "close": true
 }

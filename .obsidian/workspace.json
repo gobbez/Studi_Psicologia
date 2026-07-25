@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Human Connection Enginering (HCE)"
             }
+          },
+          {
+            "id": "d4727398e2dc26cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/Intelligenza Linguistica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intelligenza Linguistica"
+            }
+          },
+          {
+            "id": "046453248a3bc885",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chimica/Reazioni Chimiche.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reazioni Chimiche"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "2fc995afcab1fb4c",
@@ -209,6 +237,20 @@
   },
   "active": "8bc535a1405f914a",
   "lastOpenFiles": [
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Impressione/Impressione.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/Intelligenza Linguistica.md",
+    "Chimica/Reazioni Chimiche.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/1 - Spazi/Layout/Proxemic Violation.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy.md.tmp.1894.e9df9e717beb",
+    "Chimica/Adrenalina.md",
+    "Chimica/Adrenalina.md.tmp.1894.fc2a20cb849c",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/1 - Spazi/Layout/Proxemic Violation.md.tmp.1894.74813ad1113f",
+    "Chimica",
+    "Studi Scientifici/The Role of Colors in Stress Reduction.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/Intelligenza Ambientale.md",
+    "Psicologia Motivazione/Psicologia Motivazione.md",
+    "Human Connection Enginering (HCE)/Human Connection Enginering (HCE).md",
     "Psicologia Motivazione/Motivazione e Performance.md",
     "Psicologia Motivazione/Motivazione e Performance.md.tmp.2204.c7f2531a5251",
     "Motivazione e Performance.txt",
@@ -218,13 +260,9 @@
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/4 - Unità/Consistenza/Consistenza.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/4 - Unità/Consistenza/Consistenza.md.tmp.461.eac4b1a7de67",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/4 - Unità/Connessioni/Connessioni.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/4 - Unità/Connessioni/Connessioni.md.tmp.461.622119512ef8",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/4 - Unità/Combo/Combo.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/4 - Unità/Combo/Combo.md.tmp.461.1edfd9706afc",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/2 - Endpoint/Obiettivi/Obiettivi.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/2 - Endpoint/Obiettivi/Obiettivi.md.tmp.461.727854badeb4",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/2 - Endpoint/Misure/Misure.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/2 - Endpoint/Misure/Misure.md.tmp.461.2bf09d55ee11",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/2 - Endpoint/Controllo/Controllo.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/5 - Effectiveness/Questions/Questions.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/5 - Effectiveness/Pragmatics/Pragmatics.md",
@@ -235,16 +273,6 @@
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/3 - Ordine/Struttura/Struttura.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/3 - Ordine/Patterns/Patterns.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/3 - Ordine/3 Brains/3 Brains.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/2 - Contenuto/Storytelling/Storytelling.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/2 - Contenuto/Index/Index.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/2 - Contenuto/Accuracy/Accuracy.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/5 - Effectiveness/5 - Effectiveness.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/4 - Persuasione/4 - Persuasione.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/3 - Ordine/3 - Ordine.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/2 - Contenuto/2 - Contenuto.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/Intelligenza Emotiva.md",
-    "Psicologia delle Emozioni/Intelligenza Emotiva.md",
-    "Human Connection Enginering (HCE)/Human Connection Enginering (HCE).md",
     "Human Connection Enginering (HCE)/Corso Persuasione/lscc.png",
     "b.jpeg",
     "c.jpeg",
