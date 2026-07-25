@@ -22,7 +22,7 @@ L'**Unità** è la coesione, l'allineamento e l'unità di intenti che rende coer
 ## Aree dell'Unità
 - [[Consistenza]]: coerenza tra obiettivi, azioni, parole e valori nel tempo.
 - [[Connessioni]]: legami e flussi che tengono insieme gli elementi della strategia.
-- [[Combo]]: combinazione sinergica di risorse, competenze e azioni.
+- [[Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/4 - Unità/Combo/Combo]]: combinazione sinergica di risorse, competenze e azioni.
 
 ## Collegamenti
 [[Intelligenza Strategica]]

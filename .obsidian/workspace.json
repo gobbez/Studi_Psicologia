@@ -36,17 +36,31 @@
             }
           },
           {
-            "id": "046453248a3bc885",
+            "id": "46112224d82b2685",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimica/Reazioni Chimiche.md",
+                "file": "Human Connection Enginering (HCE)/Intelligenze/Combo/Combo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reazioni Chimiche"
+              "title": "Combo"
+            }
+          },
+          {
+            "id": "77e95c045c57259d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human Connection Enginering (HCE)/Human Connection Enginering (HCE).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Human Connection Enginering (HCE)"
             }
           }
         ],
@@ -223,10 +237,18 @@
   },
   "active": "fb4ce52c12ac7ee0",
   "lastOpenFiles": [
+    "Human Connection Enginering (HCE)/Intelligenze/Combo/Combo.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Bandwagon Effect.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Reverse Bandwagon Effect.md",
+    "Human Connection Enginering (HCE)/Human Connection Enginering (HCE).md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Attenzione/Fast Focusing.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Reverse Bandwagon Effect.md.tmp.1894.3d5aad00dec8",
+    "Human Connection Enginering (HCE)/Intelligenze/Combo",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Bandwagon Effect.md.tmp.1894.1db013d9d195",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Attenzione/Fast Focusing.md.tmp.1894.5791daf876e0",
+    "Chimica/Reazioni Chimiche.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Sound Symbolism.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Semantic Association.md",
-    "Human Connection Enginering (HCE)/Human Connection Enginering (HCE).md",
-    "Chimica/Reazioni Chimiche.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/3 - Impatto/Voce/Voce.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Sound Symbolism.md.tmp.1894.c94be521244c",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Semantic Association.md.tmp.1894.d347965c7eec",
@@ -243,10 +265,6 @@
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/Intelligenza Ambientale.md",
     "Psicologia Motivazione/Psicologia Motivazione.md",
     "Psicologia Motivazione/Motivazione e Performance.md",
-    "Psicologia Motivazione/Motivazione e Performance.md.tmp.2204.c7f2531a5251",
-    "Motivazione e Performance.txt",
-    "Lezione 21 - Motivazione e Performance.txt",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/4 - Unità/4 - Unità.md.tmp.461.e744acd87f9c",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/4 - Unità/Consistenza/Consistenza.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/4 - Unità/Connessioni/Connessioni.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/4 - Unità/Combo/Combo.md",
@@ -254,11 +272,6 @@
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/2 - Endpoint/Misure/Misure.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/2 - Endpoint/Controllo/Controllo.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/5 - Effectiveness/Questions/Questions.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/5 - Effectiveness/Pragmatics/Pragmatics.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/5 - Effectiveness/Actions/Actions.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/4 - Persuasione/Sway/Sway.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/4 - Persuasione/Rhetoric/Rhetoric.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/4 - Persuasione/Debate/Debate.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/lscc.png",
     "b.jpeg",
     "c.jpeg",

@@ -16,3 +16,6 @@ Gli input percettivi, emotivi e ambientali che il cervello processa durante ogni
 
 ## [[Comunicazione e Interazione]]
 Differenza tra trasmissione di messaggi e scambio reciproco tra persone.
+
+## [[Combo]]
+Utilizzo di diversi strumenti delle varie aree delle Intelligenze, simultaneamente per creare maggiori effetti.
