@@ -17,3 +17,5 @@ La motivazione spinge l'individuo a intraprendere e sostenere un'azione orientat
 ## [[Modello Trans-teorico]]
 
 ## [[Goal Setting]]
+
+## [[Motivazione e Performance]]
