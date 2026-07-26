@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html class="dark" lang="it">
+<head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <title>HCE Questions</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&amp;family=Inter:wght@400;600&amp;display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+    <script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "surface-variant": "#2d3449",
+              "error-container": "#93000a",
+              "primary-container": "#5d5cff",
+              "on-background": "#dae2fd",
+              "secondary-fixed-dim": "#3cddc7",
+              "secondary": "#44e2cd",
+              "on-primary-fixed": "#09006b",
+              "on-secondary-fixed": "#00201c",
+              "primary-fixed": "#e1dfff",
+              "surface-dim": "#0b1326",
+              "secondary-fixed": "#62fae3",
+              "on-surface-variant": "#c7c4d8",
+              "tertiary-container": "#9a46e9",
+              "on-tertiary-container": "#fff8fd",
+              "on-error-container": "#ffdad6",
+              "on-secondary-fixed-variant": "#005047",
+              "tertiary": "#ddb7ff",
+              "surface-container-lowest": "#060e20",
+              "surface-tint": "#c1c1ff",
+              "inverse-surface": "#dae2fd",
+              "surface-bright": "#31394d",
+              "on-primary": "#1500a8",
+              "secondary-container": "#03c6b2",
+              "tertiary-fixed": "#f0dbff",
+              "on-surface": "#dae2fd",
+              "background": "#0b1326",
+              "on-primary-container": "#fdf9ff",
+              "surface-container-low": "#131b2e",
+              "tertiary-fixed-dim": "#ddb7ff",
+              "on-secondary-container": "#004d44",
+              "surface": "#0b1326",
+              "surface-container-highest": "#2d3449",
+              "outline": "#908fa1",
+              "on-primary-fixed-variant": "#2b20d2",
+              "surface-container-high": "#222a3d",
+              "primary": "#c1c1ff",
+              "error": "#ffb4ab",
+              "on-tertiary": "#490080",
+              "primary-fixed-dim": "#c1c1ff",
+              "inverse-primary": "#4643e9",
+              "on-secondary": "#003731",
+              "on-tertiary-fixed-variant": "#6900b3",
+              "outline-variant": "#464556",
+              "inverse-on-surface": "#283044",
+              "on-tertiary-fixed": "#2c0051",
+              "on-error": "#690005",
+              "surface-container": "#171f33"
+            },
+            borderRadius: {
+              DEFAULT: "0.25rem",
+              lg: "0.5rem",
+              xl: "0.75rem",
+              full: "9999px"
+            },
+            spacing: {
+              "container-padding": "24px",
+              gutter: "16px",
+              "stack-gap": "32px",
+              unit: "8px"
+            },
+            fontFamily: {
+              "body-md": ["Inter"],
+              "label-caps": ["Inter"],
+              "headline-md": ["Montserrat"],
+              "body-lg": ["Inter"],
+              "display-lg": ["Montserrat"],
+              "display-lg-mobile": ["Montserrat"]
+            },
+            fontSize: {
+              "body-md": ["16px", {"lineHeight": "1.6", "fontWeight": "400"}],
+              "label-caps": ["12px", {"lineHeight": "1", "letterSpacing": "0.1em", "fontWeight": "600"}],
+              "headline-md": ["24px", {"lineHeight": "1.4", "fontWeight": "600"}],
+              "body-lg": ["18px", {"lineHeight": "1.6", "fontWeight": "400"}],
+              "display-lg": ["48px", {"lineHeight": "1.2", "letterSpacing": "-0.02em", "fontWeight": "700"}],
+              "display-lg-mobile": ["32px", {"lineHeight": "1.2", "fontWeight": "700"}]
+            }
+          }
+        }
+      }
+    </script>
+    <style>
+        body {
+            background-color: #0b1326;
+            margin: 0;
+            padding: 0;
+            color: #dae2fd;
+            min-height: 100vh;
+        }
+
+        .gradient-bg {
+            background: radial-gradient(circle at 20% 30%, rgba(68, 226, 205, 0.15) 0%, transparent 40%),
+                        radial-gradient(circle at 80% 70%, rgba(154, 70, 233, 0.15) 0%, transparent 40%),
+                        #0b1326;
+        }
+
+        .glass-panel {
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .option-button {
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+        }
+
+        .option-button:not(:disabled):hover {
+            background: rgba(68, 226, 205, 0.1);
+            border-color: #44e2cd;
+            box-shadow: 0 0 20px rgba(68, 226, 205, 0.2);
+            transform: translateY(-2px);
+        }
+
+        .option-button:not(:disabled):active {
+            transform: scale(0.98);
+        }
+
+        .option-button.correct {
+            background: rgba(34, 197, 94, 0.2) !important;
+            border-color: #22c55e !important;
+            box-shadow: 0 0 20px rgba(34, 197, 94, 0.35);
+            color: #86efac;
+        }
+
+        .option-button.wrong {
+            background: rgba(239, 68, 68, 0.2) !important;
+            border-color: #ef4444 !important;
+            box-shadow: 0 0 20px rgba(239, 68, 68, 0.35);
+            color: #fca5a5;
+        }
+
+        .option-button:disabled {
+            cursor: default;
+            opacity: 0.85;
+        }
+
+        .option-button:disabled:not(.correct):not(.wrong) {
+            opacity: 0.45;
+        }
+
+        .next-button {
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            background: linear-gradient(135deg, #5d5cff 0%, #9a46e9 100%);
+        }
+
+        .next-button:hover {
+            box-shadow: 0 0 25px rgba(154, 70, 233, 0.45);
+            transform: translateY(-2px);
+        }
+
+        .next-button:active {
+            transform: scale(0.98);
+        }
+
+        .fade-in {
+            animation: fadeIn 0.4s ease-out;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body class="font-body-md text-body-md gradient-bg min-h-screen flex flex-col relative">
+    <!-- Header -->
+    <header class="fixed top-0 w-full z-50 bg-surface/40 dark:bg-surface/40 backdrop-blur-xl border-b border-white/10 shadow-indigo-900/40 shadow-xl">
+        <div class="flex justify-between items-center px-container-padding py-unit max-w-[1200px] mx-auto">
+            <h1 class="font-headline-md text-headline-md font-bold text-primary dark:text-primary">HCE Questions</h1>
+            <div class="flex items-center gap-2 text-on-surface-variant/60">
+                <span class="material-symbols-outlined text-[18px]">psychology</span>
+                <span class="font-label-caps text-label-caps">Quiz Interattivo</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Quiz Container -->
+    <main class="relative z-10 w-full max-w-[1200px] px-container-padding flex items-center justify-center min-h-screen mx-auto">
+        <div class="glass-panel w-full max-w-2xl rounded-3xl p-8 md:p-12 shadow-2xl flex flex-col gap-8" id="quiz-card">
+            <!-- Progress Header -->
+            <div class="flex flex-col gap-4">
+                <div class="flex justify-between items-end">
+                    <span class="font-label-caps text-label-caps text-secondary uppercase tracking-widest" id="question-counter">Domanda 1</span>
+                    <span class="font-label-caps text-label-caps text-on-surface-variant/60" id="total-counter">Caricamento...</span>
+                </div>
+                <div class="h-1.5 w-full bg-white/5 rounded-full overflow-hidden">
+                    <div class="h-full w-0 bg-gradient-to-r from-secondary to-tertiary transition-all duration-700" id="progress-bar"></div>
+                </div>
+            </div>
+
+            <!-- Question Text -->
+            <div class="space-y-4">
+                <h2 class="font-headline-md text-headline-md md:text-display-lg-mobile text-on-surface leading-tight fade-in" id="question-text">
+                    Caricamento domanda...
+                </h2>
+            </div>
+
+            <!-- Options Grid -->
+            <div class="grid grid-cols-1 gap-4" id="options-grid">
+                <!-- Options injected by JS -->
+            </div>
+
+            <!-- Next Button -->
+            <div class="flex justify-center pt-2">
+                <button class="next-button hidden px-8 py-4 rounded-2xl font-headline-md text-headline-md text-white flex items-center gap-3" id="next-button" onclick="nextQuestion()">
+                    <span>Nuova domanda</span>
+                    <span class="material-symbols-outlined">arrow_forward</span>
+                </button>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        let questions = [];
+        let currentQuestion = null;
+        let answered = false;
+
+        async function loadQuestions() {
+            try {
+                const response = await fetch('questions.json');
+                if (!response.ok) {
+                    throw new Error('Impossibile caricare le domande');
+                }
+                questions = await response.json();
+                document.getElementById('total-counter').textContent = `${questions.length} domande disponibili`;
+                nextQuestion();
+            } catch (error) {
+                document.getElementById('question-text').textContent = 'Errore nel caricamento delle domande. Ricarica la pagina.';
+                document.getElementById('total-counter').textContent = 'Errore';
+                console.error(error);
+            }
+        }
+
+        function getRandomQuestion() {
+            if (questions.length === 0) return null;
+            let index;
+            if (questions.length === 1) {
+                index = 0;
+            } else {
+                do {
+                    index = Math.floor(Math.random() * questions.length);
+                } while (currentQuestion && questions[index] === currentQuestion);
+            }
+            return questions[index];
+        }
+
+        function renderQuestion() {
+            answered = false;
+            const q = currentQuestion;
+            const questionText = document.getElementById('question-text');
+            const optionsGrid = document.getElementById('options-grid');
+            const nextButton = document.getElementById('next-button');
+            const progressBar = document.getElementById('progress-bar');
+
+            questionText.textContent = q.question;
+            questionText.classList.remove('fade-in');
+            void questionText.offsetWidth; // trigger reflow
+            questionText.classList.add('fade-in');
+
+            optionsGrid.innerHTML = '';
+            const labels = ['A', 'B', 'C', 'D'];
+
+            q.options.forEach((option, index) => {
+                const button = document.createElement('button');
+                button.className = 'option-button group flex items-center p-6 rounded-2xl text-left';
+                button.onclick = () => handleAnswer(index, button);
+                button.innerHTML = `
+                    <span class="flex-shrink-0 w-10 h-10 rounded-full border border-white/10 bg-white/5 flex items-center justify-center mr-6 font-bold group-hover:border-secondary group-hover:text-secondary transition-all option-label">${labels[index]}</span>
+                    <span class="font-body-lg text-body-lg text-on-surface">${escapeHtml(option)}</span>
+                `;
+                optionsGrid.appendChild(button);
+            });
+
+            nextButton.classList.add('hidden');
+            progressBar.style.width = '0%';
+            document.getElementById('question-counter').textContent = 'Nuova domanda';
+        }
+
+        function handleAnswer(selectedIndex, selectedButton) {
+            if (answered) return;
+            answered = true;
+
+            const q = currentQuestion;
+            const buttons = document.querySelectorAll('.option-button');
+            const isCorrect = selectedIndex === q.correct;
+
+            buttons.forEach((btn, index) => {
+                btn.disabled = true;
+                if (index === q.correct) {
+                    btn.classList.add('correct');
+                } else if (index === selectedIndex && !isCorrect) {
+                    btn.classList.add('wrong');
+                }
+            });
+
+            const progressBar = document.getElementById('progress-bar');
+            progressBar.style.width = '100%';
+
+            const counter = document.getElementById('question-counter');
+            counter.textContent = isCorrect ? 'Risposta corretta!' : 'Risposta sbagliata';
+            counter.className = isCorrect
+                ? 'font-label-caps text-label-caps text-green-400 uppercase tracking-widest'
+                : 'font-label-caps text-label-caps text-red-400 uppercase tracking-widest';
+
+            document.getElementById('next-button').classList.remove('hidden');
+        }
+
+        function nextQuestion() {
+            currentQuestion = getRandomQuestion();
+            if (!currentQuestion) {
+                document.getElementById('question-text').textContent = 'Nessuna domanda disponibile.';
+                return;
+            }
+            document.getElementById('question-counter').className = 'font-label-caps text-label-caps text-secondary uppercase tracking-widest';
+            renderQuestion();
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // Carica le domande all'avvio
+        loadQuestions();
+    </script>
+</body>
+</html>
