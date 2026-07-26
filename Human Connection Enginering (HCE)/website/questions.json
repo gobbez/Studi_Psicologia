@@ -1,1432 +1,1432 @@
 [
   {
-    "question": "Quale concetto è descritto da: \"La ______ e l'interazione sono legate ma non coincidenti.\"?",
-    "options": [
-      "Strategie Linguistico Comportamentali Cognitive (SLCC)",
-      "Comunicazione e Interazione",
-      "Corso Persuasione",
-      "Sistema di Apprendimento"
-    ],
-    "correct": 1,
-    "source": "Comunicazione e Interazione.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"L'______ è l'area dell'Intelligenza Comportamentale che misura l'effetto prodotto dal proprio comportamento sugli altri e sul contesto. Non si tratta solo di ciò che si intende comunicare, ma di ciò che effettivamente arriva, viene percepito e genera una reazione.\"?",
-    "options": [
-      "Flessibilità",
-      "Voce",
-      "Impatto",
-      "Posture"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Comportamentale/3 - Impatto/3 - Impatto.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Il ______ è il timoniere dell'Endpoint. Nell'Intelligenza Strategica, monitorare con equilibrio significa garantire che la nave arrivi a destinazione senza perdere la rotta né soffocare l'equipaggio.\"?",
-    "options": [
-      "Consistenza",
-      "Controllo",
-      "Team",
-      "Endpoint"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Strategica/2 - Endpoint/Controllo/Controllo.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Capacità di analizzare le architetture mentali, progettare piani d'azione e prevedere gli esiti delle interazioni.\"?",
-    "options": [
-      "Exit",
-      "Misure",
-      "Piano",
-      "Intelligenza Strategica"
-    ],
-    "correct": 3,
-    "source": "Intelligenze/Intelligenza Strategica/Intelligenza Strategica.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"La ______ è la leva influenziale dell'Intelligenza Linguistica. Quando è basata su rispetto, evidenza e connessione, permette di allineare le persone verso obiettivi condivisi senza violare la loro autonomia.\"?",
-    "options": [
-      "Persuasione",
-      "Index",
-      "Intelligenza Linguistica",
-      "Effectiveness"
-    ],
-    "correct": 0,
-    "source": "Intelligenze/Intelligenza Linguistica/4 - Persuasione/4 - Persuasione.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"La ______ è la muscolatura della Sensibility. Nell'Intelligenza Emotiva, saper sopportare le emozioni forti permette di non fuggire dal contatto e di trasformare stati scomodi in opportunità di comprensione.\"?",
-    "options": [
-      "Emozioni",
-      "Tolleranza",
-      "Engagement",
-      "Fun"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Emotiva/1 - Sensibility/Tolleranza/Tolleranza.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Area dell'intelligenza linguistica che studia il significato delle parole, dei frame e dei filtri attraverso cui le persone interpretano la realtà. La ______ non riguarda solo le definizioni, ma anche gli effetti che certe parole e strutture mentali producono sul pensiero e sulle emozioni.\"?",
-    "options": [
-      "Frames",
-      "Filtri",
-      "Semantica",
-      "Contenuto"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Linguistica/1 - Semantica/1 - Semantica.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"La ______ è il motore di espansione del Learn. Nell'Intelligenza Comportamentale, chi cerca attivamente nuovi modelli e feedback non smette mai di crescere, perché ogni interazione diventa fonte di nuova conoscenza.\"?",
-    "options": [
-      "Segnali di Piacere",
-      "Reazioni",
-      "Ricerca",
-      "Memoria"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Comportamentale/4 - Learn/Ricerca/Ricerca.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Schemi cognitivi attraverso cui una persona seleziona, enfatizza o ignora informazioni in base alle proprie credenze, esperienze e stati emotivi.\"?",
-    "options": [
-      "Semantica",
-      "Intelligenza Linguistica",
-      "Debate",
-      "Filtri"
-    ],
-    "correct": 3,
-    "source": "Intelligenze/Intelligenza Linguistica/1 - Semantica/Filtri/Filtri.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"La ______ è l'antenna dell'Intelligenza Emotiva. Senza una buona percezione emotiva, ogni strategia comunicativa naviga alla cieca: per regolare le emozioni bisogna prima saperle riconoscere.\"?",
-    "options": [
-      "Drugs",
-      "Wishes",
-      "Sensibility",
-      "Stato"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Emotiva/1 - Sensibility/1 - Sensibility.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"SLCC di subordinazione: individua il modo in cui una persona si posiziona rispetto all'autorità e al comando, distinguendo due profili linguistico-comportamentali.\"?",
-    "options": [
-      "Drugs",
-      "Sway",
-      "Voce",
-      "Subordination"
-    ],
-    "correct": 3,
-    "source": "Corso Persuasione/Subordination.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Il ______ è l'area dell'Intelligenza Comportamentale che riguarda l'apprendimento continuo dall'esperienza, il feedback e l'adattamento. È la capacità di usare ogni interazione come fonte di informazione per migliorare il proprio comportamento futuro.\"?",
-    "options": [
-      "Learn",
-      "Posture",
-      "Reward",
-      "Flessibilità"
-    ],
-    "correct": 0,
-    "source": "Intelligenze/Intelligenza Comportamentale/4 - Learn/4 - Learn.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"L'______ è l'area dell'Eyeful che studia l'impatto visivo complessivo e la prima percezione che un ambiente o una persona lascia. Non è la somma dei singoli elementi, ma il giudizio istantaneo che il cervello forma nel primo secondo di osservazione.\"?",
-    "options": [
-      "Proxemic Violation",
-      "Spazi",
-      "Feelings",
-      "Impressione"
-    ],
-    "correct": 3,
-    "source": "Intelligenze/Intelligenza Ambientale/3 - Eyeful/Impressione/Impressione.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Il ______ è il sale della Sociability. Nell'Intelligenza Emotiva, saper creare piacere e leggerezza rende le relazioni non solo utili, ma anche desiderabili e memorabili.\"?",
-    "options": [
-      "Drugs",
-      "Emozioni",
-      "Wishes",
-      "Fun"
-    ],
-    "correct": 3,
-    "source": "Intelligenze/Intelligenza Emotiva/4 - Sociability/Fun/Fun.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"L'______ è l'obiettivo finale, il risultato desiderato o la meta verso cui converge l'azione strategica. Nell'Intelligenza Strategica, definire l'endpoint significa essere chiari su cosa si vuole ottenere, in che forma e con quali criteri di successo.\"?",
-    "options": [
-      "Framework",
-      "Intelligenza Strategica",
-      "Sistemi di Riferimento",
-      "Endpoint"
-    ],
-    "correct": 3,
-    "source": "Intelligenze/Intelligenza Strategica/2 - Endpoint/2 - Endpoint.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"I ______ sono lo specchio sociale della Sociability. Nell'Intelligenza Emotiva, comprendere la dinamica con i pari significa sapere quando il gruppo sostiene e quando invece limita, scegliendo consapevolmente le proprie influenze.\"?",
-    "options": [
-      "Stato",
-      "Fast Focusing",
-      "Peers",
-      "Self-serving Bias"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Emotiva/4 - Sociability/Peers/Peers.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"L'______ è l'area dell'Intelligenza Linguistica che riguarda l'efficacia pratica del linguaggio: il suo impatto reale sul comportamento e sul contesto. Non conta solo ciò che si intende dire, ma ciò che l'altro fa dopo aver ascoltato.\"?",
-    "options": [
-      "Intelligenza Linguistica",
-      "Patterns",
-      "Effectiveness",
-      "Actions"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Linguistica/5 - Effectiveness/5 - Effectiveness.md"
-  },
-  {
     "question": "Quale concetto è descritto da: \"Il ______ è una leva strategica fondamentale. Fa parte dell'Intelligenza Strategica perché richiede di leggere il contesto e prevedere reazioni; fa parte dell'area Piano perché decide quando ogni step deve essere attivato. Una buona strategia con un cattivo timing fallisce; un'azione modesta al momento giusto può avere un impatto enorme.\"?",
     "options": [
-      "Controllo",
-      "Abstraction",
+      "Team",
       "Timing",
-      "Endpoint"
+      "Piano",
+      "Obiettivi"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Strategica/5 - Piano/Timing/Timing.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Le ______ sono il risultato visibile dell'Effectiveness. Nell'Intelligenza Linguistica, una comunicazione che non genera azione può essere bella, ma resta inefficace: le parole trovano il loro senso nel fare.\"?",
+    "options": [
+      "Actions",
+      "3 Brains",
+      "Effectiveness",
+      "Accuracy"
+    ],
+    "correct": 0,
+    "source": "Intelligenze/Intelligenza Linguistica/5 - Effectiveness/Actions/Actions.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Nell'Intelligenza Strategica, lo ______ è la rappresentazione mentale, la mappa cognitiva o il modello attraverso cui una persona legge, organizza e interpreta la realtà prima di agire. Non è semplicemente un piano o un diagramma, ma l'architettura di pensiero che determina quali informazioni vengono selezionate, quali connessioni vengono attivate e quali decisioni appaiono possibili.\"?",
+    "options": [
+      "Framework",
+      "Controllo",
+      "Exit",
+      "Schema"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Strategica/1 - Schema/1 - Schema.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Le ______ sono l'ossatura del Mindset. Nell'Intelligenza Comportamentale, curare le proprie abitudini significa decidere quali comportamenti automatici ci servono e quali invece ostacolano la relazione che vogliamo costruire.\"?",
+    "options": [
+      "Mindset",
+      "Posture",
+      "Abitudini",
+      "Impatto"
     ],
     "correct": 2,
-    "source": "Intelligenze/Intelligenza Strategica/5 - Piano/Timing/Timing.md"
+    "source": "Intelligenze/Intelligenza Comportamentale/2 - Mindset/Abitudini/Abitudini.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"L'______ è l'area della Nearness che studia gli elementi di desiderabilità, aspirazione e status che creano o riducono distanza sociale. Ciò che gli altri desiderano attira, ma può anche allontanare se percepito come inaccessibile.\"?",
+    "options": [
+      "Envious",
+      "Luce",
+      "Clima",
+      "Look"
+    ],
+    "correct": 0,
+    "source": "Intelligenze/Intelligenza Ambientale/4 - Nearness/Envious/Envious.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"L'______ è l'area dei Segni che studia come il volto, lo sguardo e le microespressioni comunicano stati interni, intenzioni e reazioni. Nell'Intelligenza Comportamentale, l'espressione facciale è uno dei canali più rapidi e universali attraverso cui le persone trasmettono informazioni emotive.\"?",
+    "options": [
+      "Posture",
+      "Espressione",
+      "Reazioni",
+      "Abitudini"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Comportamentale/1 - Segni/Espressione/Espressione.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Capacità di usare il comportamento, la postura, i gesti, i toni, volumi e le abitudini per comunicare in modo coerente ed efficace.\"?",
+    "options": [
+      "Reazioni",
+      "Intelligenza Comportamentale",
+      "Voce",
+      "Segni"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Comportamentale/Intelligenza Comportamentale.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è l'insieme delle persone coinvolte nella realizzazione della strategia. Nell'Intelligenza Strategica, analizzare il team significa comprendere chi partecipa, quali ruoli ricopre, quali dinamiche si attivano e come le diverse intelligenze si combinano.\"?",
+    "options": [
+      "Misure",
+      "Endpoint",
+      "Team",
+      "Timing"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Strategica/3 - Team/3 - Team.md"
   },
   {
     "question": "Quale concetto è descritto da: \"I ______ sono le estensioni pratiche dell'Equipaggiamento. Nell'Intelligenza Ambientale, scegliere e padroneggiare gli strumenti giusti significa dimostrare competenza, supportare il contenuto e liberare energia per la relazione.\"?",
     "options": [
-      "Proxemic Violation",
-      "Context",
       "Look",
+      "Impressione",
+      "Territorio",
       "Tools"
     ],
     "correct": 3,
     "source": "Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Tools/Tools.md"
   },
   {
-    "question": "Quale concetto è descritto da: \"Le ______ sono il risultato visibile dell'Effectiveness. Nell'Intelligenza Linguistica, una comunicazione che non genera azione può essere bella, ma resta inefficace: le parole trovano il loro senso nel fare.\"?",
+    "question": "Quale concetto è descritto da: \"Modello SCALE (Modello SCALE) delle cinque intelligenze di HCE, descritto da Paolo Borzacchiello in HCE. La scienza delle interazioni umane (Gribaudo, 2020). Ogni ______ rappresenta un canale attraverso cui le persone elaborano, comunicano e influenzano le interazioni.\"?",
     "options": [
-      "Semantica",
-      "Functional Priming",
+      "Accuracy",
       "Actions",
-      "Debate"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Linguistica/5 - Effectiveness/Actions/Actions.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Capacità di percepire, scegliere e modificare il contesto fisico per favorire interazioni efficaci.\"?",
-    "options": [
-      "Layout",
-      "Clima",
-      "Intelligenza Ambientale",
-      "Equipaggiamento"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Ambientale/Intelligenza Ambientale.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"L'______ è la coesione, l'allineamento e l'unità di intenti che rende coerente l'azione strategica. Nell'Intelligenza Strategica, l'unità non significa uniformità, ma armonia tra obiettivi, valori, parole e comportamenti di tutte le persone coinvolte.\"?",
-    "options": [
       "Intelligenza Strategica",
-      "Connessioni",
-      "Partnership",
-      "Unità"
+      "Amplied Impact"
     ],
-    "correct": 3,
-    "source": "Intelligenze/Intelligenza Strategica/4 - Unità/4 - Unità.md"
+    "correct": 2,
+    "source": "Intelligenze/Intelligenze.md"
   },
   {
-    "question": "Quale concetto è descritto da: \"La ______ è la rete nascosta del significato. Nei Frames dell'Intelligenza Linguistica, saperla usare significa comprendere che ogni parola tira con sé un intero mondo di idee: scegliere le parole giuste è scegliere i frame che si vogliono attivare.\"?",
+    "question": "Quale concetto è descritto da: \"I ______ sono i dettagli che parlano. Nell'Equipaggiamento dell'Intelligenza Ambientale, saper scegliere e curare i piccoli oggetti significa comunicare con precisione chi siamo, cosa amiamo e a chi apparteniamo.\"?",
     "options": [
-      "Contenuto",
-      "Pragmatics",
-      "Sound Symbolism",
-      "Semantic Association"
-    ],
-    "correct": 3,
-    "source": "Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Semantic Association.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Il ______ è il bias della distinzione. Nell'Intelligenza Emotiva, riconoscerlo permette di capire quando stiamo respingendo qualcosa per autentica preferenza o solo per non essere come gli altri. Usarlo consapevolmente significa costruire identità senza cadere nell'opposizione fine a sé stessa.\"?",
-    "options": [
-      "Bias",
-      "Reverse Bandwagon Effect",
-      "Bandwagon Effect",
-      "Self-serving Bias"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Reverse Bandwagon Effect.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"I ______ si riferiscono alla posizione dalla quale osservare lo svolgimento dell'interazione.\"?",
-    "options": [
-      "Sistemi di Riferimento",
-      "Controllo",
-      "Piano",
-      "Unità"
-    ],
-    "correct": 0,
-    "source": "Intelligenze/Intelligenza Strategica/Sistemi di Riferimento.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"I ______ sono la faccia ombra dei Needs. Nell'Intelligenza Emotiva, riconoscerli significa vedere quali bisogni emotivi non stanno trovando soddisfazione salubre e decidere di curarli alla radice.\"?",
-    "options": [
-      "Etics",
-      "Drugs",
-      "Bias",
-      "Fast Focusing"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Emotiva/3 - Needs/Drugs/Drugs.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Tecnica linguistica e semantica che usa parole, frame e immagini per attivare inconsciamente funzioni cognitive, emozionali o comportamentali specifiche nell'interlocutore. L'obiettivo è preparare il cervello a processare l'informazione in una certa direzione prima che la richiesta o il contenuto principale venga espresso.\"?",
-    "options": [
-      "Functional Priming",
-      "Contenuto",
-      "Sound Symbolism",
-      "Persuasione"
-    ],
-    "correct": 0,
-    "source": "Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Functional Priming.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Il ______ è la cartografia dei confini nella Nearness. Nell'Intelligenza Ambientale, rispettare e gestire i territori significa sapere dove finisce l'altro e dove iniziamo noi, evitando invasioni e costruendo rispetto.\"?",
-    "options": [
-      "Territorio",
-      "Impressione",
       "Feelings",
-      "Spazi"
-    ],
-    "correct": 0,
-    "source": "Intelligenze/Intelligenza Ambientale/4 - Nearness/Territorio/Territorio.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"L'______ è l'area dell'Intelligenza Ambientale che studia l'impatto visivo complessivo dell'ambiente: ciò che colpisce gli occhi e costruisce la prima impressione. Include colori, forme, stili, ordine, contrasti e dettagli estetici che comunicano prima ancora delle parole.\"?",
-    "options": [
-      "Impressione",
-      "Eyeful",
-      "Proxemic Violation",
-      "Envious"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Ambientale/3 - Eyeful/3 - Eyeful.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"La ______ è il regista invisibile delle Condizioni. Nell'Intelligenza Ambientale, controllare la luce significa guidare l'attenzione, modellare l'umore e decidere quale parte di noi e dell'ambiente debba emergere.\"?",
-    "options": [
-      "Look Dichotomy",
-      "Proxemic Violation",
-      "Luce",
-      "Impressione"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Ambientale/2 - Condizioni/Luce/Luce.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"La ______ è l'area dei Segni che studia i movimenti del corpo, in particolare delle mani e delle braccia, come strumento di comunicazione non verbale. Nell'Intelligenza Comportamentale, i gesti amplificano, illustrano o sostituiscono il messaggio verbale.\"?",
-    "options": [
-      "Amplied Impact",
-      "Gestualità",
-      "Segni",
-      "Play"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Comportamentale/1 - Segni/Gestualità/Gestualità.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"L'______ è l'area del Piano che si occupa della gestione strategica dell'uscita da una situazione, un progetto, una trattativa o una relazione. Nell'ambito dell'Intelligenza Strategica, l'Exit non è soltanto la conclusione di un percorso, ma una fase critica che decide se gli obiettivi raggiunti vengono consolidati, se le risorse vengono preservate e se le relazioni restano integre.\"?",
-    "options": [
-      "Combo",
-      "Abstraction",
-      "Exit",
-      "Connessioni"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Strategica/5 - Piano/Exit/Exit.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"La ______ è la cassetta degli attrezzi della Persuasione. Nell'Intelligenza Linguistica, padroneggiare la retorica significa saper dare peso, bellezza e forza alle proprie parole, sempre al servizio di un contenuto vero.\"?",
-    "options": [
-      "3 Brains",
-      "Rhetoric",
-      "Filtri",
-      "Contenuto"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Linguistica/4 - Persuasione/Rhetoric/Rhetoric.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Lo ______ è il quadro emotivo del momento. Nelle Emozioni dell'Intelligenza Emotiva, sapere leggere e regolare il proprio e altrui stato significa navigare le interazioni con maggiore consapevolezza ed efficacia.\"?",
-    "options": [
-      "Needs",
-      "Emozioni",
-      "Attenzione",
-      "Stato"
-    ],
-    "correct": 3,
-    "source": "Intelligenze/Intelligenza Emotiva/5 - Emozioni/Stato/Stato.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"L'______ è l'area dello Schema che si occupa di sollevarsi dai dettagli concreti per individuare pattern, principi e strutture generali. Nell'Intelligenza Strategica, l'astrazione permette di leggere la \"forma\" di una situazione oltre i suoi contenuti specifici.\"?",
-    "options": [
-      "Intelligenza Strategica",
-      "Abstraction",
-      "Sistemi di Riferimento",
-      "Piano"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Strategica/1 - Schema/Abstraction/Abstraction.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Il ______ è il sistema nervoso del Team. Senza feedback, il team agisce alla cieca; con un feedback ben gestito, diventa un organismo in grado di apprendere e adattarsi continuamente.\"?",
-    "options": [
-      "Exit Planning",
-      "Feedback",
-      "Endpoint",
-      "Regole"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Strategica/3 - Team/Feedback/Feedback.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"La ______ è il database del Learn. Nell'Intelligenza Comportamentale, una buona memoria delle persone, delle situazioni e delle proprie risposte permette di affrontare ogni interazione con maggiore consapevolezza e adattamento.\"?",
-    "options": [
-      "Segni",
-      "Learn",
-      "Amplied Impact",
-      "Memoria"
-    ],
-    "correct": 3,
-    "source": "Intelligenze/Intelligenza Comportamentale/4 - Learn/Memoria/Memoria.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"I ______ sono la gerarchia dell'Ordine. Nell'Intelligenza Linguistica, strutturare il discorso per toccare istinto, emozione e ragione significa parlare a tutta la persona, non solo a una parte.\"?",
-    "options": [
-      "Actions",
-      "3 Brains",
-      "Contenuto",
-      "Sound Symbolism"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Linguistica/3 - Ordine/3 Brains/3 Brains.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Le ______ sono il vocabolario geometrico degli spazi. Nell'Intelligenza Ambientale, le forme scelte non riempiono solo l'ambiente: lo fanno parlare, orientando emozioni e comportamenti attraverso la geometria.\"?",
-    "options": [
-      "Luce",
-      "Shapes",
-      "Proxemic Violation",
-      "Stile"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Ambientale/1 - Spazi/Shapes/Shapes.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"La ______ è l'area del Team che riguarda la costruzione e la gestione di alleanze strategiche con altre persone, gruppi o organizzazioni. Nell'Intelligenza Strategica, la partnership permette di moltiplicare risorse, competenze e opportunità attraverso la collaborazione.\"?",
-    "options": [
-      "Timing",
-      "Partnership",
-      "Framework",
-      "Team"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Strategica/3 - Team/Partnership/Partnership.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Nell'Intelligenza Strategica, lo ______ è la rappresentazione mentale, la mappa cognitiva o il modello attraverso cui una persona legge, organizza e interpreta la realtà prima di agire. Non è semplicemente un piano o un diagramma, ma l'architettura di pensiero che determina quali informazioni vengono selezionate, quali connessioni vengono attivate e quali decisioni appaiono possibili.\"?",
-    "options": [
-      "Schema",
-      "Sistemi di Riferimento",
-      "Misure",
-      "Unità"
-    ],
-    "correct": 0,
-    "source": "Intelligenze/Intelligenza Strategica/1 - Schema/1 - Schema.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Sono dei ______ non verbali di gradimento. \nSi dividono in:\n## Movimenti Posturali\nAvanzamento posturale: ridurre la distanza fisica con l'interlocutore (indicatore di piacere).\n## Spazio visivo\nSpostare eventuali oggetti per liberare la visuale con l'interlocutore.\n## Sorriso\nSe la persona che ascolta sorride è un indicatore di piacere.\"?",
-    "options": [
-      "Intelligenza Comportamentale",
-      "Reazioni",
-      "Segnali di Piacere",
-      "Reward"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Comportamentale/1 - Segni/Posture/Segnali di Piacere.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Gli ______ sono la scenografia silenziosa dell'interazione. Nell'Intelligenza Ambientale, saper leggere e progettare uno spazio significa influenzare il comportamento prima ancora che inizi la conversazione.\"?",
-    "options": [
-      "Spazi",
       "Charms",
-      "Proxemic Violation",
-      "Tools"
-    ],
-    "correct": 0,
-    "source": "Intelligenze/Intelligenza Ambientale/1 - Spazi/1 - Spazi.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"L'______ è l'area delle Emozioni che riguarda il coinvolgimento emotivo e la connessione attiva con l'altro. È la capacità di essere presenti, interessati e partecipi nella relazione.\"?",
-    "options": [
-      "Self-serving Bias",
-      "Engagement",
-      "Bandwagon Effect",
-      "Satisfaction"
+      "Tools",
+      "Materiali"
     ],
     "correct": 1,
-    "source": "Intelligenze/Intelligenza Emotiva/5 - Emozioni/Engagement/Engagement.md"
+    "source": "Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Charms/Charms.md"
   },
   {
-    "question": "Quale concetto è descritto da: \"Il ______ è la fucina del Learn. Nell'Intelligenza Comportamentale, solo attraverso la pratica ripetuta le nuove competenze passano dalla teoria alla natura, rendendo efficaci anche sotto pressione.\"?",
+    "question": "Quale concetto è descritto da: \"Lo ______ è l'anima narrativa del Contenuto. Nell'Intelligenza Linguistica, raccontare bene significa trasformare idee in esperienze che l'ascoltatore può vedere, sentire e ricordare.\"?",
     "options": [
-      "Reazioni",
-      "Training",
-      "Ricerca",
-      "Gestualità"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Comportamentale/4 - Learn/Training/Training.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"L'______ è l'area dell'Intelligenza Linguistica che riguarda la struttura, la sequenza e l'organizzazione del linguaggio. Come le idee sono disposte influenza ciò che l'ascoltatore capisce, ricorda e fa.\"?",
-    "options": [
-      "Actions",
-      "Index",
-      "Ordine",
-      "Sway"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Linguistica/3 - Ordine/3 - Ordine.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Le ______ sono l'utilizzo di diversi strumenti delle varie aree delle Intelligenze, simultaneamente per creare maggiori effetti.\"?",
-    "options": [
-      "Amplied Impact",
-      "Materiali",
-      "Combo",
-      "Stato"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Combo/Combo.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Capacità di scegliere e usare le parole, le strutture e i pattern linguistici più adatti per influenzare, ispirare e costruire senso.\"?",
-    "options": [
-      "Pragmatics",
       "Struttura",
-      "Patterns",
-      "Intelligenza Linguistica"
-    ],
-    "correct": 3,
-    "source": "Intelligenze/Intelligenza Linguistica/Intelligenza Linguistica.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"I ______ sono l'anima emotiva delle Condizioni. Nell'Intelligenza Ambientale, progettare i feelings significa curare ciò che l'ambiente fa sentire, perché nessuno ascolta bene quando l'atmosfera lo mette in difesa.\"?",
-    "options": [
-      "Charms",
-      "Tools",
-      "Feelings",
-      "Spazi"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Ambientale/2 - Condizioni/Feelings/Feelings.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Le ______ sono la bussola numerica dell'Endpoint. Nell'Intelligenza Strategica, misurare bene significa tradurre un obiettivo astratto in traguardi concreti che indicano se si sta davvero arrivando dove si desidera.\"?",
-    "options": [
-      "Misure",
-      "Framework",
-      "Unità",
-      "Abstraction"
-    ],
-    "correct": 0,
-    "source": "Intelligenze/Intelligenza Strategica/2 - Endpoint/Misure/Misure.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"L'______ è l'area dell'Impatto che studia lo stato emotivo trasmesso e attivato durante un'interazione. Nell'Intelligenza Comportamentale, l'umore funziona come un campo emotivo: influenza come le persone ricevono il messaggio, quanto sono disponibili e quali decisioni prendono.\"?",
-    "options": [
-      "Voce",
-      "Execute",
-      "Umore",
-      "Memoria"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Comportamentale/3 - Impatto/Umore/Umore.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Primo livello del Corso Persuasione: pattern linguistici e ______ che agiscono a livello cognitivo per orientare l'attenzione, le emozioni e le decisioni dell'interlocutore.\"?",
-    "options": [
-      "Algoritmi Linguistici",
-      "Sistema di Apprendimento",
-      "Comunicazione e Interazione",
-      "Strategie Linguistico Comportamentali Cognitive (SLCC)"
-    ],
-    "correct": 3,
-    "source": "Strategie Linguistico Comportamentali Cognitive (SLCC).md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"In ogni interazione umana il cervello processa simultaneamente molteplici input per costruire un significato relazionale. Queste ______ influenzano percezione, emozione e decisione prima ancora delle parole.\"?",
-    "options": [
-      "Corso Persuasione",
-      "Comunicazione e Interazione",
-      "Variabili dell'Interazione",
-      "Scienza dell'Apparenza"
-    ],
-    "correct": 2,
-    "source": "Variabili dell'Interazione.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"L'______ è l'area della Sensibility che riguarda la capacità di focalizzarsi consapevolmente sulle proprie emozioni e sui segnali emotivi altrui. Senza attenzione, le emozioni passano inosservate e non possono essere regolate.\"?",
-    "options": [
-      "Attenzione",
-      "Satisfaction",
-      "Wishes",
-      "Fast Focusing"
-    ],
-    "correct": 0,
-    "source": "Intelligenze/Intelligenza Emotiva/1 - Sensibility/Attenzione/Attenzione.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Il ______ è la chiave di lettura della Nearness. Nell'Intelligenza Ambientale, comprendere il contesto significa sapere quando la distanza è un ponte e quando è una violazione.\"?",
-    "options": [
-      "Clima",
-      "Colori",
-      "Impressione",
-      "Context"
-    ],
-    "correct": 3,
-    "source": "Intelligenze/Intelligenza Ambientale/4 - Nearness/Context/Context.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Il ______ è la radice etica dell'Intelligenza Emotiva. Curare il proprio benessere non è egoismo: è la condizione per poter essere presenti, lucidi e generosi nelle relazioni con gli altri.\"?",
-    "options": [
-      "Wishes",
-      "Wellness",
-      "Sociability",
-      "Introspezione"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Emotiva/2 - Etics/Wellness/Wellness.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Il ______ è l'area dello Schema che riguarda le strutture di pensiero, i modelli operativi e gli schemi decisionali usati per organizzare informazioni e guidare l'azione. Nell'Intelligenza Strategica, un framework è uno \"scheletro\" mentale che rende ripetibile e condivisibile il modo di affrontare una situazione.\"?",
-    "options": [
-      "Framework",
-      "Obiettivi",
-      "Exit Planning",
-      "Team"
-    ],
-    "correct": 0,
-    "source": "Intelligenze/Intelligenza Strategica/1 - Schema/Framework/Framework.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Le ______ sono il punto in cui il Mindset diventa visibile. Nell'Intelligenza Comportamentale, imparare a reagire consapevolmente significa trasformare ogni stimolo in un'opportunità di risposta strategica, invece che in un riflesso automatico.\"?",
-    "options": [
-      "Mindset",
-      "Reazioni",
-      "Impatto",
-      "Flessibilità"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Comportamentale/2 - Mindset/Reazioni/Reazioni.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"I ______ sono il carburante emotivo delle relazioni. Nell'Intelligenza Emotiva, saper riconoscere e gestire i bisogni propri e altrui significa capire cosa muove realmente le persone e come costruire accordi sostenibili.\"?",
-    "options": [
-      "Stato",
-      "Engagement",
-      "Needs",
-      "Emozioni"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Emotiva/3 - Needs/3 - Needs.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Le ______ sono il quadro entro cui si collocano tutti gli altri segnali. Nei Segni dell'Intelligenza Comportamentale, una postura consapevole comunica prima ancora delle parole chi siamo, che ruolo occupiamo e come ci rapportiamo agli altri.\"?",
-    "options": [
-      "Ricerca",
-      "Play",
-      "Posture",
-      "Segnali di Piacere"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Comportamentale/1 - Segni/Posture/Posture.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"L'______ è l'area della Nearness che studia gli elementi di desiderabilità, aspirazione e status che creano o riducono distanza sociale. Ciò che gli altri desiderano attira, ma può anche allontanare se percepito come inaccessibile.\"?",
-    "options": [
-      "Stile",
-      "Equipaggiamento",
-      "Envious",
-      "Luce"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Ambientale/4 - Nearness/Envious/Envious.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Il ______ è l'acceleratore dell'Attenzione. Nell'Intelligenza Emotiva, saper rientrare rapidamente in uno stato di presenza consapevole significa gestire meglio sé stessi, le conversazioni e le prestazioni, trasformando la dispersione in direzione.\"?",
-    "options": [
-      "Empathy",
-      "Fast Focusing",
-      "Valori",
-      "Emozioni"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Emotiva/1 - Sensibility/Attenzione/Fast Focusing.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Il ______ è l'insieme delle persone coinvolte nella realizzazione della strategia. Nell'Intelligenza Strategica, analizzare il team significa comprendere chi partecipa, quali ruoli ricopre, quali dinamiche si attivano e come le diverse intelligenze si combinano.\"?",
-    "options": [
-      "Sistemi di Riferimento",
-      "Endpoint",
-      "Team",
-      "Schema"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Strategica/3 - Team/3 - Team.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Il ______ è il rinforzo dell'Execute. Nell'Intelligenza Comportamentale, saper gratificare sé stessi e gli altri significa rendere l'azione desiderabile, sostenibile e memorabile, trasformando lo sforzo in progresso.\"?",
-    "options": [
-      "Flessibilità",
-      "Reward",
-      "Intelligenza Comportamentale",
-      "Training"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Comportamentale/5 - Execute/Reward/Reward.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Primo ______ di Human Connection Engineering, dedicato alle tecniche linguistiche e comportamentali per esercitare un'influenza etica sulle persone. Si articola su tre livelli.\"?",
-    "options": [
       "3 Brains",
-      "Timing",
-      "Corso Persuasione",
-      "Stile"
+      "Storytelling",
+      "Index"
     ],
     "correct": 2,
-    "source": "Corso Persuasione/Corso Persuasione.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Gli ______ sono la destinazione dell'Endpoint. Nell'Intelligenza Strategica, definire obiettivi chiari e condivisi è il primo passo per trasformare intenzioni in risultati concreti.\"?",
-    "options": [
-      "Feedback",
-      "Schema",
-      "Obiettivi",
-      "Abstraction"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Strategica/2 - Endpoint/Obiettivi/Obiettivi.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"L'______ è l'area dell'Intelligenza Comportamentale che riguarda la messa in pratica, l'esecuzione concreta dei comportamenti scelti. È il passaggio dalla consapevolezza e dalla pianificazione all'azione reale nel contesto relazionale.\"?",
-    "options": [
-      "Espressione",
-      "Execute",
-      "Amplied Impact",
-      "Challenge"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Comportamentale/5 - Execute/5 - Execute.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"SLCC di orientamento filosofico: individua il modo in cui una persona elabora il senso e l'applicazione di un'idea, distinguendo due profili cognitivo-comunicativi.\"?",
-    "options": [
-      "Subordination",
-      "Tools",
-      "Strategie Linguistico Comportamentali Cognitive (SLCC)",
-      "Phylosophy"
-    ],
-    "correct": 3,
-    "source": "Corso Persuasione/Phylosophy.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Lo ______ è l'influenza gentile della Persuasione. Nell'Intelligenza Linguistica, saper spostare l'orientamento altrui significa guidare con delicatezza, rispettando la libertà dell'altro pur orientando la conversazione.\"?",
-    "options": [
-      "Patterns",
-      "Functional Priming",
-      "Sway",
-      "Rhetoric"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Linguistica/4 - Persuasione/Sway/Sway.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Gli ______ sono il cuore operativo del Piano. Senza una sequenza chiara di passi, l'Intelligenza Strategica rimane a livello di intenzione. Una buona serie di Steps rende la strategia concreta, misurabile e realizzabile.\"?",
-    "options": [
-      "Obiettivi",
-      "Steps",
-      "Combo",
-      "Exit"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Strategica/5 - Piano/Steps/Steps.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Il ______ è la base fisiologica del comfort. Nelle Condizioni dell'Intelligenza Ambientale, gestire temperatura e aria significa prendersi cura del corpo dell'interlocutore, predisponendolo a un'incontro più aperto e produttivo.\"?",
-    "options": [
-      "Spazi",
-      "Eyeful",
-      "Colori",
-      "Clima"
-    ],
-    "correct": 3,
-    "source": "Intelligenze/Intelligenza Ambientale/2 - Condizioni/Clima/Clima.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"L'______ è l'area dei Segni che studia come il volto, lo sguardo e le microespressioni comunicano stati interni, intenzioni e reazioni. Nell'Intelligenza Comportamentale, l'espressione facciale è uno dei canali più rapidi e universali attraverso cui le persone trasmettono informazioni emotive.\"?",
-    "options": [
-      "Amplied Impact",
-      "Espressione",
-      "Reward",
-      "Umore"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Comportamentale/1 - Segni/Espressione/Espressione.md"
+    "source": "Intelligenze/Intelligenza Linguistica/2 - Contenuto/Storytelling/Storytelling.md"
   },
   {
     "question": "Quale concetto è descritto da: \"Il ______ è l'architettura relazionale di uno spazio. Negli Spazi dell'Intelligenza Ambientale, disporre gli elementi con intenzione significa progettare le dinamiche sociali prima che le persone si siedano.\"?",
     "options": [
       "Stile",
       "Layout",
-      "Look",
-      "Charms"
+      "Shapes",
+      "Spazi"
     ],
     "correct": 1,
     "source": "Intelligenze/Intelligenza Ambientale/1 - Spazi/Layout/Layout.md"
   },
   {
-    "question": "Quale concetto è descritto da: \"Il ______ è il cuore informativo dell'Intelligenza Linguistica. Senza contenuto di valore, anche la forma più elegante risuona vuota: parole ben scelte devono trasportare idee che meritano di essere ascoltate.\"?",
+    "question": "Quale concetto è descritto da: \"Tecnica che consente di amplificare il pathos, l'attesa prima di comunicare un qualcosa di importante, generando molto più interesse e ricordo negli interlocutori.\"?",
     "options": [
-      "Sway",
-      "Actions",
-      "Functional Priming",
-      "Contenuto"
+      "Posture",
+      "Voce",
+      "Amplied Impact",
+      "Umore"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Comportamentale/3 - Impatto/Voce/Amplied Impact.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è l'area dello Schema che riguarda le strutture di pensiero, i modelli operativi e gli schemi decisionali usati per organizzare informazioni e guidare l'azione. Nell'Intelligenza Strategica, un framework è uno \"scheletro\" mentale che rende ripetibile e condivisibile il modo di affrontare una situazione.\"?",
+    "options": [
+      "Team",
+      "Connessioni",
+      "Timing",
+      "Framework"
     ],
     "correct": 3,
-    "source": "Intelligenze/Intelligenza Linguistica/2 - Contenuto/2 - Contenuto.md"
+    "source": "Intelligenze/Intelligenza Strategica/1 - Schema/Framework/Framework.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"I ______ sono il ritmo dell'Ordine. Nell'Intelligenza Linguistica, saper usare gli schemi significa guidare l'orecchio e la mente dell'ascoltatore, rendendo il messaggio più musicale e memorabile.\"?",
+    "options": [
+      "Semantic Association",
+      "Contenuto",
+      "Sound Symbolism",
+      "Patterns"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Linguistica/3 - Ordine/Patterns/Patterns.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è la cartografia dei confini nella Nearness. Nell'Intelligenza Ambientale, rispettare e gestire i territori significa sapere dove finisce l'altro e dove iniziamo noi, evitando invasioni e costruendo rispetto.\"?",
+    "options": [
+      "Clima",
+      "Equipaggiamento",
+      "Territorio",
+      "Context"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Ambientale/4 - Nearness/Territorio/Territorio.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"L'______ è l'area dell'Intelligenza Linguistica che riguarda l'efficacia pratica del linguaggio: il suo impatto reale sul comportamento e sul contesto. Non conta solo ciò che si intende dire, ma ciò che l'altro fa dopo aver ascoltato.\"?",
+    "options": [
+      "Rhetoric",
+      "Effectiveness",
+      "Sway",
+      "Actions"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Linguistica/5 - Effectiveness/5 - Effectiveness.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è il rinforzo dell'Execute. Nell'Intelligenza Comportamentale, saper gratificare sé stessi e gli altri significa rendere l'azione desiderabile, sostenibile e memorabile, trasformando lo sforzo in progresso.\"?",
+    "options": [
+      "Gestualità",
+      "Segnali di Piacere",
+      "Challenge",
+      "Reward"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Comportamentale/5 - Execute/Reward/Reward.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"La ______ è il regista invisibile delle Condizioni. Nell'Intelligenza Ambientale, controllare la luce significa guidare l'attenzione, modellare l'umore e decidere quale parte di noi e dell'ambiente debba emergere.\"?",
+    "options": [
+      "Shapes",
+      "Luce",
+      "Clima",
+      "Spazi"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Ambientale/2 - Condizioni/Luce/Luce.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"La ______ è la rete nascosta del significato. Nei Frames dell'Intelligenza Linguistica, saperla usare significa comprendere che ogni parola tira con sé un intero mondo di idee: scegliere le parole giuste è scegliere i frame che si vogliono attivare.\"?",
+    "options": [
+      "Sway",
+      "Pragmatics",
+      "Semantic Association",
+      "Functional Priming"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Semantic Association.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"I ______ sono lo specchio sociale della Sociability. Nell'Intelligenza Emotiva, comprendere la dinamica con i pari significa sapere quando il gruppo sostiene e quando invece limita, scegliendo consapevolmente le proprie influenze.\"?",
+    "options": [
+      "Self-serving Bias",
+      "Stato",
+      "Etics",
+      "Peers"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Emotiva/4 - Sociability/Peers/Peers.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è la leggerezza strategica dell'Execute. Nell'Intelligenza Comportamentale, saper giocare con la situazione significa essere seri sull'obiettivo senza essere rigidi sul percorso, rendendo l'azione più umana e adattabile.\"?",
+    "options": [
+      "Abitudini",
+      "Play",
+      "Ricerca",
+      "Gestualità"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Comportamentale/5 - Execute/Play/Play.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è l'arena della Persuasione. Nell'Intelligenza Linguistica, saper dibattere significa usare la logica e la rettorica per esplorare le idee, non per schiacciare l'altro.\"?",
+    "options": [
+      "Sound Symbolism",
+      "Debate",
+      "Index",
+      "Semantica"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Linguistica/4 - Persuasione/Debate/Debate.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Unità fondamentali della semantica. La scelta delle ______ attiva significati, emozioni e immagini mentali che orientano l'interazione.\"?",
+    "options": [
+      "Semantica",
+      "Actions",
+      "Frames",
+      "Parole"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Parole.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"L'______ è l'area dell'Intelligenza Comportamentale che riguarda la messa in pratica, l'esecuzione concreta dei comportamenti scelti. È il passaggio dalla consapevolezza e dalla pianificazione all'azione reale nel contesto relazionale.\"?",
+    "options": [
+      "Intelligenza Comportamentale",
+      "Execute",
+      "Voce",
+      "Impatto"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Comportamentale/5 - Execute/5 - Execute.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Le ______ sono il quadro entro cui si collocano tutti gli altri segnali. Nei Segni dell'Intelligenza Comportamentale, una postura consapevole comunica prima ancora delle parole chi siamo, che ruolo occupiamo e come ci rapportiamo agli altri.\"?",
+    "options": [
+      "Voce",
+      "Learn",
+      "Intelligenza Comportamentale",
+      "Posture"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Comportamentale/1 - Segni/Posture/Posture.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Le ______ sono il linguaggio centrale dell'Intelligenza Emotiva. Imparare a riconoscerle, regolarle e usarle con saggezza significa trasformare la propria emotività da fonte di confusione a strumento di comprensione e connessione.\"?",
+    "options": [
+      "Reverse Bandwagon Effect",
+      "Emozioni",
+      "Tolleranza",
+      "Fun"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Emotiva/5 - Emozioni/5 - Emozioni.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è il fenomeno per cui i suoni delle parole suggeriscono percezioni sensoriali o concettuali. A differenza dell'onomatopea, dove la parola imita un rumore (es. \"splash\", \"tick-tock\"), il sound symbolism agisce a un livello più sottile: determinate consonanti o vocali sono associate a dimensioni, texture, movimenti o emozioni.\"?",
+    "options": [
+      "Storytelling",
+      "Debate",
+      "Pragmatics",
+      "Sound Symbolism"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Sound Symbolism.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Capacità di analizzare le architetture mentali, progettare piani d'azione e prevedere gli esiti delle interazioni.\"?",
+    "options": [
+      "Lead",
+      "Piano",
+      "Intelligenza Strategica",
+      "Feedback"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Strategica/Intelligenza Strategica.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"La ______ è il motore di espansione del Learn. Nell'Intelligenza Comportamentale, chi cerca attivamente nuovi modelli e feedback non smette mai di crescere, perché ogni interazione diventa fonte di nuova conoscenza.\"?",
+    "options": [
+      "Memoria",
+      "Ricerca",
+      "Abitudini",
+      "Gestualità"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Comportamentale/4 - Learn/Ricerca/Ricerca.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"SLCC di orientamento filosofico: individua il modo in cui una persona elabora il senso e l'applicazione di un'idea, distinguendo due profili cognitivo-comunicativi.\"?",
+    "options": [
+      "Misure",
+      "Exit",
+      "Piano",
+      "Phylosophy"
+    ],
+    "correct": 3,
+    "source": "Corso Persuasione/Phylosophy.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è la fucina del Learn. Nell'Intelligenza Comportamentale, solo attraverso la pratica ripetuta le nuove competenze passano dalla teoria alla natura, rendendo efficaci anche sotto pressione.\"?",
+    "options": [
+      "Execute",
+      "Wonders",
+      "Training",
+      "Segnali di Piacere"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Comportamentale/4 - Learn/Training/Training.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"La ______ è l'architettura dell'Ordine. Nell'Intelligenza Linguistica, una struttura solida permette alle idee di stare in piedi da sole e di guidare l'ascoltatore dal primo all'ultimo passo.\"?",
+    "options": [
+      "Accuracy",
+      "Actions",
+      "Struttura",
+      "Ordine"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Linguistica/3 - Ordine/Struttura/Struttura.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"I ______ sono il carburante emotivo delle relazioni. Nell'Intelligenza Emotiva, saper riconoscere e gestire i bisogni propri e altrui significa capire cosa muove realmente le persone e come costruire accordi sostenibili.\"?",
+    "options": [
+      "Wishes",
+      "Needs",
+      "Sensibility",
+      "Introspezione"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Emotiva/3 - Needs/3 - Needs.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"L'______ è l'area delle Emozioni che riguarda il coinvolgimento emotivo e la connessione attiva con l'altro. È la capacità di essere presenti, interessati e partecipi nella relazione.\"?",
+    "options": [
+      "Engagement",
+      "Tolleranza",
+      "Sensibility",
+      "Bias"
+    ],
+    "correct": 0,
+    "source": "Intelligenze/Intelligenza Emotiva/5 - Emozioni/Engagement/Engagement.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"La ______ è la muscolatura della Sensibility. Nell'Intelligenza Emotiva, saper sopportare le emozioni forti permette di non fuggire dal contatto e di trasformare stati scomodi in opportunità di comprensione.\"?",
+    "options": [
+      "Empathy",
+      "Wishes",
+      "Emozioni",
+      "Tolleranza"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Emotiva/1 - Sensibility/Tolleranza/Tolleranza.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Schemi cognitivi attraverso cui una persona seleziona, enfatizza o ignora informazioni in base alle proprie credenze, esperienze e stati emotivi.\"?",
+    "options": [
+      "Rhetoric",
+      "Filtri",
+      "Patterns",
+      "Intelligenza Linguistica"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Linguistica/1 - Semantica/Filtri/Filtri.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è l'area dell'Intelligenza Comportamentale che riguarda l'apprendimento continuo dall'esperienza, il feedback e l'adattamento. È la capacità di usare ogni interazione come fonte di informazione per migliorare il proprio comportamento futuro.\"?",
+    "options": [
+      "Voce",
+      "Amplied Impact",
+      "Execute",
+      "Learn"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Comportamentale/4 - Learn/4 - Learn.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è il sistema nervoso del Team. Senza feedback, il team agisce alla cieca; con un feedback ben gestito, diventa un organismo in grado di apprendere e adattarsi continuamente.\"?",
+    "options": [
+      "Unità",
+      "Consistenza",
+      "Intelligenza Strategica",
+      "Feedback"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Strategica/3 - Team/Feedback/Feedback.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è la sequenza ordinata di azioni concrete che trasforma la strategia in risultato. Nell'Intelligenza Strategica, il piano collega lo schema, l'endpoint, il team e l'unità attraverso tappe operative, risorse, tempi e indicatori di avanzamento.\"?",
+    "options": [
+      "Steps",
+      "Feedback",
+      "Piano",
+      "Timing"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Strategica/5 - Piano/5 - Piano.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"L'______ è l'area dell'Intelligenza Ambientale che studia gli oggetti, gli strumenti e gli accessori presenti nell'ambiente e sul corpo delle persone. Ogni oggetto comunica: funzione, status, identità, preparazione e intenzione.\"?",
+    "options": [
+      "Condizioni",
+      "Equipaggiamento",
+      "Proxemic Violation",
+      "Colori"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/5 - Equipaggiamento.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"L'______ è la coesione, l'allineamento e l'unità di intenti che rende coerente l'azione strategica. Nell'Intelligenza Strategica, l'unità non significa uniformità, ma armonia tra obiettivi, valori, parole e comportamenti di tutte le persone coinvolte.\"?",
+    "options": [
+      "Partnership",
+      "Unità",
+      "Sistemi di Riferimento",
+      "Regole"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Strategica/4 - Unità/4 - Unità.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è la base fisiologica del comfort. Nelle Condizioni dell'Intelligenza Ambientale, gestire temperatura e aria significa prendersi cura del corpo dell'interlocutore, predisponendolo a un'incontro più aperto e produttivo.\"?",
+    "options": [
+      "Colori",
+      "Clima",
+      "Envious",
+      "Materiali"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Ambientale/2 - Condizioni/Clima/Clima.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è il timoniere dell'Endpoint. Nell'Intelligenza Strategica, monitorare con equilibrio significa garantire che la nave arrivi a destinazione senza perdere la rotta né soffocare l'equipaggio.\"?",
+    "options": [
+      "Unità",
+      "Team",
+      "Obiettivi",
+      "Controllo"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Strategica/2 - Endpoint/Controllo/Controllo.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è la chiave di lettura della Nearness. Nell'Intelligenza Ambientale, comprendere il contesto significa sapere quando la distanza è un ponte e quando è una violazione.\"?",
+    "options": [
+      "Tools",
+      "Impressione",
+      "Condizioni",
+      "Context"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Ambientale/4 - Nearness/Context/Context.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"L'______ è l'area dello Schema che si occupa di sollevarsi dai dettagli concreti per individuare pattern, principi e strutture generali. Nell'Intelligenza Strategica, l'astrazione permette di leggere la \"forma\" di una situazione oltre i suoi contenuti specifici.\"?",
+    "options": [
+      "Feedback",
+      "Exit",
+      "Abstraction",
+      "Team"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Strategica/1 - Schema/Abstraction/Abstraction.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"L'______ è l'area della Sensibility che riguarda la capacità di focalizzarsi consapevolmente sulle proprie emozioni e sui segnali emotivi altrui. Senza attenzione, le emozioni passano inosservate e non possono essere regolate.\"?",
+    "options": [
+      "Attenzione",
+      "Empathy",
+      "Introspezione",
+      "Tolleranza"
+    ],
+    "correct": 0,
+    "source": "Intelligenze/Intelligenza Emotiva/1 - Sensibility/Attenzione/Attenzione.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"I ______ sono il fondamento dell'Etics. Nell'Intelligenza Emotiva, conoscere e rispettare i valori propri e altrui trasforma le emozioni da forze caotiche a espressioni di ciò che conta davvero.\"?",
+    "options": [
+      "Valori",
+      "Relationships",
+      "Intelligenza Emotiva",
+      "Drugs"
+    ],
+    "correct": 0,
+    "source": "Intelligenze/Intelligenza Emotiva/2 - Etics/Valori/Valori.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Gli ______ sono la scenografia silenziosa dell'interazione. Nell'Intelligenza Ambientale, saper leggere e progettare uno spazio significa influenzare il comportamento prima ancora che inizi la conversazione.\"?",
+    "options": [
+      "Charms",
+      "Context",
+      "Spazi",
+      "Materiali"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Ambientale/1 - Spazi/1 - Spazi.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"L'______ è l'area dell'Intelligenza Ambientale che studia l'impatto visivo complessivo dell'ambiente: ciò che colpisce gli occhi e costruisce la prima impressione. Include colori, forme, stili, ordine, contrasti e dettagli estetici che comunicano prima ancora delle parole.\"?",
+    "options": [
+      "Stile",
+      "Clima",
+      "Eyeful",
+      "Condizioni"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Ambientale/3 - Eyeful/3 - Eyeful.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Area dell'intelligenza linguistica che studia il significato delle parole, dei frame e dei filtri attraverso cui le persone interpretano la realtà. La ______ non riguarda solo le definizioni, ma anche gli effetti che certe parole e strutture mentali producono sul pensiero e sulle emozioni.\"?",
+    "options": [
+      "Questions",
+      "Debate",
+      "Semantica",
+      "Intelligenza Linguistica"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Linguistica/1 - Semantica/1 - Semantica.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Le ______ sono il tessuto connettivo dell'Unità. Nell'Intelligenza Strategica, collegare le parti con consapevolezza significa garantire che la strategia funzioni come sistema, non come insieme di singoli sforzi.\"?",
+    "options": [
+      "Connessioni",
+      "Partnership",
+      "Abstraction",
+      "Lead"
+    ],
+    "correct": 0,
+    "source": "Intelligenze/Intelligenza Strategica/4 - Unità/Connessioni/Connessioni.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Le ______ sono l'utilizzo di diversi strumenti delle varie aree delle Intelligenze, simultaneamente per creare maggiori effetti.\"?",
+    "options": [
+      "Challenge",
+      "Ordine",
+      "Segni",
+      "Combo"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Combo/Combo.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"L'______ è l'area del Piano che si occupa della gestione strategica dell'uscita da una situazione, un progetto, una trattativa o una relazione. Nell'ambito dell'Intelligenza Strategica, l'Exit non è soltanto la conclusione di un percorso, ma una fase critica che decide se gli obiettivi raggiunti vengono consolidati, se le risorse vengono preservate e se le relazioni restano integre.\"?",
+    "options": [
+      "Schema",
+      "Exit",
+      "Intelligenza Strategica",
+      "Regole"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Strategica/5 - Piano/Exit/Exit.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Capacità di riconoscere, comprendere e gestire le proprie emozioni e quelle altrui durante le interazioni.\"?",
+    "options": [
+      "Satisfaction",
+      "Intelligenza Emotiva",
+      "Engagement",
+      "Empathy"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Emotiva/Intelligenza Emotiva.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Gli ______ sono la destinazione dell'Endpoint. Nell'Intelligenza Strategica, definire obiettivi chiari e condivisi è il primo passo per trasformare intenzioni in risultati concreti.\"?",
+    "options": [
+      "Steps",
+      "Sistemi di Riferimento",
+      "Lead",
+      "Obiettivi"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Strategica/2 - Endpoint/Obiettivi/Obiettivi.md"
   },
   {
     "question": "Quale concetto è descritto da: \"La ______ è il cuore relazionale dell'Intelligenza Emotiva. Non si tratta solo di stare bene con gli altri, ma di saper costruire legami in cui le emozioni circolano, sostengono e arricchiscono chi ne fa parte.\"?",
     "options": [
-      "Empathy",
-      "Etics",
       "Sociability",
-      "Introspezione"
+      "Valori",
+      "Attenzione",
+      "Fun"
+    ],
+    "correct": 0,
+    "source": "Intelligenze/Intelligenza Emotiva/4 - Sociability/4 - Sociability.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"La ______ è il risultato positivo dei Needs. Nell'Intelligenza Emotiva, imparare a riconoscere e coltivare la soddisfazione significa uscire dalla corsa infinita dei desideri e godere di ciò che realmente nutre.\"?",
+    "options": [
+      "Stato",
+      "Satisfaction",
+      "Fast Focusing",
+      "Attenzione"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Emotiva/3 - Needs/Satisfaction/Satisfaction.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"In ogni interazione umana il cervello processa simultaneamente molteplici input per costruire un significato relazionale. Queste ______ influenzano percezione, emozione e decisione prima ancora delle parole.\"?",
+    "options": [
+      "Comunicazione e Interazione",
+      "Sistema di Apprendimento",
+      "Variabili dell'Interazione",
+      "Corso Persuasione"
     ],
     "correct": 2,
-    "source": "Intelligenze/Intelligenza Emotiva/4 - Sociability/4 - Sociability.md"
+    "source": "Variabili dell'Interazione.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"La ______ è la grammatica della distanza. Nell'Intelligenza Ambientale, gestire la vicinanza significa sapere quando avvicinare per connettere e quando allontanare per rispettare, guidando l'interazione attraverso lo spazio tra i corpi.\"?",
+    "options": [
+      "Layout",
+      "Materiali",
+      "Nearness",
+      "Equipaggiamento"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Ambientale/4 - Nearness/4 - Nearness.md"
   },
   {
     "question": "Quale concetto è descritto da: \"Il ______ è il bias della massa. Nell'Intelligenza Emotiva, riconoscerlo significa capire quando stiamo aderendo a un'opinione perché è condivisa, e non perché è vera. Dall'altra parte, saperlo usare con etica permette di costruire consenso e senso di appartenenza.\"?",
     "options": [
+      "Self-serving Bias",
       "Reverse Bandwagon Effect",
       "Bias",
-      "Self-serving Bias",
       "Bandwagon Effect"
     ],
     "correct": 3,
     "source": "Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Bandwagon Effect.md"
   },
   {
-    "question": "Quale concetto è descritto da: \"Capacità di riconoscere, comprendere e gestire le proprie emozioni e quelle altrui durante le interazioni.\"?",
+    "question": "Quale concetto è descritto da: \"Le ______ sono il sottofondo fisico su cui si gioca ogni interazione. Nell'Intelligenza Ambientale, controllarle significa prendersi cura dell'esperienza corporea dell'altro e predisporre il terreno per una comunicazione efficace.\"?",
     "options": [
-      "Intelligenza Emotiva",
-      "Satisfaction",
-      "Attenzione",
-      "Fast Focusing"
+      "Condizioni",
+      "Nearness",
+      "Spazi",
+      "Materiali"
     ],
     "correct": 0,
-    "source": "Intelligenze/Intelligenza Emotiva/Intelligenza Emotiva.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Terzo livello del Corso Persuasione: studio di come immagine, abbigliamento, prossemica e segnali non verbali comunicano status, credibilità e intenzioni prima ancora delle parole.\"?",
-    "options": [
-      "Scienza dell'Apparenza",
-      "Algoritmi Linguistici",
-      "Comunicazione e Interazione",
-      "Variabili dell'Interazione"
-    ],
-    "correct": 0,
-    "source": "Scienza dell'Apparenza.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"I ______ sono il punto di partenza dell'Intelligenza Comportamentale. Senza la capacità di osservare e interpretare i segnali non verbali, ogni strategia comunicativa resta cieca a metà della informazione disponibile.\"?",
-    "options": [
-      "Impatto",
-      "Execute",
-      "Flessibilità",
-      "Segni"
-    ],
-    "correct": 3,
-    "source": "Intelligenze/Intelligenza Comportamentale/1 - Segni/1 - Segni.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Il ______ è il motore invisibile dell'Intelligenza Comportamentale. Determina come si percepisce una situazione e quali comportamenti ne derivano. Gestirlo strategicamente significa aumentare il proprio range di azione.\"?",
-    "options": [
-      "Play",
-      "Mindset",
-      "Espressione",
-      "Amplied Impact"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Comportamentale/2 - Mindset/2 - Mindset.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Piattaforma di neuroscienze comportamentali e semiotica fondata da Paolo Borzacchiello, che studia il linguaggio, il comportamento e le dinamiche relazionali per migliorare comunicazione, ______ e leadership.\"?",
-    "options": [
-      "Sistema di Apprendimento",
-      "Corso Persuasione",
-      "Scienza dell'Apparenza",
-      "Variabili dell'Interazione"
-    ],
-    "correct": 1,
-    "source": "Human Connection Enginering (HCE).md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Il ______ è il limite naturale della Sensibility. Nell'Intelligenza Emotiva, riconoscere i propri bias non serve a eliminarli del tutto, ma a non lasciarsi ingannare da loro, migliorando la qualità della lettura emotiva.\"?",
-    "options": [
-      "Bandwagon Effect",
-      "Bias",
-      "Reverse Bandwagon Effect",
-      "Self-serving Bias"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Bias.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"La ______ è il risultato positivo dei Needs. Nell'Intelligenza Emotiva, imparare a riconoscere e coltivare la soddisfazione significa uscire dalla corsa infinita dei desideri e godere di ciò che realmente nutre.\"?",
-    "options": [
-      "Tolleranza",
-      "Satisfaction",
-      "Needs",
-      "Stato"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Emotiva/3 - Needs/Satisfaction/Satisfaction.md"
+    "source": "Intelligenze/Intelligenza Ambientale/2 - Condizioni/2 - Condizioni.md"
   },
   {
     "question": "Quale concetto è descritto da: \"- Pensa di insegnarlo a un bambino\n- Colma le lacune, approfondisci ogni passaggio che ancora non ti è completamente chiaro\n- Organizza e semplifica, cerca di rendere sempre più scorrevole ogni passaggio\"?",
     "options": [
-      "Variabili dell'Interazione",
-      "Sistema di Apprendimento",
       "Comunicazione e Interazione",
-      "Corso Persuasione"
+      "Sistema di Apprendimento",
+      "Corso Persuasione",
+      "Strategie Linguistico Comportamentali Cognitive (SLCC)"
     ],
     "correct": 1,
     "source": "Sistema di Apprendimento.md"
   },
   {
-    "question": "Quale concetto è descritto da: \"La ______ è il crogiuolo dell'Execute. Nell'Intelligenza Comportamentale, affrontare le sfide con strategia e calma significa dimostrare non solo competenza, ma anche carattere.\"?",
+    "question": "Quale concetto è descritto da: \"L'______ è l'obiettivo finale, il risultato desiderato o la meta verso cui converge l'azione strategica. Nell'Intelligenza Strategica, definire l'endpoint significa essere chiari su cosa si vuole ottenere, in che forma e con quali criteri di successo.\"?",
     "options": [
-      "Play",
-      "Challenge",
-      "Reazioni",
-      "Umore"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Comportamentale/5 - Execute/Challenge/Challenge.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"I ______ sono il ritmo dell'Ordine. Nell'Intelligenza Linguistica, saper usare gli schemi significa guidare l'orecchio e la mente dell'ascoltatore, rendendo il messaggio più musicale e memorabile.\"?",
-    "options": [
-      "Storytelling",
-      "Sound Symbolism",
-      "Patterns",
-      "Index"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Linguistica/3 - Ordine/Patterns/Patterns.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"La ______ è uno strumento potente del Layout. Usata con consapevolezza, modula l'attenzione e l'intimità; usata senza tatto, diventa invasione. La chiave è calibrare ogni variazione di distanza in base al contesto, alla cultura e al livello di relazione.\"?",
-    "options": [
-      "Stile",
-      "Proxemic Violation",
-      "Impressione",
-      "Layout"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Ambientale/1 - Spazi/Layout/Proxemic Violation.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Il ______ è il fenomeno per cui i suoni delle parole suggeriscono percezioni sensoriali o concettuali. A differenza dell'onomatopea, dove la parola imita un rumore (es. \"splash\", \"tick-tock\"), il sound symbolism agisce a un livello più sottile: determinate consonanti o vocali sono associate a dimensioni, texture, movimenti o emozioni.\"?",
-    "options": [
-      "Sway",
-      "Sound Symbolism",
-      "Questions",
-      "Persuasione"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Sound Symbolism.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"I ______ sono la bussola dei Needs. Nell'Intelligenza Emotiva, dare spazio ai desideri significa dare energia e direzione alla propria vita, trasformando bisogni in progetti e sogni in realtà possibili.\"?",
-    "options": [
-      "Empathy",
-      "Wishes",
-      "Valori",
-      "Tolleranza"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Emotiva/3 - Needs/Wishes/Wishes.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Capacità di usare il comportamento, la postura, i gesti, i toni, volumi e le abitudini per comunicare in modo coerente ed efficace.\"?",
-    "options": [
-      "Ricerca",
-      "Gestualità",
-      "Intelligenza Comportamentale",
-      "Impatto"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Comportamentale/Intelligenza Comportamentale.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"I ______ sono la pelle degli spazi. Nell'Intelligenza Ambientale, sceglierli con consapevolezza significa decidere come l'ambiente verrà percepito al tatto e alla vista, amplificando o attenuando il messaggio comunicativo.\"?",
-    "options": [
-      "Spazi",
-      "Shapes",
-      "Envious",
-      "Materiali"
-    ],
-    "correct": 3,
-    "source": "Intelligenze/Intelligenza Ambientale/1 - Spazi/Materiali/Materiali.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"I ______ sono il linguaggio veloce dell'Eyeful. Nell'Intelligenza Ambientale, scegliere i colori giusti significa predisporre l'emotività dell'interlocutore prima ancora che inizi a elaborare il contenuto.\"?",
-    "options": [
-      "Luce",
-      "Charms",
-      "Feelings",
-      "Colori"
-    ],
-    "correct": 3,
-    "source": "Intelligenze/Intelligenza Ambientale/3 - Eyeful/Colori/Colori.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Le ______ sono leve potenti dell'Effectiveness. Nell'Intelligenza Linguistica, saper fare le domande giuste significa guidare la conversazione, scoprire ciò che conta e costruire insieme la risposta.\"?",
-    "options": [
-      "Semantic Association",
-      "Questions",
-      "Storytelling",
-      "Pragmatics"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Linguistica/5 - Effectiveness/Questions/Questions.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Il ______ è l'equipaggiamento più visibile e personale. Nell'Intelligenza Ambientale, curare il proprio aspetto non è vanità: è un modo per rispettare il contesto, comunicare il proprio ruolo e preparare gli altri ad ascoltarci.\"?",
-    "options": [
-      "Look",
-      "Proxemic Violation",
-      "Spazi",
-      "Nearness"
+      "Endpoint",
+      "Partnership",
+      "Consistenza",
+      "Framework"
     ],
     "correct": 0,
-    "source": "Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look.md"
+    "source": "Intelligenze/Intelligenza Strategica/2 - Endpoint/2 - Endpoint.md"
   },
   {
-    "question": "Quale concetto è descritto da: \"Modello SCALE (Modello SCALE) delle cinque intelligenze di HCE, descritto da Paolo Borzacchiello in HCE. La scienza delle interazioni umane (Gribaudo, 2020). Ogni ______ rappresenta un canale attraverso cui le persone elaborano, comunicano e influenzano le interazioni.\"?",
+    "question": "Quale concetto è descritto da: \"Il ______ è il motore invisibile dell'Intelligenza Comportamentale. Determina come si percepisce una situazione e quali comportamenti ne derivano. Gestirlo strategicamente significa aumentare il proprio range di azione.\"?",
     "options": [
-      "Reward",
-      "Luce",
-      "Consistenza",
-      "Intelligenza Strategica"
+      "Segni",
+      "Learn",
+      "Flessibilità",
+      "Mindset"
     ],
     "correct": 3,
-    "source": "Intelligenze/Intelligenze.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Le ______ sono il sottofondo fisico su cui si gioca ogni interazione. Nell'Intelligenza Ambientale, controllarle significa prendersi cura dell'esperienza corporea dell'altro e predisporre il terreno per una comunicazione efficace.\"?",
-    "options": [
-      "Luce",
-      "Condizioni",
-      "Equipaggiamento",
-      "Look Dichotomy"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Ambientale/2 - Condizioni/2 - Condizioni.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"I ______ sono il fondamento dell'Etics. Nell'Intelligenza Emotiva, conoscere e rispettare i valori propri e altrui trasforma le emozioni da forze caotiche a espressioni di ciò che conta davvero.\"?",
-    "options": [
-      "Tolleranza",
-      "Attenzione",
-      "Valori",
-      "Bias"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Emotiva/2 - Etics/Valori/Valori.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Il ______ è quel fenomeno in cui quando le cose vanno bene ci si atteggia da persone \"forti\" e \"brave\", mentre quando le cose vanno male \"sono gli altri che non capiscono\".\"?",
-    "options": [
-      "Bias",
-      "Reverse Bandwagon Effect",
-      "Self-serving Bias",
-      "Bandwagon Effect"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Self-serving Bias.md"
+    "source": "Intelligenze/Intelligenza Comportamentale/2 - Mindset/2 - Mindset.md"
   },
   {
     "question": "Quale concetto è descritto da: \"I ______ sono la scintilla che trasforma un'interazione ordinaria in un'esperienza memorabile. Nell'Intelligenza Comportamentale, saper creare momenti di meraviglia significa progettare l'impatto non solo per essere capiti, ma per essere ricordati.\"?",
     "options": [
+      "Impatto",
       "Wonders",
-      "Posture",
-      "Segnali di Piacere",
-      "Gestualità"
+      "Espressione",
+      "Memoria"
     ],
-    "correct": 0,
+    "correct": 1,
     "source": "Intelligenze/Intelligenza Comportamentale/3 - Impatto/Wonders/Wonders.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"La ______ è la solidità dell'Unità. Nell'Intelligenza Strategica, essere coerenti nel tempo significa dimostrare che la strategia non è una maschera, ma un modo stabile e affidabile di agire nel mondo.\"?",
-    "options": [
-      "Unità",
-      "Abstraction",
-      "Consistenza",
-      "Obiettivi"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Strategica/4 - Unità/Consistenza/Consistenza.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Lo ______ è la firma estetica dell'Eyeful. Nell'Intelligenza Ambientale, uno stile coerente e consapevole non serve solo a essere belli: serve a essere riconoscibili, credibili e memorabili.\"?",
-    "options": [
-      "Look",
-      "Feelings",
-      "Eyeful",
-      "Stile"
-    ],
-    "correct": 3,
-    "source": "Intelligenze/Intelligenza Ambientale/3 - Eyeful/Stile/Stile.md"
   },
   {
     "question": "Quale concetto è descritto da: \"L'______ è l'area delle Emozioni che riguarda la capacità di comprendere e condividere lo stato emotivo dell'altro. È il ponte che trasforma la lettura delle emozioni in connessione umana.\"?",
     "options": [
-      "Etics",
-      "Empathy",
+      "Introspezione",
       "Bias",
-      "Fast Focusing"
+      "Empathy",
+      "Bandwagon Effect"
     ],
-    "correct": 1,
+    "correct": 2,
     "source": "Intelligenze/Intelligenza Emotiva/5 - Emozioni/Empathy/Empathy.md"
   },
   {
-    "question": "Quale concetto è descritto da: \"Tecnica che consente di amplificare il pathos, l'attesa prima di comunicare un qualcosa di importante, generando molto più interesse e ricordo negli interlocutori.\"?",
+    "question": "Quale concetto è descritto da: \"I ______ sono la bussola dei Needs. Nell'Intelligenza Emotiva, dare spazio ai desideri significa dare energia e direzione alla propria vita, trasformando bisogni in progetti e sogni in realtà possibili.\"?",
     "options": [
-      "Amplied Impact",
-      "Voce",
-      "Impatto",
-      "Ricerca"
-    ],
-    "correct": 0,
-    "source": "Intelligenze/Intelligenza Comportamentale/3 - Impatto/Voce/Amplied Impact.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"I ______ sono i dettagli che parlano. Nell'Equipaggiamento dell'Intelligenza Ambientale, saper scegliere e curare i piccoli oggetti significa comunicare con precisione chi siamo, cosa amiamo e a chi apparteniamo.\"?",
-    "options": [
-      "Condizioni",
-      "Charms",
-      "Intelligenza Ambientale",
-      "Nearness"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Charms/Charms.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"La ______ è l'arma invisibile dell'impatto. Nell'Intelligenza Comportamentale, una voce consapevole e modulata può rendere memorabile un concetto ordinario, trasformare un'intenzione in comando e una distanza in connessione.\"?",
-    "options": [
-      "Play",
-      "Mindset",
-      "Challenge",
-      "Voce"
-    ],
-    "correct": 3,
-    "source": "Intelligenze/Intelligenza Comportamentale/3 - Impatto/Voce/Voce.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"L'______ è l'area del Contenuto che riguarda l'organizzazione, la scaletta e l'accessibilità delle informazioni. Un buon index permette all'ascoltatore di orientarsi e di trovare ciò che serve.\"?",
-    "options": [
-      "Frames",
-      "Index",
-      "Persuasione",
-      "Debate"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Linguistica/2 - Contenuto/Index/Index.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Le ______ sono l'area dello Schema che definisce i vincoli, i principi e le procedure che governano il pensiero e l'azione strategica. Nell'Intelligenza Strategica, le regole non limitano la creatività: la incanalano, riducendo l'incertezza e aumentando la prevedibilità dei comportamenti.\"?",
-    "options": [
-      "Abstraction",
-      "Combo",
-      "Regole",
-      "Consistenza"
+      "Engagement",
+      "Self-serving Bias",
+      "Wishes",
+      "Bias"
     ],
     "correct": 2,
-    "source": "Intelligenze/Intelligenza Strategica/1 - Schema/Regole/Regole.md"
+    "source": "Intelligenze/Intelligenza Emotiva/3 - Needs/Wishes/Wishes.md"
   },
   {
-    "question": "Quale concetto è descritto da: \"La ______ è l'elasticità del Mindset. Nell'Intelligenza Comportamentale, essere flessibili significa avere molte risposte possibili per la stessa situazione, scegliendo ogni volta quella più adatta al contesto e all'obiettivo.\"?",
+    "question": "Quale concetto è descritto da: \"L'______ è l'area dell'Etics che riguarda l'esame critico e onesto delle proprie emozioni, motivazioni e reazioni. È il processo di guardarsi dentro per capire cosa si prova realmente e perché.\"?",
     "options": [
-      "Gestualità",
-      "Memoria",
-      "Mindset",
-      "Flessibilità"
-    ],
-    "correct": 3,
-    "source": "Intelligenze/Intelligenza Comportamentale/2 - Mindset/Flessibilità/Flessibilità.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"L'______ è l'area dell'Intelligenza Emotiva che collega le emozioni ai valori, all'integrità e al benessere. Riguarda la capacità di usare le emozioni come bussola morale e di costruire relazioni fondate su rispetto, autenticità e cura reciproca.\"?",
-    "options": [
-      "Wellness",
-      "Etics",
-      "Bias",
-      "Engagement"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Emotiva/2 - Etics/2 - Etics.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Le ______ sono il linguaggio centrale dell'Intelligenza Emotiva. Imparare a riconoscerle, regolarle e usarle con saggezza significa trasformare la propria emotività da fonte di confusione a strumento di comprensione e connessione.\"?",
-    "options": [
-      "Etics",
-      "Drugs",
-      "Wishes",
-      "Emozioni"
-    ],
-    "correct": 3,
-    "source": "Intelligenze/Intelligenza Emotiva/5 - Emozioni/5 - Emozioni.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Le ______ sono il tessuto connettivo dell'Unità. Nell'Intelligenza Strategica, collegare le parti con consapevolezza significa garantire che la strategia funzioni come sistema, non come insieme di singoli sforzi.\"?",
-    "options": [
-      "Partnership",
-      "Connessioni",
-      "Steps",
-      "Schema"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Strategica/4 - Unità/Connessioni/Connessioni.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Le ______ sono il cuore della Sociability. Nell'Intelligenza Emotiva, costruire relazioni significative significa investire nel bene più prezioso della vita emotiva: la connessione umana duratura e autentica.\"?",
-    "options": [
-      "Relationships",
+      "Introspezione",
+      "Emozioni",
       "Engagement",
-      "Drugs",
-      "Wishes"
+      "Valori"
     ],
     "correct": 0,
-    "source": "Intelligenze/Intelligenza Emotiva/4 - Sociability/Relationships/Relationships.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Il ______ è la leggerezza strategica dell'Execute. Nell'Intelligenza Comportamentale, saper giocare con la situazione significa essere seri sull'obiettivo senza essere rigidi sul percorso, rendendo l'azione più umana e adattabile.\"?",
-    "options": [
-      "Posture",
-      "Wonders",
-      "Segni",
-      "Play"
-    ],
-    "correct": 3,
-    "source": "Intelligenze/Intelligenza Comportamentale/5 - Execute/Play/Play.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Unità fondamentali della semantica. La scelta delle ______ attiva significati, emozioni e immagini mentali che orientano l'interazione.\"?",
-    "options": [
-      "Patterns",
-      "Parole",
-      "Semantic Association",
-      "Semantica"
-    ],
-    "correct": 1,
-    "source": "Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Parole.md"
+    "source": "Intelligenze/Intelligenza Emotiva/2 - Etics/Introspezione/Introspezione.md"
   },
   {
     "question": "Quale concetto è descritto da: \"Secondo livello del Corso Persuasione: sequenze di parole e strutture sintattiche che, applicate in un ordine preciso, orientano in modo predittivo la risposta comportamentale dell'interlocutore.\"?",
     "options": [
+      "Variabili dell'Interazione",
+      "Corso Persuasione",
       "Algoritmi Linguistici",
-      "Strategie Linguistico Comportamentali Cognitive (SLCC)",
-      "Sistema di Apprendimento",
       "Scienza dell'Apparenza"
     ],
-    "correct": 0,
+    "correct": 2,
     "source": "Algoritmi Linguistici.md"
   },
   {
-    "question": "Quale concetto è descritto da: \"La ______ è l'architettura dell'Ordine. Nell'Intelligenza Linguistica, una struttura solida permette alle idee di stare in piedi da sole e di guidare l'ascoltatore dal primo all'ultimo passo.\"?",
+    "question": "Quale concetto è descritto da: \"Tecnica linguistica e semantica che usa parole, frame e immagini per attivare inconsciamente funzioni cognitive, emozionali o comportamentali specifiche nell'interlocutore. L'obiettivo è preparare il cervello a processare l'informazione in una certa direzione prima che la richiesta o il contenuto principale venga espresso.\"?",
     "options": [
-      "Struttura",
-      "Debate",
-      "Accuracy",
-      "3 Brains"
-    ],
-    "correct": 0,
-    "source": "Intelligenze/Intelligenza Linguistica/3 - Ordine/Struttura/Struttura.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Lo ______ è l'anima narrativa del Contenuto. Nell'Intelligenza Linguistica, raccontare bene significa trasformare idee in esperienze che l'ascoltatore può vedere, sentire e ricordare.\"?",
-    "options": [
-      "Storytelling",
-      "Effectiveness",
+      "Ordine",
+      "Semantica",
       "Frames",
-      "Pragmatics"
+      "Functional Priming"
     ],
-    "correct": 0,
-    "source": "Intelligenze/Intelligenza Linguistica/2 - Contenuto/Storytelling/Storytelling.md"
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Functional Priming.md"
   },
   {
-    "question": "Quale concetto è descritto da: \"L'______ è l'area del Contenuto che riguarda la correttezza, la verificabilità e la precisione delle informazioni comunicate. Contenuti accurati costruiscono credibilità; contenuti imprecisi la distruggono.\"?",
+    "question": "Quale concetto è descritto da: \"I ______ sono il linguaggio veloce dell'Eyeful. Nell'Intelligenza Ambientale, scegliere i colori giusti significa predisporre l'emotività dell'interlocutore prima ancora che inizi a elaborare il contenuto.\"?",
     "options": [
-      "Sway",
-      "Struttura",
-      "Accuracy",
-      "Contenuto"
+      "Territorio",
+      "Envious",
+      "Colori",
+      "Equipaggiamento"
     ],
     "correct": 2,
-    "source": "Intelligenze/Intelligenza Linguistica/2 - Contenuto/Accuracy/Accuracy.md"
+    "source": "Intelligenze/Intelligenza Ambientale/3 - Eyeful/Colori/Colori.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"La ______ e l'interazione sono legate ma non coincidenti.\"?",
+    "options": [
+      "Corso Persuasione",
+      "Scienza dell'Apparenza",
+      "Comunicazione e Interazione",
+      "Variabili dell'Interazione"
+    ],
+    "correct": 2,
+    "source": "Comunicazione e Interazione.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Le ______ sono il vocabolario geometrico degli spazi. Nell'Intelligenza Ambientale, le forme scelte non riempiono solo l'ambiente: lo fanno parlare, orientando emozioni e comportamenti attraverso la geometria.\"?",
+    "options": [
+      "Colori",
+      "Shapes",
+      "Context",
+      "Layout"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Ambientale/1 - Spazi/Shapes/Shapes.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"L'______ è l'area dell'Intelligenza Linguistica che riguarda la struttura, la sequenza e l'organizzazione del linguaggio. Come le idee sono disposte influenza ciò che l'ascoltatore capisce, ricorda e fa.\"?",
+    "options": [
+      "Ordine",
+      "Actions",
+      "Debate",
+      "Parole"
+    ],
+    "correct": 0,
+    "source": "Intelligenze/Intelligenza Linguistica/3 - Ordine/3 - Ordine.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è la forza motrice del Team. Una leadership efficace trasforma un gruppo di persone in un'unità strategica capace di raggiungere endpoint complessi.\"?",
+    "options": [
+      "Combo",
+      "Abstraction",
+      "Lead",
+      "Exit"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Strategica/3 - Team/Lead/Lead.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"L'______ è l'area del Contenuto che riguarda l'organizzazione, la scaletta e l'accessibilità delle informazioni. Un buon index permette all'ascoltatore di orientarsi e di trovare ciò che serve.\"?",
+    "options": [
+      "Actions",
+      "Semantica",
+      "Questions",
+      "Index"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Linguistica/2 - Contenuto/Index/Index.md"
   },
   {
     "question": "Quale concetto è descritto da: \"La ______ è la tendenza a percepire e giudicare l'aspetto di una persona attraverso coppie di opposti: ordinato/disordinato, formale/informale, curato/trascurato, conformista/originale. Queste dicotomie non descrivono necessariamente la realtà, ma attivano schemi mentali che influenzano le aspettative su competenza, affidabilità, creatività e status.\"?",
     "options": [
-      "Clima",
+      "Layout",
       "Look Dichotomy",
-      "Look",
+      "Spazi",
       "Equipaggiamento"
     ],
     "correct": 1,
     "source": "Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy.md"
   },
   {
-    "question": "Quale concetto è descritto da: \"L'______ è l'area dell'Intelligenza Ambientale che studia gli oggetti, gli strumenti e gli accessori presenti nell'ambiente e sul corpo delle persone. Ogni oggetto comunica: funzione, status, identità, preparazione e intenzione.\"?",
+    "question": "Quale concetto è descritto da: \"Il ______ è il cuore informativo dell'Intelligenza Linguistica. Senza contenuto di valore, anche la forma più elegante risuona vuota: parole ben scelte devono trasportare idee che meritano di essere ascoltate.\"?",
     "options": [
-      "Shapes",
-      "Colori",
-      "Intelligenza Ambientale",
-      "Equipaggiamento"
+      "Contenuto",
+      "Parole",
+      "Functional Priming",
+      "Actions"
     ],
-    "correct": 3,
-    "source": "Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/5 - Equipaggiamento.md"
+    "correct": 0,
+    "source": "Intelligenze/Intelligenza Linguistica/2 - Contenuto/2 - Contenuto.md"
   },
   {
     "question": "Quale concetto è descritto da: \"La ______ è la sensibilità contestuale dell'Effectiveness. Nell'Intelligenza Linguistica, saper usare le parole nel modo giusto per il momento giusto significa trasformare il linguaggio in uno strumento relazionale preciso.\"?",
     "options": [
-      "Pragmatics",
-      "Parole",
       "Semantica",
-      "Sway"
+      "Struttura",
+      "Frames",
+      "Pragmatics"
     ],
-    "correct": 0,
+    "correct": 3,
     "source": "Intelligenze/Intelligenza Linguistica/5 - Effectiveness/Pragmatics/Pragmatics.md"
   },
   {
-    "question": "Quale concetto è descritto da: \"Il ______ è la forza motrice del Team. Una leadership efficace trasforma un gruppo di persone in un'unità strategica capace di raggiungere endpoint complessi.\"?",
+    "question": "Quale concetto è descritto da: \"SLCC di subordinazione: individua il modo in cui una persona si posiziona rispetto all'autorità e al comando, distinguendo due profili linguistico-comportamentali.\"?",
     "options": [
-      "Lead",
-      "Controllo",
-      "Regole",
-      "Schema"
+      "Subordination",
+      "Struttura",
+      "Sociability",
+      "Parole"
     ],
     "correct": 0,
-    "source": "Intelligenze/Intelligenza Strategica/3 - Team/Lead/Lead.md"
+    "source": "Corso Persuasione/Subordination.md"
   },
   {
-    "question": "Quale concetto è descritto da: \"Le ______ sono l'ossatura del Mindset. Nell'Intelligenza Comportamentale, curare le proprie abitudini significa decidere quali comportamenti automatici ci servono e quali invece ostacolano la relazione che vogliamo costruire.\"?",
+    "question": "Quale concetto è descritto da: \"Le ______ sono la bussola numerica dell'Endpoint. Nell'Intelligenza Strategica, misurare bene significa tradurre un obiettivo astratto in traguardi concreti che indicano se si sta davvero arrivando dove si desidera.\"?",
     "options": [
-      "Segni",
-      "Play",
-      "Training",
-      "Abitudini"
+      "Abstraction",
+      "Team",
+      "Misure",
+      "Consistenza"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Strategica/2 - Endpoint/Misure/Misure.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è il sale della Sociability. Nell'Intelligenza Emotiva, saper creare piacere e leggerezza rende le relazioni non solo utili, ma anche desiderabili e memorabili.\"?",
+    "options": [
+      "Introspezione",
+      "Fun",
+      "Relationships",
+      "Needs"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Emotiva/4 - Sociability/Fun/Fun.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"I ______ sono l'anima emotiva delle Condizioni. Nell'Intelligenza Ambientale, progettare i feelings significa curare ciò che l'ambiente fa sentire, perché nessuno ascolta bene quando l'atmosfera lo mette in difesa.\"?",
+    "options": [
+      "Luce",
+      "Materiali",
+      "Feelings",
+      "Intelligenza Ambientale"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Ambientale/2 - Condizioni/Feelings/Feelings.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è la radice etica dell'Intelligenza Emotiva. Curare il proprio benessere non è egoismo: è la condizione per poter essere presenti, lucidi e generosi nelle relazioni con gli altri.\"?",
+    "options": [
+      "Introspezione",
+      "Attenzione",
+      "Empathy",
+      "Wellness"
     ],
     "correct": 3,
-    "source": "Intelligenze/Intelligenza Comportamentale/2 - Mindset/Abitudini/Abitudini.md"
+    "source": "Intelligenze/Intelligenza Emotiva/2 - Etics/Wellness/Wellness.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"La ______ è la leva influenziale dell'Intelligenza Linguistica. Quando è basata su rispetto, evidenza e connessione, permette di allineare le persone verso obiettivi condivisi senza violare la loro autonomia.\"?",
+    "options": [
+      "Index",
+      "Persuasione",
+      "Pragmatics",
+      "Struttura"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Linguistica/4 - Persuasione/4 - Persuasione.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è il bias della distinzione. Nell'Intelligenza Emotiva, riconoscerlo permette di capire quando stiamo respingendo qualcosa per autentica preferenza o solo per non essere come gli altri. Usarlo consapevolmente significa costruire identità senza cadere nell'opposizione fine a sé stessa.\"?",
+    "options": [
+      "Bandwagon Effect",
+      "Self-serving Bias",
+      "Reverse Bandwagon Effect",
+      "Bias"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Reverse Bandwagon Effect.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è l'acceleratore dell'Attenzione. Nell'Intelligenza Emotiva, saper rientrare rapidamente in uno stato di presenza consapevole significa gestire meglio sé stessi, le conversazioni e le prestazioni, trasformando la dispersione in direzione.\"?",
+    "options": [
+      "Fast Focusing",
+      "Drugs",
+      "Bandwagon Effect",
+      "Bias"
+    ],
+    "correct": 0,
+    "source": "Intelligenze/Intelligenza Emotiva/1 - Sensibility/Attenzione/Fast Focusing.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è l'equipaggiamento più visibile e personale. Nell'Intelligenza Ambientale, curare il proprio aspetto non è vanità: è un modo per rispettare il contesto, comunicare il proprio ruolo e preparare gli altri ad ascoltarci.\"?",
+    "options": [
+      "Look",
+      "Materiali",
+      "Condizioni",
+      "Spazi"
+    ],
+    "correct": 0,
+    "source": "Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è il limite naturale della Sensibility. Nell'Intelligenza Emotiva, riconoscere i propri bias non serve a eliminarli del tutto, ma a non lasciarsi ingannare da loro, migliorando la qualità della lettura emotiva.\"?",
+    "options": [
+      "Bandwagon Effect",
+      "Reverse Bandwagon Effect",
+      "Bias",
+      "Self-serving Bias"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Bias.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"La ______ è la solidità dell'Unità. Nell'Intelligenza Strategica, essere coerenti nel tempo significa dimostrare che la strategia non è una maschera, ma un modo stabile e affidabile di agire nel mondo.\"?",
+    "options": [
+      "Lead",
+      "Piano",
+      "Consistenza",
+      "Team"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Strategica/4 - Unità/Consistenza/Consistenza.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"La ______ è l'elasticità del Mindset. Nell'Intelligenza Comportamentale, essere flessibili significa avere molte risposte possibili per la stessa situazione, scegliendo ogni volta quella più adatta al contesto e all'obiettivo.\"?",
+    "options": [
+      "Espressione",
+      "Execute",
+      "Flessibilità",
+      "Impatto"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Comportamentale/2 - Mindset/Flessibilità/Flessibilità.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Primo livello del Corso Persuasione: pattern linguistici e ______ che agiscono a livello cognitivo per orientare l'attenzione, le emozioni e le decisioni dell'interlocutore.\"?",
+    "options": [
+      "Scienza dell'Apparenza",
+      "Corso Persuasione",
+      "Sistema di Apprendimento",
+      "Strategie Linguistico Comportamentali Cognitive (SLCC)"
+    ],
+    "correct": 3,
+    "source": "Strategie Linguistico Comportamentali Cognitive (SLCC).md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Capacità di scegliere e usare le parole, le strutture e i pattern linguistici più adatti per influenzare, ispirare e costruire senso.\"?",
+    "options": [
+      "Index",
+      "Intelligenza Linguistica",
+      "Sway",
+      "Semantica"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Linguistica/Intelligenza Linguistica.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"I ______ sono la gerarchia dell'Ordine. Nell'Intelligenza Linguistica, strutturare il discorso per toccare istinto, emozione e ragione significa parlare a tutta la persona, non solo a una parte.\"?",
+    "options": [
+      "Semantica",
+      "3 Brains",
+      "Sway",
+      "Effectiveness"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Linguistica/3 - Ordine/3 Brains/3 Brains.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Le ______ sono l'area dello Schema che definisce i vincoli, i principi e le procedure che governano il pensiero e l'azione strategica. Nell'Intelligenza Strategica, le regole non limitano la creatività: la incanalano, riducendo l'incertezza e aumentando la prevedibilità dei comportamenti.\"?",
+    "options": [
+      "Piano",
+      "Unità",
+      "Regole",
+      "Framework"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Strategica/1 - Schema/Regole/Regole.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Primo ______ di Human Connection Engineering, dedicato alle tecniche linguistiche e comportamentali per esercitare un'influenza etica sulle persone. Si articola su tre livelli.\"?",
+    "options": [
+      "Espressione",
+      "Controllo",
+      "Corso Persuasione",
+      "3 Brains"
+    ],
+    "correct": 2,
+    "source": "Corso Persuasione/Corso Persuasione.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"L'______ è l'area del Contenuto che riguarda la correttezza, la verificabilità e la precisione delle informazioni comunicate. Contenuti accurati costruiscono credibilità; contenuti imprecisi la distruggono.\"?",
+    "options": [
+      "Debate",
+      "Contenuto",
+      "Questions",
+      "Accuracy"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Linguistica/2 - Contenuto/Accuracy/Accuracy.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Cornici semantiche che orientano il modo in cui un'informazione viene interpretata, valutata e ricordata. Il frame definisce \"da quale angolazione\" si guarda un problema.\"?",
+    "options": [
+      "Frames",
+      "Semantic Association",
+      "3 Brains",
+      "Debate"
+    ],
+    "correct": 0,
+    "source": "Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Frames.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"La ______ è uno strumento potente del Layout. Usata con consapevolezza, modula l'attenzione e l'intimità; usata senza tatto, diventa invasione. La chiave è calibrare ogni variazione di distanza in base al contesto, alla cultura e al livello di relazione.\"?",
+    "options": [
+      "Layout",
+      "Proxemic Violation",
+      "Spazi",
+      "Tools"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Ambientale/1 - Spazi/Layout/Proxemic Violation.md"
   },
   {
     "question": "Quale concetto è descritto da: \"L'______ è il metodo strategico con cui si progetta in anticipo l'uscita da una situazione, un progetto, una trattativa, un investimento o una conversazione. Nell'ambito dell'Intelligenza Strategica e dell'area Piano, l'Exit Planning non è una ritirata improvvisata, ma una manovra calcolata per preservare risorse, reputazione, obiettivi e relazioni.\"?",
     "options": [
-      "Team",
-      "Regole",
-      "Misure",
-      "Exit Planning"
+      "Exit Planning",
+      "Feedback",
+      "Controllo",
+      "Intelligenza Strategica"
     ],
-    "correct": 3,
+    "correct": 0,
     "source": "Intelligenze/Intelligenza Strategica/5 - Piano/Exit/Exit Planning.md"
   },
   {
-    "question": "Quale concetto è descritto da: \"Il ______ è la sequenza ordinata di azioni concrete che trasforma la strategia in risultato. Nell'Intelligenza Strategica, il piano collega lo schema, l'endpoint, il team e l'unità attraverso tappe operative, risorse, tempi e indicatori di avanzamento.\"?",
+    "question": "Quale concetto è descritto da: \"Gli ______ sono il cuore operativo del Piano. Senza una sequenza chiara di passi, l'Intelligenza Strategica rimane a livello di intenzione. Una buona serie di Steps rende la strategia concreta, misurabile e realizzabile.\"?",
     "options": [
-      "Misure",
-      "Regole",
-      "Piano",
-      "Schema"
+      "Timing",
+      "Team",
+      "Steps",
+      "Obiettivi"
     ],
     "correct": 2,
-    "source": "Intelligenze/Intelligenza Strategica/5 - Piano/5 - Piano.md"
+    "source": "Intelligenze/Intelligenza Strategica/5 - Piano/Steps/Steps.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"La ______ è l'area del Team che riguarda la costruzione e la gestione di alleanze strategiche con altre persone, gruppi o organizzazioni. Nell'Intelligenza Strategica, la partnership permette di moltiplicare risorse, competenze e opportunità attraverso la collaborazione.\"?",
+    "options": [
+      "Steps",
+      "Combo",
+      "Piano",
+      "Partnership"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Strategica/3 - Team/Partnership/Partnership.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"La ______ è la cassetta degli attrezzi della Persuasione. Nell'Intelligenza Linguistica, padroneggiare la retorica significa saper dare peso, bellezza e forza alle proprie parole, sempre al servizio di un contenuto vero.\"?",
+    "options": [
+      "Rhetoric",
+      "Accuracy",
+      "Pragmatics",
+      "Persuasione"
+    ],
+    "correct": 0,
+    "source": "Intelligenze/Intelligenza Linguistica/4 - Persuasione/Rhetoric/Rhetoric.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Lo ______ è la firma estetica dell'Eyeful. Nell'Intelligenza Ambientale, uno stile coerente e consapevole non serve solo a essere belli: serve a essere riconoscibili, credibili e memorabili.\"?",
+    "options": [
+      "Stile",
+      "Luce",
+      "Tools",
+      "Look Dichotomy"
+    ],
+    "correct": 0,
+    "source": "Intelligenze/Intelligenza Ambientale/3 - Eyeful/Stile/Stile.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Terzo livello del Corso Persuasione: studio di come immagine, abbigliamento, prossemica e segnali non verbali comunicano status, credibilità e intenzioni prima ancora delle parole.\"?",
+    "options": [
+      "Strategie Linguistico Comportamentali Cognitive (SLCC)",
+      "Algoritmi Linguistici",
+      "Variabili dell'Interazione",
+      "Scienza dell'Apparenza"
+    ],
+    "correct": 3,
+    "source": "Scienza dell'Apparenza.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"I ______ sono il punto di partenza dell'Intelligenza Comportamentale. Senza la capacità di osservare e interpretare i segnali non verbali, ogni strategia comunicativa resta cieca a metà della informazione disponibile.\"?",
+    "options": [
+      "Mindset",
+      "Reward",
+      "Segni",
+      "Voce"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Comportamentale/1 - Segni/1 - Segni.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"L'______ è l'area dell'Intelligenza Emotiva che collega le emozioni ai valori, all'integrità e al benessere. Riguarda la capacità di usare le emozioni come bussola morale e di costruire relazioni fondate su rispetto, autenticità e cura reciproca.\"?",
+    "options": [
+      "Etics",
+      "Stato",
+      "Introspezione",
+      "Fast Focusing"
+    ],
+    "correct": 0,
+    "source": "Intelligenze/Intelligenza Emotiva/2 - Etics/2 - Etics.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"La ______ è l'arma invisibile dell'impatto. Nell'Intelligenza Comportamentale, una voce consapevole e modulata può rendere memorabile un concetto ordinario, trasformare un'intenzione in comando e una distanza in connessione.\"?",
+    "options": [
+      "Memoria",
+      "Learn",
+      "Abitudini",
+      "Voce"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Comportamentale/3 - Impatto/Voce/Voce.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"La ______ è il database del Learn. Nell'Intelligenza Comportamentale, una buona memoria delle persone, delle situazioni e delle proprie risposte permette di affrontare ogni interazione con maggiore consapevolezza e adattamento.\"?",
+    "options": [
+      "Espressione",
+      "Memoria",
+      "Segnali di Piacere",
+      "Mindset"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Comportamentale/4 - Learn/Memoria/Memoria.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"I ______ sono la faccia ombra dei Needs. Nell'Intelligenza Emotiva, riconoscerli significa vedere quali bisogni emotivi non stanno trovando soddisfazione salubre e decidere di curarli alla radice.\"?",
+    "options": [
+      "Needs",
+      "Valori",
+      "Drugs",
+      "Engagement"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Emotiva/3 - Needs/Drugs/Drugs.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"L'______ è l'area dell'Impatto che studia lo stato emotivo trasmesso e attivato durante un'interazione. Nell'Intelligenza Comportamentale, l'umore funziona come un campo emotivo: influenza come le persone ricevono il messaggio, quanto sono disponibili e quali decisioni prendono.\"?",
+    "options": [
+      "Umore",
+      "Amplied Impact",
+      "Intelligenza Comportamentale",
+      "Wonders"
+    ],
+    "correct": 0,
+    "source": "Intelligenze/Intelligenza Comportamentale/3 - Impatto/Umore/Umore.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Le ______ sono il punto in cui il Mindset diventa visibile. Nell'Intelligenza Comportamentale, imparare a reagire consapevolmente significa trasformare ogni stimolo in un'opportunità di risposta strategica, invece che in un riflesso automatico.\"?",
+    "options": [
+      "Reazioni",
+      "Training",
+      "Amplied Impact",
+      "Gestualità"
+    ],
+    "correct": 0,
+    "source": "Intelligenze/Intelligenza Comportamentale/2 - Mindset/Reazioni/Reazioni.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Capacità di percepire, scegliere e modificare il contesto fisico per favorire interazioni efficaci.\"?",
+    "options": [
+      "Envious",
+      "Intelligenza Ambientale",
+      "Materiali",
+      "Shapes"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Ambientale/Intelligenza Ambientale.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"I ______ sono la pelle degli spazi. Nell'Intelligenza Ambientale, sceglierli con consapevolezza significa decidere come l'ambiente verrà percepito al tatto e alla vista, amplificando o attenuando il messaggio comunicativo.\"?",
+    "options": [
+      "Impressione",
+      "Materiali",
+      "Look",
+      "Context"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Ambientale/1 - Spazi/Materiali/Materiali.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"L'______ è l'area dell'Intelligenza Comportamentale che misura l'effetto prodotto dal proprio comportamento sugli altri e sul contesto. Non si tratta solo di ciò che si intende comunicare, ma di ciò che effettivamente arriva, viene percepito e genera una reazione.\"?",
+    "options": [
+      "Segni",
+      "Reward",
+      "Impatto",
+      "Reazioni"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Comportamentale/3 - Impatto/3 - Impatto.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"L'______ è l'area dell'Eyeful che studia l'impatto visivo complessivo e la prima percezione che un ambiente o una persona lascia. Non è la somma dei singoli elementi, ma il giudizio istantaneo che il cervello forma nel primo secondo di osservazione.\"?",
+    "options": [
+      "Territorio",
+      "Context",
+      "Envious",
+      "Impressione"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Ambientale/3 - Eyeful/Impressione/Impressione.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Le ______ sono il cuore della Sociability. Nell'Intelligenza Emotiva, costruire relazioni significative significa investire nel bene più prezioso della vita emotiva: la connessione umana duratura e autentica.\"?",
+    "options": [
+      "Satisfaction",
+      "Valori",
+      "Relationships",
+      "Drugs"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Emotiva/4 - Sociability/Relationships/Relationships.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"La ______ è l'antenna dell'Intelligenza Emotiva. Senza una buona percezione emotiva, ogni strategia comunicativa naviga alla cieca: per regolare le emozioni bisogna prima saperle riconoscere.\"?",
+    "options": [
+      "Relationships",
+      "Stato",
+      "Sensibility",
+      "Satisfaction"
+    ],
+    "correct": 2,
+    "source": "Intelligenze/Intelligenza Emotiva/1 - Sensibility/1 - Sensibility.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"La ______ è l'area dei Segni che studia i movimenti del corpo, in particolare delle mani e delle braccia, come strumento di comunicazione non verbale. Nell'Intelligenza Comportamentale, i gesti amplificano, illustrano o sostituiscono il messaggio verbale.\"?",
+    "options": [
+      "Gestualità",
+      "Umore",
+      "Mindset",
+      "Abitudini"
+    ],
+    "correct": 0,
+    "source": "Intelligenze/Intelligenza Comportamentale/1 - Segni/Gestualità/Gestualità.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Lo ______ è l'influenza gentile della Persuasione. Nell'Intelligenza Linguistica, saper spostare l'orientamento altrui significa guidare con delicatezza, rispettando la libertà dell'altro pur orientando la conversazione.\"?",
+    "options": [
+      "3 Brains",
+      "Sway",
+      "Intelligenza Linguistica",
+      "Storytelling"
+    ],
+    "correct": 1,
+    "source": "Intelligenze/Intelligenza Linguistica/4 - Persuasione/Sway/Sway.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Sono dei ______ non verbali di gradimento. \nSi dividono in:\n## Movimenti Posturali\nAvanzamento posturale: ridurre la distanza fisica con l'interlocutore (indicatore di piacere).\n## Spazio visivo\nSpostare eventuali oggetti per liberare la visuale con l'interlocutore.\n## Sorriso\nSe la persona che ascolta sorride è un indicatore di piacere.\"?",
+    "options": [
+      "Espressione",
+      "Training",
+      "Play",
+      "Segnali di Piacere"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Comportamentale/1 - Segni/Posture/Segnali di Piacere.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Piattaforma di neuroscienze comportamentali e semiotica fondata da Paolo Borzacchiello, che studia il linguaggio, il comportamento e le dinamiche relazionali per migliorare comunicazione, ______ e leadership.\"?",
+    "options": [
+      "Corso Persuasione",
+      "Strategie Linguistico Comportamentali Cognitive (SLCC)",
+      "Sistema di Apprendimento",
+      "Variabili dell'Interazione"
+    ],
+    "correct": 0,
+    "source": "Human Connection Enginering (HCE).md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Il ______ è quel fenomeno in cui quando le cose vanno bene ci si atteggia da persone \"forti\" e \"brave\", mentre quando le cose vanno male \"sono gli altri che non capiscono\".\"?",
+    "options": [
+      "Bias",
+      "Reverse Bandwagon Effect",
+      "Bandwagon Effect",
+      "Self-serving Bias"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Self-serving Bias.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"I ______ si riferiscono alla posizione dalla quale osservare lo svolgimento dell'interazione.\"?",
+    "options": [
+      "Sistemi di Riferimento",
+      "Consistenza",
+      "Regole",
+      "Controllo"
+    ],
+    "correct": 0,
+    "source": "Intelligenze/Intelligenza Strategica/Sistemi di Riferimento.md"
   },
   {
     "question": "Quale concetto è descritto da: \"La ______ è la moltiplicazione dell'Unità. Nell'Intelligenza Strategica, saper combinare elementi diversi in modo armonioso significa ottenere risultati che nessun elemento isolato potrebbe raggiungere.\"?",
     "options": [
-      "Feedback",
+      "Team",
       "Combo",
-      "Exit Planning",
-      "Obiettivi"
+      "Obiettivi",
+      "Steps"
     ],
     "correct": 1,
     "source": "Intelligenze/Intelligenza Strategica/4 - Unità/Combo/Combo.md"
   },
   {
-    "question": "Quale concetto è descritto da: \"La ______ è la grammatica della distanza. Nell'Intelligenza Ambientale, gestire la vicinanza significa sapere quando avvicinare per connettere e quando allontanare per rispettare, guidando l'interazione attraverso lo spazio tra i corpi.\"?",
+    "question": "Quale concetto è descritto da: \"La ______ è il crogiuolo dell'Execute. Nell'Intelligenza Comportamentale, affrontare le sfide con strategia e calma significa dimostrare non solo competenza, ma anche carattere.\"?",
     "options": [
-      "Proxemic Violation",
-      "Materiali",
-      "Nearness",
-      "Envious"
-    ],
-    "correct": 2,
-    "source": "Intelligenze/Intelligenza Ambientale/4 - Nearness/4 - Nearness.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"L'______ è l'area dell'Etics che riguarda l'esame critico e onesto delle proprie emozioni, motivazioni e reazioni. È il processo di guardarsi dentro per capire cosa si prova realmente e perché.\"?",
-    "options": [
-      "Sociability",
-      "Engagement",
-      "Etics",
-      "Introspezione"
+      "Abitudini",
+      "Reazioni",
+      "Intelligenza Comportamentale",
+      "Challenge"
     ],
     "correct": 3,
-    "source": "Intelligenze/Intelligenza Emotiva/2 - Etics/Introspezione/Introspezione.md"
+    "source": "Intelligenze/Intelligenza Comportamentale/5 - Execute/Challenge/Challenge.md"
   },
   {
-    "question": "Quale concetto è descritto da: \"Cornici semantiche che orientano il modo in cui un'informazione viene interpretata, valutata e ricordata. Il frame definisce \"da quale angolazione\" si guarda un problema.\"?",
+    "question": "Quale concetto è descritto da: \"Lo ______ è il quadro emotivo del momento. Nelle Emozioni dell'Intelligenza Emotiva, sapere leggere e regolare il proprio e altrui stato significa navigare le interazioni con maggiore consapevolezza ed efficacia.\"?",
     "options": [
-      "Struttura",
-      "Index",
-      "Frames",
-      "Ordine"
+      "Relationships",
+      "Emozioni",
+      "Sociability",
+      "Stato"
+    ],
+    "correct": 3,
+    "source": "Intelligenze/Intelligenza Emotiva/5 - Emozioni/Stato/Stato.md"
+  },
+  {
+    "question": "Quale concetto è descritto da: \"Le ______ sono leve potenti dell'Effectiveness. Nell'Intelligenza Linguistica, saper fare le domande giuste significa guidare la conversazione, scoprire ciò che conta e costruire insieme la risposta.\"?",
+    "options": [
+      "Functional Priming",
+      "Persuasione",
+      "Questions",
+      "Frames"
     ],
     "correct": 2,
-    "source": "Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Frames.md"
-  },
-  {
-    "question": "Quale concetto è descritto da: \"Il ______ è l'arena della Persuasione. Nell'Intelligenza Linguistica, saper dibattere significa usare la logica e la rettorica per esplorare le idee, non per schiacciare l'altro.\"?",
-    "options": [
-      "Debate",
-      "Frames",
-      "Pragmatics",
-      "Sound Symbolism"
-    ],
-    "correct": 0,
-    "source": "Intelligenze/Intelligenza Linguistica/4 - Persuasione/Debate/Debate.md"
+    "source": "Intelligenze/Intelligenza Linguistica/5 - Effectiveness/Questions/Questions.md"
   }
 ]

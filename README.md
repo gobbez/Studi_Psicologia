@@ -74,3 +74,17 @@ L'esposizione ai colori blu e rosa riduce significativamente il livello di stres
 - Se il contenuto deriva da un testo, uno studio o un corso specifico, indica autore/anno/fonte in cima.
 - Non inserire numeri di pagina o riferimenti troppo formali: l'obiettivo è la sintesi operativa.
 - Verifica che i link `[[...]]` puntino a file effettivamente presenti o che si intendono creare.
+
+---
+
+## HCE Questions
+
+Esiste un quiz interattivo, **HCE Questions**, che genera domande a risposta multipla casuali a partire dagli appunti HCE del vault. È hostato su Vercel qui: [https://hcequestions.vercel.app/](https://hcequestions.vercel.app/)
+
+Il file delle domande (`questions.json`) si trova in `Human Connection Enginering (HCE)/website/` e può essere rigenerato in qualsiasi momento eseguendo, dalla stessa cartella:
+
+```bash
+python3 generate_questions.py
+```
+
+Lo script legge tutti i file `.md` di HCE e delle sue sottocartelle e produce automaticamente le domande con quattro opzioni di risposta.
