@@ -41,6 +41,7 @@ In sintesi: il priming prepara il terreno percettivo e associativo, la prima imp
 - [[Priming Comportamentale]]: attivato da stimoli che orientano automaticamente un'azione o un comportamento motorio.
 - [[Priming Subliminale]]: attivato da stimoli presentati sotto la soglia di percezione cosciente.
 - [[Functional Priming]]: attivato da parole, frame e immagini per orientare una funzione cognitiva, emotiva o comportamentale specifica prima di un messaggio chiave.
+- [[Priming Linguistico]]: attivato dalle parole, dalle frasi e dal registro linguistico, che predispongono l'ascoltatore attraverso frame e associazioni semantiche.
 
 ## Applicazione pratica
 1. Individuare l'effetto che si vuole ottenere (velocità di elaborazione, valutazione emotiva, azione, giudizio).
