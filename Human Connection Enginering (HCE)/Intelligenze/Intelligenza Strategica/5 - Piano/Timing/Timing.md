@@ -72,6 +72,9 @@ Nell'Intelligenza Strategica, il Timing svolge tre funzioni:
 - **Ignorare i segnali di timing**: perseverare in un'azione nonostante il contesto sia cambiato.
 - **Timing forzato**: creare urgenza artificiale che genera resistenza.
 
+## Approfondimenti
+- [[Now-or-never bottleneck]]: la finestra temporale strettissima entro cui un'opportunità deve essere colta, oltre la quale decade e va perduta.
+
 ## Sintesi
 
 Il Timing è una leva strategica fondamentale. Fa parte dell'Intelligenza Strategica perché richiede di leggere il contesto e prevedere reazioni; fa parte dell'area Piano perché decide quando ogni step deve essere attivato. Una buona strategia con un cattivo timing fallisce; un'azione modesta al momento giusto può avere un impatto enorme.

@@ -47,6 +47,9 @@ Distanza fisica, uso dello spazio, posizione nell'ambiente.
 - **Proiezione**: attribuire agli altri il proprio significato personale.
 - **Cultura-blind**: ignorare le differenze culturali nell'espressione non verbale.
 
+## Approfondimenti
+- [[Lie Detector]]: capacità di riconoscere le incongruenze comportamentali che segnalano menzogna o disagio nel racconto altrui.
+
 ## Sintesi
 
 I Segni sono il punto di partenza dell'Intelligenza Comportamentale. Senza la capacità di osservare e interpretare i segnali non verbali, ogni strategia comunicativa resta cieca a metà della informazione disponibile.

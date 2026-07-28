@@ -46,6 +46,9 @@ Aprire una curiosità, svilupparla, chiuderla alla fine.
 - **Chiusura debole**: terminare senza riepilogo o azione.
 - **Disonanze strutturali**: parti che non si collegano tra loro.
 
+## Approfondimenti
+- [[Chunk and pass]]: tecnica che suddivide un contenuto in unità piccole e verificate, alternando erogazione e passaggio della parola.
+
 ## Sintesi
 
 La Struttura è l'architettura dell'Ordine. Nell'Intelligenza Linguistica, una struttura solida permette alle idee di stare in piedi da sole e di guidare l'ascoltatore dal primo all'ultimo passo.
