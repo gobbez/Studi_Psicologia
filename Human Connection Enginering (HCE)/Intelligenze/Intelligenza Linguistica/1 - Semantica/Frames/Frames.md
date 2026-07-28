@@ -14,7 +14,7 @@ Cornici semantiche che orientano il modo in cui un'informazione viene interpreta
 - **Frame identitario**: presentare una scelta come coerente con l'immagine che uno ha di sé.
 
 ## Applicazioni avanzate
-- [[Functional Priming]]: uso dei frame per attivare stati cognitivi, emotivi o comportamentali specifici prima di un messaggio.
+- [[Priming]]: uso dei frame per attivare stati cognitivi, emotivi o comportamentali specifici prima di un messaggio.
 
 ## Collegamenti
 [[1 - Semantica]]

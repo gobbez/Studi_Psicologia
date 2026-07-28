@@ -40,5 +40,5 @@ Parole come *tranquillo*, *sereno*, *spazio* attivano una risposta fisiologica d
 4. Verificare che il contenuto successivo sia allineato al priming.
 
 ## Collegamenti
-[[Frames]]
+[[Priming]]
 [[Neuroscienze]]
