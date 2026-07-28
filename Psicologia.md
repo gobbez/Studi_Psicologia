@@ -18,4 +18,6 @@
 # [[Psicologia Sviluppo]]
 
 ## [[Scrum]]
+
+# [[Studi Analisi]]
 # [[Studi Scientifici]]
