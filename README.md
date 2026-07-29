@@ -88,3 +88,17 @@ python3 generate_questions.py
 ```
 
 Lo script legge tutti i file `.md` di HCE e delle sue sottocartelle e produce automaticamente le domande con quattro opzioni di risposta.
+
+---
+
+## File "maxi" per cartella
+
+Nella cartella `0_Maximd/` è presente lo script `genera_maxi_md.py`, che genera un file `<Nome Cartella>_maxi.md` per ciascuna cartella principale del vault, concatenando al suo interno tutti i file `.md` trovati ricorsivamente in quella cartella (esclusa la sottocartella `website` di HCE).
+
+Per (ri)generare tutti i file maxi, dalla cartella `0_Maximd/`:
+
+```bash
+python genera_maxi_md.py
+```
+
+Va rieseguito ogni volta che si aggiungono, modificano o rimuovono appunti, per mantenere i file maxi aggiornati.
