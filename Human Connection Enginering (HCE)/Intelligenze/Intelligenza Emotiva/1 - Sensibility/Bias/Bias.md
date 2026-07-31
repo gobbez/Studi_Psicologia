@@ -26,7 +26,7 @@ Credere che gli altri provino o pensino come noi.
 ### Negatività
 Dare più peso a segnali emotivi negativi che a quelli positivi.
 
-### Halo effect
+### [[Effetto Alone]]
 Lasciare che una prima impressione colori tutta la lettura emotiva.
 
 ### Confirmation bias

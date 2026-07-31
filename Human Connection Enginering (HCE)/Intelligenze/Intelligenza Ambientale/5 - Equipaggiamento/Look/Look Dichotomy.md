@@ -45,7 +45,7 @@ Statisticamente, le persone con un aspetto tidy tendono a guadagnare fino al **2
 
 ## Basi psicologiche
 
-### Halo effect
+### [[Effetto Alone]]
 Un aspetto curato si estende alla percezione di competenza, intelligenza e affidabilità.
 
 ### Stereotipi di aspetto

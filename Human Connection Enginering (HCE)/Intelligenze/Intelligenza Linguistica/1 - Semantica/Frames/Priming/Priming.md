@@ -17,6 +17,27 @@ Fenomeno cognitivo per cui l'esposizione a uno stimolo (una parola, un'immagine,
 - **Corteccia prefrontale e sistema limbico**: guidano rispettivamente l'interpretazione cognitiva del frame attivato e la colorazione emotiva dello stimolo.
 - **Neuroplasticità**: l'esposizione ripetuta agli stessi stimoli rinforza le connessioni sinaptiche coinvolte, rendendo il priming più stabile nel tempo.
 
+## Priming verbale e non verbale
+
+Il canale attraverso cui arriva lo stimolo determina quali circuiti cerebrali vengono attivati per primi e con quale velocità.
+
+### Stimoli verbali
+Gli stimoli linguistici (parole, frasi, racconti, domande) attivano prevalentemente:
+- **Corteccia frontale**: elaborazione semantica, comprensione e produzione del linguaggio.
+- **Corteccia prefrontale**: integrazione del significato nel contesto, valutazione del frame, controllo esecutivo.
+- **Cervelletto**: supporta la rapidità di elaborazione verbale, la predizione del flusso del discorso e l'automazione delle risposte linguistiche.
+
+Il priming verbale agisce principalmente su comprensione, categorizzazione e giudizio logico. Ha il vantaggio della precisione, ma richiede più tempo per essere elaborato.
+
+### Stimoli non verbali
+Gli stimoli che non passano attraverso il linguaggio (espressioni facciali, tono di voce, posture, gesti, immagini, colori, ritmo, spazio) attivano prevalentemente:
+- **Corpo amigdaloideo**: valutazione rapida della rilevanza emotiva, minaccia o opportunità, memorizzazione implicita associata a esperienze passate.
+
+Il priming non verbale agisce più velocemente e più in profondità: raggiunge le risposte emotive e comportamentali prima che la corteccia abbia terminato di elaborare il contenuto verbale. È il canale che governa la "prima impressione" a livello emotivo.
+
+### Implicazione pratica
+Nella comunicazione i due canali viaggiano insieme. Quando il priming non verbale è coerente con quello verbale, il messaggio risulta credibile, fluido e facile da accettare. Quando i due canali sono in contrasto, il cervello tende a dare più peso a ciò che ha elaborato per primo e più rapidamente: spesso il non verbale. Per questo un frame verbale ben costruito perde efficacia se è accompagnato da segnali corporei, vocali o contestuali incoerenti.
+
 ## Differenze con la prima impressione
 Priming e prima impressione sono spesso confusi perché entrambi agiscono in modo rapido e in parte inconsapevole, ma sono fenomeni distinti:
 
@@ -25,7 +46,7 @@ Priming e prima impressione sono spesso confusi perché entrambi agiscono in mod
 | **Oggetto** | Uno stimolo puntuale (parola, immagine, frame) che facilita l'elaborazione di uno stimolo successivo | Un giudizio globale e olistico su una persona, situazione o oggetto |
 | **Natura** | Attivazione associativa di reti già esistenti | Formazione di un giudizio nuovo, spesso categoriale (es. "affidabile", "competente") |
 | **Consapevolezza** | Quasi sempre inconsapevole | Può essere in parte consapevole, anche se rapida e automatica (*thin slicing*) |
-| **Durata** | Effetto breve e contestuale, decade rapidamente | Effetto duraturo, tende a persistere e a distorcere le informazioni successive (effetto alone) |
+| **Durata** | Effetto breve e contestuale, decade rapidamente | Effetto duraturo, tende a persistere e a distorcere le informazioni successive ([[Effetto Alone]]) |
 | **Meccanismo** | Facilitazione di elaborazione (velocità, accessibilità) | Categorizzazione e attribuzione di tratti |
 | **Relazione tra i due** | Il priming può **precedere e orientare** la prima impressione, rendendo alcuni tratti più salienti nel momento del giudizio | La prima impressione, una volta formata, può essa stessa fungere da frame che prime le informazioni successive |
 
@@ -51,3 +72,4 @@ In sintesi: il priming prepara il terreno percettivo e associativo, la prima imp
 
 ## Collegamenti
 [[Frames]]
+[[Metodo Early]]
