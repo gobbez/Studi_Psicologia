@@ -81,7 +81,7 @@ Andare avanti, fare finta di niente e concentrarsi sull'interazione, applicando 
 - Verificare il risultato delle proprie azioni
 
 ---
-## Priming sui bambini
+# Priming sui bambini
 (dai 3 ai 9 anni)
 Adegua i livelli di astrazione, parlando un linguaggio che loro possono capire. Le regole sul linguaggio paraverbale sono le stesse che per gli adulti. Inoltre per i bambini conviene mettersi alla loro stessa altezza.
 
@@ -99,6 +99,10 @@ Priming e prima impressione sono spesso confusi perché entrambi agiscono in mod
 | **Relazione tra i due** | Il priming può **precedere e orientare** la prima impressione, rendendo alcuni tratti più salienti nel momento del giudizio | La prima impressione, una volta formata, può essa stessa fungere da frame che prime le informazioni successive |
 
 In sintesi: il priming prepara il terreno percettivo e associativo, la prima impressione è il raccolto, ovvero il giudizio complessivo che ne deriva. Non sono la stessa cosa, ma il primo alimenta ed orienta la seconda.
+
+---
+# Ipotesi della Relatività Linguistica ([[Relatività Linguistica]])
+_"Il modo di esprimersi determina il modo di pensare"_ (E. Sapir, B. Whorf)
 
 ---
 ---

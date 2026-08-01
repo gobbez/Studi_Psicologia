@@ -13,3 +13,5 @@ Pratica di accompagnamento allo sviluppo personale e professionale attraverso do
 ## [[Gestione Risposte Emotive al Feedback]]
 
 ## [[Miglioramento Continuo]]
+
+## [[Sviluppo delle Competenze]]
