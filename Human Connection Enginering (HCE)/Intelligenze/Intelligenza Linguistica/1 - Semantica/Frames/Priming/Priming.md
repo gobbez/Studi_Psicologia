@@ -66,6 +66,7 @@ Prestare attenzione a:
 - Se si vuole indicare il passato si deve indicare la sinistra ma sul palco si dovrà usare la destra (è la sinistra di chi guarda, non la propria!), viceversa se si vuole indicare il futuro
 - Non usare mai parole come provare, tentare ma essere diretti e precisi. Non parlare della storia dell'azienda o di cose straordinarie che fai ma parlare solo di ciò che interessa al cliente ("what's is for me?"). 
 - Far pensare agli altri il sì attraverso frasi o azioni veritiere (come "eccoci, puntuali", "puntuali come concordato", "ora prendo la penna e scrivo")
+- Se ti presentano: accetta i complimenti e non ridere troppo e dopo la presentazione fai sempre un passo in avanti
 
 ---
 # Cosa fare nel caso di un Priming poco funzionale o errato
@@ -78,6 +79,11 @@ Andare avanti, fare finta di niente e concentrarsi sull'interazione, applicando 
 - Definisci che impatto il tuo errore cognitivo potrebbe avere sul tuo giudizio
 - Fai azioni correttive, facendosi delle domande
 - Verificare il risultato delle proprie azioni
+
+---
+## Priming sui bambini
+(dai 3 ai 9 anni)
+Adegua i livelli di astrazione, parlando un linguaggio che loro possono capire. Le regole sul linguaggio paraverbale sono le stesse che per gli adulti. Inoltre per i bambini conviene mettersi alla loro stessa altezza.
 
 ---
 # Differenze con la prima impressione
