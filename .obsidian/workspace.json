@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "849af2fb4da6f9f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Metafore"
+            }
+          },
+          {
             "id": "d6365459eb57d27c",
             "type": "leaf",
             "state": {
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -251,9 +265,12 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "7f180fdf772bce0c",
+  "active": "849af2fb4da6f9f6",
   "lastOpenFiles": [
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Parole.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Functional Frames.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Linguaggio Figurato.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Frames.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Tipi di Frames/Tipi di Frames.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Cambiare Frame.md",
@@ -281,9 +298,6 @@
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Priming/Priming Linguistico.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Effetto Alone.md",
-    "Studi Analisi/Colore Ceruleo.md",
-    "Studi Analisi/Studi Analisi.md",
-    "Psicologia.md",
     "Studi Analisi/Colore Ceruleo.md.tmp.462.52ad4e3937c9",
     "Studi Analisi/Analisi Miranda.txt",
     "Studi Analisi/Nuovo Documento di testo.txt",

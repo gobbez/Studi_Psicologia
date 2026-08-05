@@ -13,5 +13,9 @@ Unità fondamentali della semantica. La scelta delle parole attiva significati, 
 - Usare verbi di azione per spostare l'attenzione sul fare.
 - Scegliere metafore che supportino il frame desiderato.
 
+# [[Linguaggio Figurato]]
+# [[Metafore]]
+
+
 ## Collegamenti
 [[1 - Semantica]]
