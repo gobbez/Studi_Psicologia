@@ -17,8 +17,11 @@ La Rhetoric svolge tre funzioni:
 
 ## Strumenti della retorica
 
-### Metafore e analogie
+### [[Metafore]] e analogie
 Trasferire significati da un dominio all'altro per chiarire e persuadere.
+
+### [[Figure Retoriche]]
+Parole usate per rendere i messaggi più belli, forti, chiari o divertenti.
 
 ### Iperbole e litote
 Amplificare o attenuare per effetto.

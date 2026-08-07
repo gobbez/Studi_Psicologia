@@ -5,6 +5,16 @@ Il cervello ne viene condizionato e crea una realtà coerente con le metafore ut
 
 Diventa molto complicato riuscire a controllare le proprie metafore, ma è possibile riuscire a riconoscerle.
 
+## [[Obiettivi Ormonali]]
+Indicano le reazioni chimiche ed emozioni che si vogliono far produrre all'interlocutore.
+
+## Cambi Metaforici
+E' possibile comunicare lo stesso significato utilizzando parole e metafore differenti per suscitare reazioni differenti, anche e soprattutto in base alle preferenze dell'interlocutore.
+
+## Combinazioni Metaforiche
+E' possibile combinare differenti metafore all'interno della stessa struttura narrativa, quando non si ha idea delle preferenze dell'interlocutore.
+
+
 # Tipi di Metafore
 
 ### [[Metafore Strutturali]]

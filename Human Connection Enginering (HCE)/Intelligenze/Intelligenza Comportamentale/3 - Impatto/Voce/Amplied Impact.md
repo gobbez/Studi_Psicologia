@@ -11,4 +11,4 @@ Utilizzare delle figure Retoriche aiuta a dare una migliore spiegazione a ciò c
 
 ## Connessioni
 [[Voce]]
-[[Retorica]]
+[[Rhetoric]]
