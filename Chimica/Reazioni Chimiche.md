@@ -3,7 +3,12 @@
 
 
 # [[Adrenalina]]
-
+# [[Cortisolo]]
+# [[Dopamina]]
+# [[Endorfine]]
+# [[Ossitocina]]
+# [[Serotonina]]
+# [[Testosterone]]
 
 
 

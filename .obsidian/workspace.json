@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "889cf07620d875d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human Connection Enginering (HCE)/Human Connection Enginering (HCE).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Human Connection Enginering (HCE)"
-            }
-          },
-          {
             "id": "9a6bc1ceb9f8bac7",
             "type": "leaf",
             "state": {
@@ -50,7 +36,7 @@
             }
           },
           {
-            "id": "849af2fb4da6f9f6",
+            "id": "61c2d093c6a20bbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,31 +50,17 @@
             }
           },
           {
-            "id": "d6365459eb57d27c",
+            "id": "fb36d44f02613871",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Functional Frames.md",
+                "file": "Chimica/Reazioni Chimiche.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Functional Frames"
-            }
-          },
-          {
-            "id": "7f180fdf772bce0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Tipi di Frames/Tipi di Frames.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tipi di Frames"
+              "title": "Reazioni Chimiche"
             }
           }
         ],
@@ -265,44 +237,44 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "849af2fb4da6f9f6",
+  "active": "fb4ce52c12ac7ee0",
   "lastOpenFiles": [
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Functional Frames.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore/Metafore Morte.md",
+    "Chimica/Reazioni Chimiche.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore/Metafore.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore/Moderne/Metafore Moderne.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore/Moderne/Metafora Denaro.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore/Moderne/Metafora Medicina.md",
+    "Psicologia Personalità/Sentinelle/ESFJ.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore/Moderne/Metafora Tecnologia.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore/Moderne/Metafora Sport.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Frames.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore/Moderne/Metafora Trasporti.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore/Ancestrali/Metafore Ancestrali.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore/Moderne",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore/Ancestrali/Metafora Corpo.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Tipi di Frames/Tipi di Frames.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore/Ancestrali/Metafora Cibo.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore/Ancestrali/Metafora Viaggio.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore/Ancestrali/Metafora Natura.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Functional Frames.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore/Ancestrali/Metafora Guerra.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore/Ancestrali",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore/Metafore Morte.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore/Metafore Ontologiche.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore/Metafore di Orientamento.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore/Metafore Strutturali.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Parole.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Linguaggio Figurato.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Frames.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Tipi di Frames/Tipi di Frames.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Cambiare Frame.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Cambiare Frame.md.tmp.472.79506cd29f0b",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Framing Effect.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Tipi di Frames/Perdita vs Guadagno.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Tipi di Frames/Identitario.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Tipi di Frames",
-    "Human Connection Enginering (HCE)/Human Connection Enginering (HCE).md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Priming/Priming.md",
-    "Coaching/Feedback Costruttivo.md",
     "Coaching/Coaching.md.tmp.543.f82f97d0d8a7",
-    "Coaching/Sviluppo delle Competenze.md",
     "Coaching/Sviluppo delle Competenze.md.tmp.543.75c53287832f",
     "Lezione 22 - Sviluppo delle Competenze.txt",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Priming/Priming Online.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Priming/Metodo Early/Metodo Early.md",
-    "README.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Priming/Metodo Early/Yourself.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Priming/Metodo Early/Reputation.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Priming/Metodo Early/Links.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Priming/Metodo Early/Expectations.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Priming/Metodo Early/Assumptions.md",
     "Studi Analisi/Colore Ceruleo.md.tmp.462.52ad4e3937c9",
     "Studi Analisi/Analisi Miranda.txt",
-    "Studi Analisi/Nuovo Documento di testo.txt",
-    "Studi Analisi",
     "Human Connection Enginering (HCE)/Corso Persuasione/lscc.png",
     "b.jpeg",
     "c.jpeg",
