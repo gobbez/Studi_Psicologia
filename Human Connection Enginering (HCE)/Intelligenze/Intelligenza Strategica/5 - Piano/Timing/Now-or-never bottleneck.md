@@ -3,6 +3,7 @@
 
 # Now-or-Never Bottleneck
 
+Anche definito **[[Principio di Scarsità]]**. 
 Concetto secondo cui esiste una finestra temporale strettissima entro cui un'informazione, un'opportunità o un segnale deve essere colta e processata: se non viene agita in quel preciso istante, decade e va perduta, spesso in modo irreversibile. Nasce come termine delle scienze cognitive (Christiansen & Chater) per descrivere i limiti della memoria a brevissimo termine nell'elaborazione del linguaggio, ma si applica in modo naturale al Timing strategico: ogni contesto ha momenti in cui l'azione è possibile e momenti in cui la stessa azione non produce più alcun effetto.
 
 ## Principio di funzionamento

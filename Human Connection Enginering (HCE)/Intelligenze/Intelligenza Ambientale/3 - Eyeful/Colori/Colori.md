@@ -3,6 +3,7 @@
 # Colori
 
 I **Colori** sono l'area dell'**Eyeful** che studia come la cromatica influenzi percezione, emozione e comportamento. I colori comunicano istantaneamente e attivano associazioni culturali, biologiche e personali.
+Nel nostro processo di evoluzione, il colore è stato sviluppato per riconoscere subito i pericoli del mondo circostante (come i predatori o capire se il cibo è commestibile o no).
 
 ## Definizione
 
