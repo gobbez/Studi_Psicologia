@@ -46,7 +46,8 @@ def main():
         with output_path.open("w", encoding="utf-8") as out:
             for md_file in md_files:
                 rel_path = md_file.relative_to(folder)
-                out.write(f"\n\n---\n\n<!-- {rel_path} -->\n\n")
+                title = md_file.stem
+                out.write(f"\n\n---\n\n<!-- {rel_path} -->\n\n# {title}\n\n")
                 out.write(md_file.read_text(encoding="utf-8", errors="replace"))
 
         print(f"[OK] {folder.name}: {len(md_files)} file -> {output_path.name}")

@@ -15,3 +15,5 @@ Pratica di accompagnamento allo sviluppo personale e professionale attraverso do
 ## [[Miglioramento Continuo]]
 
 ## [[Sviluppo delle Competenze]]
+
+## [[Sviluppo del Team]]
