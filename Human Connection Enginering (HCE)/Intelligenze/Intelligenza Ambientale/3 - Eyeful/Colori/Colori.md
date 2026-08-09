@@ -16,26 +16,6 @@ I Colori svolgono tre funzioni:
 - **Comunicazione emotiva**: ogni colore attiva stati d'animo specifici.
 - **Identificazione**: aiutano a riconoscere brand, ruoli, aree o funzioni.
 
-## Psicologia dei colori principali
-
-### Rosso
-Energia, passione, urgenza, potere. Aumenta l'eccitazione e può attivare aggressività o desiderio.
-
-### Blu
-Calma, fiducia, professionalità, stabilità. Riduce la pressione e favorisce la concentrazione.
-
-### Giallo
-Ottimismo, creatività, attenzione. Troppo intenso può generare ansia o stanchezza.
-
-### Verde
-Natura, equilibrio, crescita, armonia. Rilassa e favorisce il benessere.
-
-### Nero
-Eleganza, autorità, mistero. Usato eccessivamente può apparire pesante o minaccioso.
-
-### Bianco
-Pulizia, semplicità, spazio. Può apparire sterile se non bilanciato.
-
 ## Applicazioni pratiche
 
 - Usare blu per contesti professionali e di negoziazione.
@@ -50,9 +30,30 @@ Pulizia, semplicità, spazio. Può apparire sterile se non bilanciato.
 - **Ignorare il contesto culturale**: un colore può avere significati opposti in culture diverse.
 - **Abbinamenti poco armoniosi**: contrasti forzati che disturbano invece di attrarre.
 
+---
+# [[Livelli di Esperienza]] 
+
+---
+## Psicologia dei colori principali
+
+### [[Rosso]]
+### [[Blu]]
+### [[Giallo]]
+### [[Verde]]
+### [[Bianco]]
+### [[Nero]]
+
+---
+# [[Colori Significativi]]
+
+---
+# [[Tonalità]]
+
+---
 ## Sintesi
 
 I Colori sono il linguaggio veloce dell'Eyeful. Nell'Intelligenza Ambientale, scegliere i colori giusti significa predisporre l'emotività dell'interlocutore prima ancora che inizi a elaborare il contenuto.
 
 ## Collegamenti
 [[3 - Eyeful]]
+[[Marketing]]
