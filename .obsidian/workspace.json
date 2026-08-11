@@ -22,21 +22,35 @@
             }
           },
           {
-            "id": "9a6bc1ceb9f8bac7",
+            "id": "a2145f45b4f1d3ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Frames.md",
+                "file": "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Strategie Linguistico Comportamentali Cognitive (SLCC).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frames"
+              "title": "Strategie Linguistico Comportamentali Cognitive (SLCC)"
+            }
+          },
+          {
+            "id": "8d1d4596ee1f1586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style/Style.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Style"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,44 +223,45 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "9a6bc1ceb9f8bac7",
+  "active": "8d1d4596ee1f1586",
   "lastOpenFiles": [
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Colori/Colori.md",
-    "Marketing/Marketing.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style/Subordination/Subordination.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style/Style.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style/Focus/Focus.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style/Focus/Distracted.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style/Focus/Immersive.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Show/Phylosophy/Phylosophy.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Show/Phylosophy/How.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Show/Phylosophy/Why.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Show/Phylosophy",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style/Subordination/Commanders.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style/Subordination/Workers.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style/Subordination",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style/Focus",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Strategie Linguistico Comportamentali Cognitive (SLCC).md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Sort/Sort.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Start/Start.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Show/Show.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Shift/Shift.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/lscc.png",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Sort",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Start",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Shift",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Show",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Corso Persuasione.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Frames/Frames.md",
+    "0_Maximd/Teoria del Comportamento_maxi.md",
+    "0_Maximd/Sviluppo Morale_maxi.md",
+    "0_Maximd/Studi Scientifici_maxi.md",
+    "0_Maximd/Studi Analisi_maxi.md",
+    "0_Maximd/Scrum_maxi.md",
+    "0_Maximd/Human Connection Enginering (HCE)_maxi.md",
+    "0_Maximd/Cronoritmi_maxi.md",
+    "0_Maximd/Comunicazione_maxi.md",
+    "0_Maximd/Coaching_maxi.md",
     "Marketing",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Colori/Colori Significativi.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Colori/Tonalità.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Colori/Nero.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Colori/Giallo.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Colori/Bianco.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Colori/Verde.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Colori/Blu.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Colori/Rosso.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Colori/Livelli di Esperienza/Livelli di Esperienza.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Colori/Livelli di Esperienza/Livello personale.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Colori/Livelli di Esperienza/Livello sociale.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Colori/Livelli di Esperienza/Livello biologico.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Colori/Livelli di Esperienza",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Metafore/Metafore.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/5 - Piano/Timing/Now-or-never bottleneck.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Figure Retoriche/Similitudine.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Figure Retoriche/Paragone.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Figure Retoriche/Analogia.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/4 - Persuasione/Rhetoric/Rhetoric.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Figure Retoriche/Figure Retoriche.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/1 - Semantica/Parole/Figure Retoriche",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/3 - Impatto/Voce/Amplied Impact.md",
-    "Chimica/Reazioni Chimiche.md",
-    "Chimica/Vasopressina.md",
-    "Chimica/Vasopressina.md.tmp.6636.a8fde7400d3e",
-    "Chimica/Progesterone.md",
-    "Chimica/Melatonina.md.tmp.6636.c6a80a748928",
-    "Chimica/Estrogeni.md.tmp.6636.61bf9cf673ad",
-    "Chimica/Acetilcolina.md.tmp.6636.e78fd44bbd7a",
-    "Chimica/Reazioni Chimiche.md.tmp.6636.e881ad6676a8",
-    "Chimica/Testosterone.md.tmp.6636.988aab2488b4",
-    "Chimica/Serotonina.md.tmp.6636.f32c12cf5e7e",
-    "Human Connection Enginering (HCE)/Corso Persuasione/lscc.png",
     "b.jpeg",
     "c.jpeg",
     "d.jpeg",
