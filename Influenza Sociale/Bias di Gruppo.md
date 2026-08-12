@@ -9,3 +9,4 @@ Esempi:
 - [[Effetto Alone]]: generalizzare una caratteristica a tutto il gruppo
 
 [[Influenza Sociale]]
+[[Bias]]

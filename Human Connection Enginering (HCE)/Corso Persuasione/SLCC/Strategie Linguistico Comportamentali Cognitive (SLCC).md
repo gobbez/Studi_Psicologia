@@ -15,6 +15,10 @@ Primo livello del [[Corso Persuasione]]: pattern linguistici e comportamentali c
 
 ## [[Sort]]
 
+---
+### [[Combo SLCC]]
+### [[Strumenti SLCC]]
+
 
 
 ## Collegamenti

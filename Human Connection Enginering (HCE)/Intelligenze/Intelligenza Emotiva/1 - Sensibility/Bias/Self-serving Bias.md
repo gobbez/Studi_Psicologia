@@ -1,11 +1,8 @@
-#psicologia 
+#psicologia
 
-Il **Self-serving Bias** è quel fenomeno in cui quando le cose vanno bene ci si atteggia da persone "forti" e "brave", mentre quando le cose vanno male "sono gli altri che non capiscono".
+# Self-serving Bias
 
-Si tende a farsi meriti nel caso di successi e a dare le colpe agli altri quando le cose vanno male. 
-"Ho preso 9" - "Mi ha dato 4".
-
-
+Il **Self-serving Bias** porta ad attribuire i successi a sé stessi e i fallimenti a fattori esterni o agli altri. È un meccanismo di protezione dell'autostima che distorce la percezione della propria responsabilità.
 
 ---
 [[Bias]]

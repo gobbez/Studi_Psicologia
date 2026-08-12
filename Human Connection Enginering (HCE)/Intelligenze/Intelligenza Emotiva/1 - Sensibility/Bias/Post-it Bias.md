@@ -1,14 +1,8 @@
-#hce 
+#hce
 
-Utilizzare il metodo del [[Brainstorming]] in cui tutti possono dire la loro, pensando che così si generano molte più idee. 
+# Post-it Bias
 
-La scienza però ha smentito ciò e in realtà è stato dimostrato che in gruppo le persone si impegnano meno ([[Effetto Ringmann]]).
-
-
-
-
-
-
+Il **Post-it Bias** è la convinzione che il brainstorming di gruppo generi più idee rispetto al lavoro individuale. In realtà, l'impegno personale tende a calare in gruppo e la qualità delle idee ne risente.
 
 ## Collegamenti
 [[Bias]]

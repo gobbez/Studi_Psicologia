@@ -13,7 +13,7 @@ Quando un gruppo decide all'unaminità un'idea anche se non interessa a nessuno 
 - [[Effetto Ringmann]]
 ### Tecniche per evitare il problema:
 - **[[Silence Start]]**: pochi minuti prima della riunione ognuno scrive una propria opzione e solo dopo si leggono tutte assieme, per non partire con un'idea iniziale influenzata.
-- Dare priorità a chi ha il ruolo più basso
+- Dare priorità a chi riveste una carica meno importante.
 - Imporre di fornire 8 idee concrete in 8 minuti, per forzare il flusso di idee realistiche.
 
 ## Da evitare

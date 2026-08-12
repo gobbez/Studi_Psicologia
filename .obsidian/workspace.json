@@ -27,16 +27,70 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Strategie Linguistico Comportamentali Cognitive (SLCC).md",
+                "file": "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Strategie Linguistico Comportamentali Cognitive (SLCC).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Strategie Linguistico Comportamentali Cognitive (SLCC)"
             }
+          },
+          {
+            "id": "284c1925e0f45430",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Strumenti SLCC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Strumenti SLCC"
+            }
+          },
+          {
+            "id": "c9d7002dde503de3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Combo SLCC/Combo SLCC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combo SLCC"
+            }
+          },
+          {
+            "id": "e4691892b722ee8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Combo SLCC/M.I.C.R.O..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "M.I.C.R.O."
+            }
+          },
+          {
+            "id": "4f915a38dfc377a4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/slcc.png"
+              },
+              "icon": "lucide-image",
+              "title": "slcc"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -211,16 +265,34 @@
   },
   "active": "8bc535a1405f914a",
   "lastOpenFiles": [
+    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Start/Motivation/Gain.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Start/Motivation/Loss.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Start/Motivation/Motivation.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Combo SLCC/M.I.C.R.O..md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Combo SLCC/Combo SLCC.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Strumenti SLCC.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/slcc.png",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Loss Aversion.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Start/Motivation",
+    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Strategie Linguistico Comportamentali Cognitive (SLCC).md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Combo SLCC",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Strategica/4 - Unità/Combo/Combo.md",
+    "Studi Analisi/Trappole Decisioni.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Sequence Bias.md.tmp.473.fc9f7a9b6978",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Self-serving Bias.md.tmp.473.b46a872ed391",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Post-it Bias.md.tmp.473.97d6cd392255",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Effetto Ringmann.md.tmp.473.edcafe75b07b",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Bias.md.tmp.473.1e678a74dc8c",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Bandwagon Effect.md.tmp.473.2165958dd9f7",
+    "Influenza Sociale/Bias di Gruppo.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Bias.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Sequence Bias.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Effetto Ringmann.md",
-    "Studi Analisi/Trappole Decisioni.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Bias.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Post-it Bias.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Bandwagon Effect.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Strategie Linguistico Comportamentali Cognitive (SLCC).md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style/Changes/Changes.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style/Changes/Innovator.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style/Changes/Traditional.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Style/Changes/Changes.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Style/Changes/Innovator.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Style/Changes/Traditional.md",
     "Psicologia Personalità/Funzioni Cognitive/Se.md",
     "Psicologia Personalità/Funzioni Cognitive/Si.md",
     "Psicologia Personalità/Funzioni Cognitive/Fe.md",
@@ -230,24 +302,6 @@
     "Psicologia Personalità/Funzioni Cognitive/Ti.md.tmp.540.1b9b057b831f",
     "Psicologia Personalità/Funzioni Cognitive/Ne.md",
     "Psicologia Personalità/Funzioni Cognitive/Ne.md.tmp.540.fa71058e448f",
-    "Psicologia Personalità/Funzioni Cognitive/Ni.md",
-    "Psicologia Personalità/Funzioni Cognitive/Ni.md.tmp.540.925c07ca7cc7",
-    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style/Style.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style/Changes",
-    "Psicologia Personalità/Funzioni Cognitive/Tutte le funzioni.md",
-    "Psicologia Personalità/Funzioni Cognitive/Funzioni Cognitive.md",
-    "Psicologia Personalità/Funzioni Cognitive/Funzioni Estroverse.md",
-    "Psicologia Personalità/Funzioni Cognitive",
-    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style/Subordination/Subordination.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style/Focus/Focus.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style/Focus/Distracted.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style/Focus/Immersive.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Show/Phylosophy",
-    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style/Subordination",
-    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style/Focus",
-    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/lscc.png",
-    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Sort",
-    "Human Connection Enginering (HCE)/Corso Persuasione/LSCC/Style",
     "b.jpeg",
     "c.jpeg",
     "d.jpeg",
