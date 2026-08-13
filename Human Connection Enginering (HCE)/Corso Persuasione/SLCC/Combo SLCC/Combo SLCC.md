@@ -6,7 +6,7 @@ Le tecniche hanno un acronimo che corrisponde alle SLCC che vanno applicate in q
 ## Tecniche
 
 - # [[M.I.C.R.O.]]
-
+- # [[M.A.C.R.O.]]
 
 
 
