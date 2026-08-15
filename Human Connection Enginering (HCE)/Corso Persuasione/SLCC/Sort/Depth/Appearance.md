@@ -1,10 +1,11 @@
 #hce 
 
-Indica ciò che viene detto o fatto, come le parole o il comportamento.
+Indica la preferenza a soffermarsi sulle apparenze.
 
 ### Esempi:
-- "Non sto molto bene"
-- "Sono soddisfatto"
+- _"A colpo d'occhio preferisco questo"_
+- _"Mi ispira maggiormente questo"_
+- _"Sta meglio questo"_
 
 
 

@@ -64,34 +64,6 @@
             }
           },
           {
-            "id": "e6e8935ea5a19753",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Combo SLCC/M.I.C.R.O..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "M.I.C.R.O."
-            }
-          },
-          {
-            "id": "ccde70ac31eb386d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Combo SLCC/M.A.C.R.O..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "M.A.C.R.O."
-            }
-          },
-          {
             "id": "4f915a38dfc377a4",
             "type": "leaf",
             "state": {
@@ -102,23 +74,9 @@
               "icon": "lucide-image",
               "title": "slcc"
             }
-          },
-          {
-            "id": "d181087a9ccb3fe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Shift/Reference/Reference.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reference"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -291,15 +249,16 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "d181087a9ccb3fe4",
+  "active": "4f915a38dfc377a4",
   "lastOpenFiles": [
+    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Sort/Depth/Appearance.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/slcc.png",
+    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Sort/Depth/Essence.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Sort/Depth/Depth.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Shift/Reference/Reference.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Shift/Results/Best.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Shift/Results/Worst.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Shift/Results/Results.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Sort/Depth/Essence.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Sort/Depth/Appearance.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Sort/Depth/Depth.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Sort/Depth",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Sort/Consistency/Conflict.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Sort/Consistency/Alignment.md",
@@ -315,7 +274,6 @@
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Shift/Arguments",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Shift/Reference/Internal.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Shift/Reference/External.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Shift/Reference/Reference.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Style/Changes/Changes.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Style/Changes/Traditional.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Style/Changes/Innovator.md",

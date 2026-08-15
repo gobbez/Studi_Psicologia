@@ -1,9 +1,10 @@
 #hce 
 
-Indica le motivazioni intrinseche delle proprie parole o azioni.
+Indica la preferenza a concentrarsi sulla sostanza di un'idea, oggetto, ecc, andando oltre l'apparenza.
 
 ### Esempi:
-- _"Non sto bene perché ho avuto un trauma per questo"_
+- _"Preferisco questo perché è più utile"_
+- _"Lo scelgo in base all'utilità e non al gusto"_
 
 
 
