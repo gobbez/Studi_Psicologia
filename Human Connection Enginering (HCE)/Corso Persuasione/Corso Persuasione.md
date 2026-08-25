@@ -4,7 +4,7 @@ Primo corso di Human Connection Engineering, dedicato alle tecniche linguistiche
 
 ## [[Strategie Linguistico Comportamentali Cognitive (SLCC)]]
 
-## [[Algoritmi Linguistici]]
+## [[Human Connection Enginering (HCE)/Algoritmi Linguistici]]
 
 ## [[Scienza dell'Apparenza]]
 

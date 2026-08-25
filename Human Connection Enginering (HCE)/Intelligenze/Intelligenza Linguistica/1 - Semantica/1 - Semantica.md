@@ -17,4 +17,4 @@ L'uso specifico delle parole per evocare significati, emozioni e azioni.
 
 ## Collegamenti
 [[Intelligenza Linguistica]]
-[[Algoritmi Linguistici]]
+[[Human Connection Enginering (HCE)/Algoritmi Linguistici]]

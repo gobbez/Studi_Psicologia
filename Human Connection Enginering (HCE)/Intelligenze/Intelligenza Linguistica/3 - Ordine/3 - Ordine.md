@@ -57,4 +57,4 @@ L'Ordine è l'architettura del linguaggio. Nell'Intelligenza Linguistica, dispor
 
 ## Collegamenti
 [[Intelligenza Linguistica]]
-[[Algoritmi Linguistici]]
+[[Human Connection Enginering (HCE)/Algoritmi Linguistici]]

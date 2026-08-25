@@ -26,5 +26,5 @@ Capacità di scegliere e usare le parole, le strutture e i pattern linguistici p
 
 ----
 ## Collegamenti
-[[Algoritmi Linguistici]]
+[[Human Connection Enginering (HCE)/Algoritmi Linguistici]]
 [[Intelligenze]]

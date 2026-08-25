@@ -57,4 +57,4 @@ Il Contenuto è il cuore informativo dell'Intelligenza Linguistica. Senza conten
 
 ## Collegamenti
 [[Intelligenza Linguistica]]
-[[Algoritmi Linguistici]]
+[[Human Connection Enginering (HCE)/Algoritmi Linguistici]]

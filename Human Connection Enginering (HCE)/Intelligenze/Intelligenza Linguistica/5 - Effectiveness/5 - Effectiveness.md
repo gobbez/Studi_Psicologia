@@ -57,4 +57,4 @@ L'Effectiveness è il risultato dell'Intelligenza Linguistica. Una comunicazione
 
 ## Collegamenti
 [[Intelligenza Linguistica]]
-[[Algoritmi Linguistici]]
+[[Human Connection Enginering (HCE)/Algoritmi Linguistici]]

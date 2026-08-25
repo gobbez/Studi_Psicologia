@@ -57,5 +57,5 @@ La Persuasione è la leva influenziale dell'Intelligenza Linguistica. Quando è 
 
 ## Collegamenti
 [[Intelligenza Linguistica]]
-[[Algoritmi Linguistici]]
+[[Human Connection Enginering (HCE)/Algoritmi Linguistici]]
 [[Corso Persuasione]]
