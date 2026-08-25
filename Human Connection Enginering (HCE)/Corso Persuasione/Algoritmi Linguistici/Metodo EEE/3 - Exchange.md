@@ -16,13 +16,13 @@ Il nostro ruolo è quello di portarlo ad accettare e "comprare" ciò che gli abb
 
 - "Clicca qui"
 
-
+---
 # Punti principali
 
 ## [[Fase di Scambio]]
 ## [[Accogliere Idea]]
 
-
+---
 ## Sostanze Chimiche
 ### [[Dopamina]]
 ### [[Endorfine]]
