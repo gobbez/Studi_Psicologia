@@ -5,6 +5,11 @@ Gli algoritmi linguistici consistono nell'impostare la frase utilizzando una ser
 # [[Metodo EEE]]
 
 
+# Algoritmi
+
+### [[Algoritmo 001]]
+### [[Algoritmo 002]]
+### [[Algoritmo 003]]
 
 
 
