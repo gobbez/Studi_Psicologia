@@ -17,6 +17,12 @@ Il nostro ruolo è quello di portarlo ad accettare e "comprare" ciò che gli abb
 - "Clicca qui"
 
 ---
+# Tecniche
+## [[Domande]]
+## [[Descrizione Tecnica]]
+## [[Frase Bilanciate]]
+
+---
 # Punti principali
 
 ## [[Fase di Scambio]]

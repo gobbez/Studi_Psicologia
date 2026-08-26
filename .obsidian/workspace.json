@@ -88,51 +88,9 @@
               "icon": "lucide-file",
               "title": "Metodo EEE"
             }
-          },
-          {
-            "id": "5f6db40c44e2115b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/1 - Engage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 - Engage"
-            }
-          },
-          {
-            "id": "e1b1864a49948398",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/2 - Explain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 - Explain"
-            }
-          },
-          {
-            "id": "5590c17cdf5a4dc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/3 - Exchange.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3 - Exchange"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -305,11 +263,27 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "e1b1864a49948398",
+  "active": "e1f18d632e1f98e0",
   "lastOpenFiles": [
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/1 - Engage.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/2 - Explain.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/3 - Exchange.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/Metodo EEE.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/3 - Exchange/3 - Exchange.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/3 - Exchange/Frasi Bilanciate.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Bias.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Rhyme-as-reason effect.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/1 - Sensibility.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/3 - Exchange/Descrizione Tecnica.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/3 - Exchange/Domande.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/2 - Explain/2 - Explain.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/2 - Explain/Linguaggio Generativo.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/3 - Exchange",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/2 - Explain/Storia Emotiva.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/2 - Explain/WIIFM.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/2 - Explain",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/1 - Engage/1 - Engage.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/1 - Engage/Dichiarare Intenti.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/1 - Engage/Novità.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/1 - Engage/Connessione Situazionale.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/1 - Engage",
     "0_Maximd/SLCC_frasi.csv",
     "0_Maximd/SLCC_maxi.md",
     "0_Maximd/Teoria del Comportamento_maxi.md",
@@ -321,18 +295,6 @@
     "0_Maximd/Psicologia Sviluppo_maxi.md",
     "0_Maximd/Psicologia Personalità_maxi.md",
     "0_Maximd/Psicologia Motivazione_maxi.md",
-    "0_Maximd/Psicologia delle Emozioni_maxi.md",
-    "0_Maximd/Politica_maxi.md",
-    "0_Maximd/PNL Practitioner Course (Achology)_maxi.md",
-    "0_Maximd/Neuroscienze_maxi.md",
-    "0_Maximd/Marketing_maxi.md",
-    "0_Maximd/Linguaggio del Corpo_maxi.md",
-    "0_Maximd/Influenza Sociale_maxi.md",
-    "0_Maximd/Human Connection Enginering (HCE)_maxi.md",
-    "0_Maximd/Cronoritmi_maxi.md",
-    "0_Maximd/Comunicazione_maxi.md",
-    "0_Maximd/Coaching_maxi.md",
-    "0_Maximd/Chimica_maxi.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/slcc.png",
     "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici",
@@ -340,9 +302,6 @@
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Sort/Consistency",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Shift/Results",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Shift/Arguments",
-    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Start/Overture",
-    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Sort/Moment",
-    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Start/Operation",
     "b.jpeg",
     "c.jpeg",
     "d.jpeg",
