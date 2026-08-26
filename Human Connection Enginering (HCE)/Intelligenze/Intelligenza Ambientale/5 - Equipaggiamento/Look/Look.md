@@ -1,13 +1,30 @@
 #hce
 
-# Look
-
 Il **Look** è l'area dell'**Equipaggiamento** che studia l'aspetto personale, l'abbigliamento, la cura di sé e l'immagine che una persona trasmette attraverso il proprio corpo. È l'equipaggiamento che indossiamo.
 
 ## Definizione
 
 Il look è l'insieme delle scelte relative all'aspetto fisico personale: abiti, scarpe, accessori, acconciatura, cura della pelle, postura, igiene. Comunica prima di tutto il resto e fornisce informazioni su ruolo, status, personalità, attenzione e rispetto per il contesto.
 
+---
+# Come il cervello processa il look
+
+## [[Metafora dei 3 cervelli]]
+
+---
+# Bias 
+
+### [[Priming]]
+### [[Effetto Alone]]
+### [[Confirmation Bias]]
+
+---
+# Colori
+
+Il colore dei vestiti influenzano le percezioni.
+[[Colori]]
+
+---
 ## Funzione nell'Equipaggiamento
 
 Il Look svolge tre funzioni:
@@ -15,6 +32,7 @@ Il Look svolge tre funzioni:
 - **Adattamento al contesto**: dimostra che conosciamo e rispettiamo le regole della situazione.
 - **Espressione di sé**: permette di comunicare valori, creatività, status o appartenenza.
 
+---
 ## Dimensioni del look
 
 ### Formalità
@@ -32,6 +50,7 @@ Elementi distintivi che esprimono individualità senza violare le convenzioni.
 ### Comfort
 Il look deve permettere di muoversi e sentirsi a proprio agio, altrimenti diventa un disturbo.
 
+---
 ## Applicazioni pratiche
 
 - Adattare l'abbigliamento al contesto culturale e professionale.
@@ -39,6 +58,7 @@ Il look deve permettere di muoversi e sentirsi a proprio agio, altrimenti divent
 - Curare i dettagli (scarpe, accessori, unghie) perché vengono notati.
 - Scegliere un look che dia sicurezza senza apparire mascherato.
 
+---
 ## Errori comuni
 
 - **Sottovalutare il dress code**: apparire fuori luogo danneggia la credibilità.
@@ -46,6 +66,7 @@ Il look deve permettere di muoversi e sentirsi a proprio agio, altrimenti divent
 - **Look trascurato**: comunica disinteresse o mancanza di controllo.
 - **Inautenticità**: un look che non rispecchia chi si è genera disagio e incoerenza.
 
+---
 ## Sintesi
 
 Il Look è l'equipaggiamento più visibile e personale. Nell'Intelligenza Ambientale, curare il proprio aspetto non è vanità: è un modo per rispettare il contesto, comunicare il proprio ruolo e preparare gli altri ad ascoltarci.

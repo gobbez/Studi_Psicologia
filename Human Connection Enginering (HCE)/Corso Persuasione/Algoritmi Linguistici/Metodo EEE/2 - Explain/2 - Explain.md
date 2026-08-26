@@ -1,6 +1,6 @@
 #hce 
 
-Alle persone piace parlare di sé e non sono interessati ad ascoltare e continua a cercare di capire il perché di ciò che ha detto l'altro ([[Confirmation Bias]]).
+Alle persone piace parlare di sé e non sono interessati ad ascoltare e si cerca di capire il perché di ciò che ha detto l'altro ([[Confirmation Bias]]).
 
 Questo metodo è migliorato da una buona capacità di [[Human Connection Enginering (HCE)/Intelligenze/Intelligenza Linguistica/2 - Contenuto/Storytelling/Storytelling|Storytelling]] ed è la fase in cui dobbiamo spiegare ciò che vogliamo proporre e chiarire ogni eventuale dubbio.
 

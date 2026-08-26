@@ -22,75 +22,91 @@
             }
           },
           {
-            "id": "a2145f45b4f1d3ed",
+            "id": "f84b42dc878ecea9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Strategie Linguistico Comportamentali Cognitive (SLCC).md",
+                "file": "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strategie Linguistico Comportamentali Cognitive (SLCC)"
+              "title": "Look"
             }
           },
           {
-            "id": "284c1925e0f45430",
+            "id": "bda38d7298c5c985",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Strumenti SLCC.md",
+                "file": "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Look Dichotomy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strumenti SLCC"
+              "title": "Look Dichotomy"
             }
           },
           {
-            "id": "4f915a38dfc377a4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/slcc.png"
-              },
-              "icon": "lucide-image",
-              "title": "slcc"
-            }
-          },
-          {
-            "id": "e1f18d632e1f98e0",
+            "id": "22b28580fe600ee0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Algoritmi Linguistici.md",
+                "file": "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Conformista vs Originale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algoritmi Linguistici"
+              "title": "Conformista vs Originale"
             }
           },
           {
-            "id": "021a17c73a9186fd",
+            "id": "2090447105a1956d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/Metodo EEE.md",
+                "file": "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Minimalista vs Eccessivo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metodo EEE"
+              "title": "Minimalista vs Eccessivo"
+            }
+          },
+          {
+            "id": "b5e8dbf37d65713e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Vecchio vs Moderno.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vecchio vs Moderno"
+            }
+          },
+          {
+            "id": "238b181d319ad0f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Curato vs Disordinato.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Curato vs Disordinato"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,45 +279,45 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "021a17c73a9186fd",
+  "active": "bda38d7298c5c985",
   "lastOpenFiles": [
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Algoritmo 003.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/Metodo EEE.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Algoritmo 002.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Conformista vs Originale.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Formale vs Casual.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Look Dichotomy.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Vecchio vs Moderno.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Minimalista vs Eccessivo.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Curato vs Disordinato.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Colori/Colori.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/3 - Eyeful.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Metafora dei 3 cervelli.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/2 - Explain/2 - Explain.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Confirmation Bias.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Mi convince.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Mi piace.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Mi fido.md",
+    "Psicologia.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Strategie Linguistico Comportamentali Cognitive (SLCC).md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Strumenti SLCC.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/slcc.png",
     "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Algoritmi Linguistici.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Algoritmo 001.md",
-    "0_Maximd/Algoritmi_Linguistici_maxi.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/Metodo EEE.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Bias.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Enclothed Cognition.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/3 - Exchange/3 - Exchange.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/1 - Engage/1 - Engage.md",
+    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/2 - Explain/Linguaggio Generativo.md",
+    "0_Maximd/SLCC_maxi.md",
     "0_Maximd/genera_maxi_algoritmi_linguistici.py",
     "0_Maximd/genera_maxi_algoritmi_linguistici.py.tmp.526.b79f5167cba5",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/3 - Exchange/3 - Exchange.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/3 - Exchange/Frasi Bilanciate.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Bias.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Rhyme-as-reason effect.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/1 - Sensibility.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/3 - Exchange/Descrizione Tecnica.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/3 - Exchange/Domande.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/2 - Explain/2 - Explain.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/2 - Explain/Linguaggio Generativo.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/3 - Exchange",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/2 - Explain/Storia Emotiva.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/2 - Explain/WIIFM.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/2 - Explain",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/1 - Engage/1 - Engage.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/1 - Engage/Dichiarare Intenti.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/1 - Engage/Novità.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/1 - Engage/Connessione Situazionale.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/1 - Engage",
     "0_Maximd/SLCC_frasi.csv",
-    "0_Maximd/SLCC_maxi.md",
-    "0_Maximd/Teoria del Comportamento_maxi.md",
-    "0_Maximd/Sviluppo Morale_maxi.md",
-    "0_Maximd/Studi Scientifici_maxi.md",
-    "0_Maximd/Studi Analisi_maxi.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE",
-    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/slcc.png",
     "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Sort/Depth",
-    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Sort/Consistency",
     "b.jpeg",
     "c.jpeg",
     "d.jpeg",
