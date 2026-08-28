@@ -49,7 +49,7 @@ L'Execute è il banco di prova dell'Intelligenza Comportamentale. Tutta l'analis
 ## Aree dell'Execute
 - [[Challenge]]: affrontare sfide, prove e resistenze.
 - [[Play]]: approccio ludico, sperimentazione e leggerezza.
-- [[Reward]]: rinforzi, gratificazioni e motivazione.
+- [[Human Connection Enginering (HCE)/Intelligenze/Intelligenza Comportamentale/5 - Execute/Reward/Reward]]: rinforzi, gratificazioni e motivazione.
 
 ## Collegamenti
 [[Intelligenza Comportamentale]]

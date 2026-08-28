@@ -18,10 +18,10 @@ Il cervello forma un giudizio istantaneo basato sull'aspetto. La consapevolezza 
 ## Dicotomie principali
 
 ### [[Formale vs Casual]]
-### [[Conformista vs Originale]]
+### [[Standard vs Originale]]
 ### [[Curato vs Disordinato]]
 
-### [[Minimalista vs Eccessivo]]
+### [[Basic vs Complesso]]
 ### [[Vecchio vs Moderno]]
 
 ---

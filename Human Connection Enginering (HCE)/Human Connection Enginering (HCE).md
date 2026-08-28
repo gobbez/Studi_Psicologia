@@ -4,6 +4,8 @@ Piattaforma di neuroscienze comportamentali e semiotica fondata da Paolo Borzacc
 
 ## [[Corso Persuasione]]
 Primo corso della piattaforma, dedicato alle strategie linguistiche e comportamentali per influenzare in modo etico pensieri, emozioni e decisioni.
+## [[Corso Vendita]]
+Corso dedicato alla vendita e l'acquisto.
 
 ## [[Neuroscienze]]
 Le basi neurobiologiche su cui si fondano i modelli comportamentali studiati da HCE.

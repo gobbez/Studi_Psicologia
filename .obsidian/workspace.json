@@ -13,100 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psicologia.md",
+                "file": "Human Connection Enginering (HCE)/Corso Vendita/Corso Vendita.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Psicologia"
+              "title": "Corso Vendita"
             }
           },
           {
-            "id": "f84b42dc878ecea9",
+            "id": "3dbda449f55655d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look.md",
+                "file": "Human Connection Enginering (HCE)/Corso Vendita/5 criteri vendita/5 criteri vendita.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Look"
+              "title": "5 criteri vendita"
             }
           },
           {
-            "id": "bda38d7298c5c985",
+            "id": "ff0e36ded8530cbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Look Dichotomy.md",
+                "file": "Human Connection Enginering (HCE)/Corso Vendita/Metodo I-Stair.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Look Dichotomy"
-            }
-          },
-          {
-            "id": "22b28580fe600ee0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Conformista vs Originale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conformista vs Originale"
-            }
-          },
-          {
-            "id": "2090447105a1956d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Minimalista vs Eccessivo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Minimalista vs Eccessivo"
-            }
-          },
-          {
-            "id": "b5e8dbf37d65713e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Vecchio vs Moderno.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vecchio vs Moderno"
-            }
-          },
-          {
-            "id": "238b181d319ad0f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Curato vs Disordinato.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Curato vs Disordinato"
+              "title": "Metodo I-Stair"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,16 +223,28 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "bda38d7298c5c985",
+  "active": "3dbda449f55655d7",
   "lastOpenFiles": [
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Conformista vs Originale.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Formale vs Casual.md",
+    "Human Connection Enginering (HCE)/Corso Vendita/Metodo I-Stair.md",
+    "Human Connection Enginering (HCE)/Corso Vendita/5 criteri vendita/Reward.md",
+    "Human Connection Enginering (HCE)/Corso Vendita/5 criteri vendita/5 criteri vendita.md",
+    "Influenza Sociale/Leadership.md",
+    "Human Connection Enginering (HCE)/Corso Vendita/5 criteri vendita/Describe.md",
+    "Human Connection Enginering (HCE)/Corso Vendita/5 criteri vendita/Emotions.md",
+    "Human Connection Enginering (HCE)/Corso Vendita/5 criteri vendita",
+    "Human Connection Enginering (HCE)/Corso Vendita/5 criteri vendita/Trust.md",
+    "Human Connection Enginering (HCE)/Corso Vendita/Corso Vendita.md",
+    "Human Connection Enginering (HCE)/Human Connection Enginering (HCE).md",
+    "Psicologia.md",
+    "Human Connection Enginering (HCE)/Corso Vendita",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Look Dichotomy.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Vecchio vs Moderno.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Minimalista vs Eccessivo.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Basic vs Complesso.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Curato vs Disordinato.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Standard vs Originale.md",
+    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Formale vs Casual.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Colori/Colori.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/3 - Eyeful.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Metafora dei 3 cervelli.md",
@@ -297,18 +253,8 @@
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Mi convince.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Mi piace.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Mi fido.md",
-    "Psicologia.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Strategie Linguistico Comportamentali Cognitive (SLCC).md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Strumenti SLCC.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/slcc.png",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Algoritmi Linguistici.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/Metodo EEE.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Bias.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Enclothed Cognition.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/3 - Exchange/3 - Exchange.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/1 - Engage/1 - Engage.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/2 - Explain/Linguaggio Generativo.md",
-    "0_Maximd/SLCC_maxi.md",
     "0_Maximd/genera_maxi_algoritmi_linguistici.py",
     "0_Maximd/genera_maxi_algoritmi_linguistici.py.tmp.526.b79f5167cba5",
     "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/3 - Exchange",
@@ -316,8 +262,6 @@
     "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/1 - Engage",
     "0_Maximd/SLCC_frasi.csv",
     "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici",
-    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Sort/Depth",
     "b.jpeg",
     "c.jpeg",
     "d.jpeg",
