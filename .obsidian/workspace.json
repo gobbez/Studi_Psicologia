@@ -8,6 +8,62 @@
         "type": "tabs",
         "children": [
           {
+            "id": "e2740ba376580d65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inglese/Inglese.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inglese"
+            }
+          },
+          {
+            "id": "bc86bf380c9bd83d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inglese/Struttura Lezione.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Struttura Lezione"
+            }
+          },
+          {
+            "id": "dc18cca2c5aa15e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inglese/Tipi di Lezione/Tipi di Lezione.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tipi di Lezione"
+            }
+          },
+          {
+            "id": "a367b75b18157a4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inglese/Tipi di Lezione/Speaking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Speaking"
+            }
+          },
+          {
             "id": "15bb683b08bf9b9f",
             "type": "leaf",
             "state": {
@@ -50,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,19 +279,31 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "3dbda449f55655d7",
+  "active": "a367b75b18157a4d",
   "lastOpenFiles": [
+    "Inglese/Tipi di Lezione/Tipi di Lezione.md",
+    "Inglese/Tipi di Lezione/Speaking.md",
+    "Inglese/Tipi di Lezione/Vocabulary.md",
+    "Inglese/Tipi di Lezione/Pronunciation.md",
+    "Inglese/Tipi di Lezione/Grammar.md",
+    "Inglese/Tipi di Lezione/Reading.md",
+    "Inglese/Tipi di Lezione/Listening.md",
+    "Human Connection Enginering (HCE)/Corso Vendita/Corso Vendita.md",
+    "Inglese/Tipi di Lezione/Writing.md",
+    "Inglese/Tipi di Lezione",
+    "Inglese/Inglese.md",
+    "Inglese/Struttura Lezione.md",
     "Human Connection Enginering (HCE)/Corso Vendita/Metodo I-Stair.md",
-    "Human Connection Enginering (HCE)/Corso Vendita/5 criteri vendita/Reward.md",
+    "Psicologia.md",
     "Human Connection Enginering (HCE)/Corso Vendita/5 criteri vendita/5 criteri vendita.md",
+    "Inglese",
+    "Human Connection Enginering (HCE)/Corso Vendita/5 criteri vendita/Reward.md",
     "Influenza Sociale/Leadership.md",
     "Human Connection Enginering (HCE)/Corso Vendita/5 criteri vendita/Describe.md",
     "Human Connection Enginering (HCE)/Corso Vendita/5 criteri vendita/Emotions.md",
     "Human Connection Enginering (HCE)/Corso Vendita/5 criteri vendita",
     "Human Connection Enginering (HCE)/Corso Vendita/5 criteri vendita/Trust.md",
-    "Human Connection Enginering (HCE)/Corso Vendita/Corso Vendita.md",
     "Human Connection Enginering (HCE)/Human Connection Enginering (HCE).md",
-    "Psicologia.md",
     "Human Connection Enginering (HCE)/Corso Vendita",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Look Dichotomy.md",
@@ -243,25 +311,13 @@
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Basic vs Complesso.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Curato vs Disordinato.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Standard vs Originale.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy/Formale vs Casual.md",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/Colori/Colori.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/3 - Eyeful/3 - Eyeful.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Metafora dei 3 cervelli.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/2 - Explain/2 - Explain.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Emotiva/1 - Sensibility/Bias/Confirmation Bias.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Mi convince.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Mi piace.md",
-    "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Mi fido.md",
-    "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/Strategie Linguistico Comportamentali Cognitive (SLCC).md",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/slcc.png",
     "0_Maximd/genera_maxi_algoritmi_linguistici.py",
     "0_Maximd/genera_maxi_algoritmi_linguistici.py.tmp.526.b79f5167cba5",
     "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/3 - Exchange",
     "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/2 - Explain",
     "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE/1 - Engage",
-    "0_Maximd/SLCC_frasi.csv",
-    "Human Connection Enginering (HCE)/Corso Persuasione/Algoritmi Linguistici/Metodo EEE",
     "b.jpeg",
     "c.jpeg",
     "d.jpeg",
