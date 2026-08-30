@@ -21,7 +21,11 @@ ESA
 - [[Activate]]: Domande aperte, role-play, attività di scrittura. L'obiettivo è personalizzare la lezione.
 
 ---
+# [[Interazioni Lezioni]]
 # [[Tipi di Lezione]]
+
+# [[Tipi di Apprendimento]]
+
 
 
 ## Connessioni

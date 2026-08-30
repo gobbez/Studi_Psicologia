@@ -20,7 +20,7 @@ Distorsioni cognitive che condizionano il nostro giudizio.
 L'influenza della PNL su sé stessi, gli altri e il mondo.
 
 ## [[Imparare ad Imparare]]
-Domande per rendere operativo ogni apprendimento.
+Domande per rendere operativo ogni apprendimento, considerando che ogni individuo elabora le informazioni in modo diverso, come previsto dal sistema [[Vakog]]
 
 ## [[Ciclo della Maestria]]
 Autoconsapevolezza, autogestione, consapevolezza sociale, influenza sociale.
