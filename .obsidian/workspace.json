@@ -22,16 +22,14 @@
             }
           },
           {
-            "id": "22519f28b2c01a42",
+            "id": "db07b556c9e1fe2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Inglese/Programmare Lezione/Programmare Lezione.md",
-                "mode": "source",
-                "source": false
+                "file": "Inglese/Programmare Lezione/Programmare Lezione.png"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-image",
               "title": "Programmare Lezione"
             }
           },
@@ -251,12 +249,13 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "22519f28b2c01a42",
+  "active": "db07b556c9e1fe2e",
   "lastOpenFiles": [
+    "Inglese/Programmare Lezione/Programmare Lezione.md",
+    "Inglese/Programmare Lezione/Programmare Lezione.png",
+    "Inglese/Livelli CEFR.md",
     "Inglese/Inglese.md",
     "Human Connection Enginering (HCE)/Corso Vendita/Corso Vendita.md",
-    "Inglese/Programmare Lezione/Programmare Lezione.png",
-    "Inglese/Programmare Lezione/Programmare Lezione.md",
     "Inglese/Programmare Lezione",
     "Inglese/Interazioni Lezioni.md",
     "Inglese/Struttura Lezione.md",
@@ -282,7 +281,6 @@
     "Human Connection Enginering (HCE)/Corso Vendita/5 criteri vendita/Describe.md",
     "Human Connection Enginering (HCE)/Corso Vendita/5 criteri vendita/Emotions.md",
     "Human Connection Enginering (HCE)/Corso Vendita/5 criteri vendita",
-    "Human Connection Enginering (HCE)/Corso Vendita/5 criteri vendita/Trust.md",
     "Human Connection Enginering (HCE)/Corso Vendita",
     "Human Connection Enginering (HCE)/Intelligenze/Intelligenza Ambientale/5 - Equipaggiamento/Look/Look Dichotomy",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/slcc.png",
