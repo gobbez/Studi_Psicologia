@@ -8,4 +8,4 @@ Esempi:
 - *She comes **from** Italy.* — Lei viene dall'Italia.
 
 ## Connessioni
-[[Vocabolary]]
+[[Vocabulary]]

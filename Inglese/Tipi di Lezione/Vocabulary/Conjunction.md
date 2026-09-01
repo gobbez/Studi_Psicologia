@@ -8,4 +8,4 @@ Esempi:
 - *We can go **if** you want.* — Possiamo andare se vuoi.
 
 ## Connessioni
-[[Vocabolary]]
+[[Vocabulary]]

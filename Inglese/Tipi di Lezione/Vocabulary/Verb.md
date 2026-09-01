@@ -8,4 +8,4 @@ Esempi:
 - *He **drinks** coffee.* — Lui beve caffè.
 
 ## Connessioni
-[[Vocabolary]]
+[[Vocabulary]]

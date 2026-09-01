@@ -8,4 +8,4 @@ Esempi:
 - *This gift is for **you**.* — Questo regalo è per te.
 
 ## Connessioni
-[[Vocabolary]]
+[[Vocabulary]]

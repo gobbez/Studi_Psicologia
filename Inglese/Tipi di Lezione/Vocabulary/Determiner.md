@@ -8,4 +8,4 @@ Esempi:
 - ***This** idea is great.* — Questa idea è fantastica.
 
 ## Connessioni
-[[Vocabolary]]
+[[Vocabulary]]

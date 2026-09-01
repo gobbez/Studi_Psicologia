@@ -8,4 +8,4 @@ Esempi:
 - *He is **tall**.* — Lui è alto.
 
 ## Connessioni
-[[Vocabolary]]
+[[Vocabulary]]

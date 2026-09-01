@@ -14,7 +14,7 @@
 
 
 # Vocabolario
-## [[Vocabolary]]
+## [[Vocabulary]]
 
 
 

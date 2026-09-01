@@ -8,4 +8,4 @@ Esempi:
 - ***Honesty** is important.* — L'onestà è importante.
 
 ## Connessioni
-[[Vocabolary]]
+[[Vocabulary]]
