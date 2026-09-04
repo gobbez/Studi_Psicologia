@@ -5,6 +5,7 @@ Le lezioni di Pronuncia si focalizza sui suoni delle parole e frasi, attraverso 
 # [[Assimilation]]
 # [[Elision]]
 # [[Sentence Stress]]
+# [[Schwa]]
 # [[Word Stress]]
 
 
