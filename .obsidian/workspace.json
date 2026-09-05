@@ -22,31 +22,17 @@
             }
           },
           {
-            "id": "6dd9adba33a571ef",
+            "id": "13c70a07fdccf051",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/Tipi di Lezione/Pronunciation/Pronunciation.md",
+                "file": "Inglese/Tipi di Lezione/Grammar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pronunciation"
-            }
-          },
-          {
-            "id": "0d3c222f8988968a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Creazione Suono.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Creazione Suono"
+              "title": "Grammar"
             }
           },
           {
@@ -104,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -277,15 +263,27 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "0d3c222f8988968a",
+  "active": "15bb683b08bf9b9f",
   "lastOpenFiles": [
+    "Inglese/Tipi di Lezione/Vocabulary/Determiner.md",
+    "Inglese/Programmare Lezione/Programmare Lezione.png",
+    "Inglese/Tipi di Lezione/Vocabulary/Adverb.md",
+    "Inglese/Tipi di Lezione/Grammar.md",
+    "Inglese/Tipi di Lezione/Vocabulary/Noun.md",
+    "Inglese/Tipi di Lezione/Vocabulary/Vocabulary.md",
+    "Inglese/Tipi di Lezione/Vocabulary/Verb.md",
+    "Inglese/Tipi di Lezione/Grammar/Part of Speech/Part of Speech.md",
+    "Inglese/Tipi di Lezione/Grammar/Part of Speech",
+    "Inglese/Inglese.md",
+    "Inglese/Tipi di Lezione/Grammar",
+    "Inglese/Tipi di Lezione/Pronunciation/Pronunciation.md",
+    "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Creazione Suono.md",
+    "Inglese/IPA/IPA.md",
     "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Monophtongs.md",
     "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Monophtongs.md.tmp.22764.1ec09f32543d",
     "Human Connection Enginering (HCE)/Corso Vendita/Corso Vendita.md",
     "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Nasals.md",
-    "Inglese/Programmare Lezione/Programmare Lezione.png",
     "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Bilabials.md",
-    "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Creazione Suono.md",
     "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Vowels.md",
     "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Unvoiced Consonants.md",
     "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Unvoiced Consonants.md.tmp.22764.5455f5d40e14",
@@ -298,24 +296,12 @@
     "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Dipthongs.md",
     "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Dipthongs.md.tmp.22764.c7050f630d31",
     "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono",
-    "Inglese/Tipi di Lezione/Pronunciation/Pronunciation.md",
     "Inglese/Tipi di Lezione/Pronunciation/Schwa.md",
     "Inglese/Tipi di Lezione/Pronunciation/Elision.md",
     "Inglese/Tipi di Lezione/Pronunciation/Sentence Stress.md",
     "Inglese/Tipi di Lezione/Pronunciation/Word Stress.md",
     "Inglese/Tipi di Lezione/Pronunciation/Assimilation.md",
-    "Inglese/Inglese.md",
     "Inglese/Tipi di Lezione/Pronunciation",
-    "Inglese/Tipi di Lezione/Tipi di Lezione.md",
-    "Inglese/Tipi di Lezione/Vocabulary/Vocabulary.md",
-    "Inglese/Tipi di Lezione/Vocabulary.md",
-    "Inglese/Tipi di Lezione/Vocabulary/Adjective.md",
-    "Inglese/Tipi di Lezione/Vocabulary/Parentele Parole/Parentele Parole.md",
-    "Coaching/Monitoraggio Performance.md",
-    "Coaching/Monitoraggio Performance.md.tmp.426.fc3a02bb0992",
-    "Lezione 25 - Monitoraggio Performance.txt",
-    "Inglese/Tipi di Lezione/Vocabulary/Parentele Parole/Word Families.md",
-    "Inglese/Tipi di Lezione/Vocabulary/Parentele Parole/Collocations.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/slcc.png",
     "b.jpeg",
     "c.jpeg",

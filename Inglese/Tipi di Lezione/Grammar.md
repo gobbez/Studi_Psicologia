@@ -7,7 +7,15 @@ Nelle lezioni di Grammatica si insegnano anche:
 - [[Form]]: come costruire una frase.
 - [[Pronunciation]]: come pronunciare la parola.
 
-
+Le parti che compongono una frase sono:
+- [[Noun]]
+- [[Verb]]
+- [[Adverb]]
+- [[Determiner]]
+- [[Pronoun]]
+- [[Adjective]]
+- [[Preposition]]
+- [[Conjunction]]
 
 ## Connessioni
 [[Tipi di Lezione]]

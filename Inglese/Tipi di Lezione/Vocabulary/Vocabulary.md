@@ -18,6 +18,7 @@ Il vocabulary, anche detto [[Lexis]].
 In Inglese, una frase è composta dai seguenti:
 - [[Noun]]
 - [[Verb]]
+- [[Adverb]]
 - [[Determiner]]
 - [[Pronoun]]
 - [[Adjective]]

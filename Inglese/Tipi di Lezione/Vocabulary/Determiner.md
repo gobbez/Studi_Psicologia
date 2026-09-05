@@ -7,5 +7,15 @@ Esempi:
 - *I have **a** pen.* — Ho una penna.
 - ***This** idea is great.* — Questa idea è fantastica.
 
+# Le categorie
+Esistono 5 categorie di Determiners:
+- [[Articles]]: a, the
+- [[Demonstrative]]: this, that
+- [[Possessive]]: my, our
+- [[Interrogative]]: what, which, whose
+- [[Quantifier]]: some, a few, several
+
+
+
 ## Connessioni
 [[Vocabulary]]
