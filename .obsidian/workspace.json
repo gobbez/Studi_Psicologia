@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/Tipi di Lezione/Grammar.md",
+                "file": "Inglese/Tipi di Lezione/Grammar/Grammar.md",
                 "mode": "source",
                 "source": false
               },
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,12 +263,15 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "15bb683b08bf9b9f",
+  "active": "db07b556c9e1fe2e",
   "lastOpenFiles": [
-    "Inglese/Tipi di Lezione/Vocabulary/Determiner.md",
+    "Inglese/Tipi di Lezione/Grammar/Clausola.md",
+    "Inglese/Tipi di Lezione/Grammar/Grammar.md",
     "Inglese/Programmare Lezione/Programmare Lezione.png",
+    "Inglese/Tipi di Lezione/Grammar",
+    "Human Connection Enginering (HCE)/Corso Vendita/Corso Vendita.md",
+    "Inglese/Tipi di Lezione/Vocabulary/Determiner.md",
     "Inglese/Tipi di Lezione/Vocabulary/Adverb.md",
-    "Inglese/Tipi di Lezione/Grammar.md",
     "Inglese/Tipi di Lezione/Vocabulary/Noun.md",
     "Inglese/Tipi di Lezione/Vocabulary/Vocabulary.md",
     "Inglese/Tipi di Lezione/Vocabulary/Verb.md",
@@ -281,7 +284,6 @@
     "Inglese/IPA/IPA.md",
     "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Monophtongs.md",
     "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Monophtongs.md.tmp.22764.1ec09f32543d",
-    "Human Connection Enginering (HCE)/Corso Vendita/Corso Vendita.md",
     "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Nasals.md",
     "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Bilabials.md",
     "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Vowels.md",
@@ -300,8 +302,6 @@
     "Inglese/Tipi di Lezione/Pronunciation/Elision.md",
     "Inglese/Tipi di Lezione/Pronunciation/Sentence Stress.md",
     "Inglese/Tipi di Lezione/Pronunciation/Word Stress.md",
-    "Inglese/Tipi di Lezione/Pronunciation/Assimilation.md",
-    "Inglese/Tipi di Lezione/Pronunciation",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/slcc.png",
     "b.jpeg",
     "c.jpeg",

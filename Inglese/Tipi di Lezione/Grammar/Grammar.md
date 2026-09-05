@@ -17,5 +17,8 @@ Le parti che compongono una frase sono:
 - [[Preposition]]
 - [[Conjunction]]
 
+### [[Clausola]]
+
+
 ## Connessioni
 [[Tipi di Lezione]]
