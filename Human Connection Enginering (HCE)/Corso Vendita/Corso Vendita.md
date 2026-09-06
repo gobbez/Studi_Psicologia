@@ -11,5 +11,9 @@ Corso dedicato alla **vendita** e all'**acquisto**.
 
 
 
+## [[Scala d'acquisto]]
+
+
+
 ## Collegamenti
 [[Human Connection Enginering (HCE)]]
