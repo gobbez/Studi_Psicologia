@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "13c70a07fdccf051",
+            "id": "c9d7a12486beec56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/Tipi di Lezione/Grammar/Grammar.md",
+                "file": "Inglese/Tenses/Tenses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grammar"
+              "title": "Tenses"
             }
           },
           {
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,45 +263,45 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "db07b556c9e1fe2e",
+  "active": "c9d7a12486beec56",
   "lastOpenFiles": [
-    "Inglese/Tipi di Lezione/Grammar/Clausola.md",
-    "Inglese/Tipi di Lezione/Grammar/Grammar.md",
-    "Inglese/Programmare Lezione/Programmare Lezione.png",
-    "Inglese/Tipi di Lezione/Grammar",
+    "Inglese/Tenses/Future Perfect Continuous.md",
+    "Inglese/Tenses/Future Perfect Continuous.md.tmp.516.1f2a187c5c09",
+    "Inglese/Tenses/Future Perfect.md",
+    "Inglese/Tenses/Future Perfect.md.tmp.516.2f08df8d30a9",
+    "Inglese/Tenses/Future Continuous.md",
+    "Inglese/Tenses/Future Continuous.md.tmp.516.a2b0803b27b7",
+    "Inglese/Tenses/Future Simple.md",
+    "Inglese/Tenses/Future Simple.md.tmp.516.1a000d494df8",
+    "Inglese/Tenses/Past Perfect Continuous.md",
+    "Inglese/Tenses/Past Perfect Continuous.md.tmp.516.6595210fe2ac",
+    "Inglese/Tenses/Past Perfect.md",
+    "Inglese/Tenses/Past Continuous.md",
+    "Inglese/Tenses/Past Continuous.md.tmp.516.aeefa5f7870d",
+    "Inglese/Tenses/Past Simple.md",
+    "Inglese/Tenses/Past Simple.md.tmp.516.7fb4d667ab85",
+    "Inglese/Tenses/Present Perfect Continuous.md",
+    "Inglese/Tenses/Present Perfect Continuous.md.tmp.516.74ecfd47b866",
+    "Inglese/Tenses/Present Perfect.md",
+    "Inglese/Tenses/Present Continuous.md",
+    "Inglese/Tenses/Present Continuous.md.tmp.516.6cc1832bb202",
+    "Inglese/Tenses/Present Simple.md",
+    "Inglese/Inglese.md",
+    "Inglese/Tenses/Tenses.md",
+    "Inglese/Tenses",
     "Human Connection Enginering (HCE)/Corso Vendita/Corso Vendita.md",
+    "Inglese/Programmare Lezione/Programmare Lezione.png",
+    "Human Connection Enginering (HCE)/Corso Vendita/Metodo I-Stair.md",
+    "Inglese/Tipi di Lezione/Grammar/Grammar.md",
+    "Inglese/Tipi di Lezione/Grammar/Clausola.md",
     "Inglese/Tipi di Lezione/Vocabulary/Determiner.md",
     "Inglese/Tipi di Lezione/Vocabulary/Adverb.md",
     "Inglese/Tipi di Lezione/Vocabulary/Noun.md",
     "Inglese/Tipi di Lezione/Vocabulary/Vocabulary.md",
     "Inglese/Tipi di Lezione/Vocabulary/Verb.md",
     "Inglese/Tipi di Lezione/Grammar/Part of Speech/Part of Speech.md",
-    "Inglese/Tipi di Lezione/Grammar/Part of Speech",
-    "Inglese/Inglese.md",
-    "Inglese/Tipi di Lezione/Grammar",
     "Inglese/Tipi di Lezione/Pronunciation/Pronunciation.md",
     "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Creazione Suono.md",
-    "Inglese/IPA/IPA.md",
-    "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Monophtongs.md",
-    "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Monophtongs.md.tmp.22764.1ec09f32543d",
-    "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Nasals.md",
-    "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Bilabials.md",
-    "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Vowels.md",
-    "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Unvoiced Consonants.md",
-    "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Unvoiced Consonants.md.tmp.22764.5455f5d40e14",
-    "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Voiced Consonants.md",
-    "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Plosives.md",
-    "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Plosives.md.tmp.22764.be76e5b02d17",
-    "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Nasals.md.tmp.22764.63a71a5ab750",
-    "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Fricatives.md",
-    "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Fricatives.md.tmp.22764.0347bfaf72ec",
-    "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Dipthongs.md",
-    "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Dipthongs.md.tmp.22764.c7050f630d31",
-    "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono",
-    "Inglese/Tipi di Lezione/Pronunciation/Schwa.md",
-    "Inglese/Tipi di Lezione/Pronunciation/Elision.md",
-    "Inglese/Tipi di Lezione/Pronunciation/Sentence Stress.md",
-    "Inglese/Tipi di Lezione/Pronunciation/Word Stress.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/slcc.png",
     "b.jpeg",
     "c.jpeg",
