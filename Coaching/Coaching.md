@@ -21,3 +21,5 @@ Pratica di accompagnamento allo sviluppo personale e professionale attraverso do
 ## [[Comportamenti del Team]]
 
 ## [[Monitoraggio Performance]]
+
+## [[Leadership e Intelligenza Emotiva]]
