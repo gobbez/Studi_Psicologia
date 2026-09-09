@@ -12,6 +12,14 @@ Come stimolarle:
 - Inizia la conversazione (faccia a faccia, mail o post social) descrivendo in modo preciso una situazione problematica, dimostrando grande competenza
 - Evita gli incipit classici sulla storia dell'azienda o sui tuoi successi: con un cliente indifferente non funzionano
 
+## Strumenti del gradino
+- ### [[La biochimica di Indifferent]]: come funzionano adrenalina e cortisolo nel cliente
+- ### [[Authority Law]]: la predisposizione del cervello a seguire l'autorità
+- ### [[Flow Break]]: interrompere il flusso per risvegliare il cliente
+- ### [[Highlight Lacks]]: sottolineare ciò che manca al cliente ora
+- ### [[Loss Aversion]]: il peso della paura di perdere
+- ### [[Reciprocity Law]]: il dono che risveglia e indebita
+
 
 ## Collegamenti
 [[Scala d'acquisto]]

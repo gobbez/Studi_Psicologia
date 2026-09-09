@@ -102,3 +102,26 @@ python genera_maxi_md.py
 ```
 
 Va rieseguito ogni volta che si aggiungono, modificano o rimuovono appunti, per mantenere i file maxi aggiornati.
+
+---
+
+## Conversione audio in appunti (AUDIO_TO_NOTES)
+
+La cartella `AUDIO_TO_NOTES/` raccoglie i file **.mp3** da convertire in appunti (registrazioni di lezioni, moduli di corsi, ecc.). Il flusso di lavoro è:
+
+**mp3 → txt (trascrizione automatica) → appunti .md nel vault**
+
+1. **Copia i file .mp3** nella cartella `AUDIO_TO_NOTES/`.
+2. **Esegui lo script di trascrizione** `AUDIO_TO_NOTES/transcribe_audio.py`, che converte ogni .mp3 in un file .txt con lo stesso nome (trascrizione in italiano tramite faster-whisper):
+
+   ```bash
+   ~/.venvs/whisper/bin/python "AUDIO_TO_NOTES/transcribe_audio.py"
+   ```
+
+   Lo script trascrive **tutti** i .mp3 presenti nella cartella: i file già trascritti vengono sovrascritti a ogni esecuzione, quindi conviene rimuovere o spostare i file elaborati.
+3. **Crea gli appunti .md** a partire dai .txt: sintetizza il contenuto e inseriscili nella cartella corretta del vault, nel solito format (tag iniziale, descrizione breve, collegamenti `[[...]]`, backlink alla nota padre). Aggiorna poi l'indice della cartella con il nuovo link.
+
+Requisiti dello script:
+- Python con il pacchetto **faster-whisper** (va bene una virtualenv, es. `python3 -m venv ~/.venvs/whisper` e poi `pip install faster-whisper`)
+- Al primo avvio scarica il modello di riconoscimento ("small", ~460 MB); le trascrizioni successive sono più veloci
+- Le trascrizioni automatiche possono contenere piccoli errori di riconoscimento: verifica i termini chiave durante la sintesi

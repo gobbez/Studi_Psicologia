@@ -6,6 +6,12 @@ La scala d'acquisto descrive i gradini che il cliente attraversa prima di acquis
 
 ### [[Interesting]]
 
+### [[Insuperable]]
+
+### [[Imperative]]
+
+### [[Irresistible]]
+
 
 ## Collegamenti
 [[Corso Vendita]]

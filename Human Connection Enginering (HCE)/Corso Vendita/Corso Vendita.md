@@ -4,6 +4,8 @@ Corso dedicato alla **vendita** e all'**acquisto**.
 
 # [[Metodo I-Stair]]
 
+## [[I-Stair e la vendita perfetta]]
+
 
 ## 5 criteri per la vendita
 
@@ -12,6 +14,8 @@ Corso dedicato alla **vendita** e all'**acquisto**.
 
 
 ## [[Scala d'acquisto]]
+
+## [[Vendite Flash]]
 
 
 
