@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "4c85f66f26b441b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inglese/Tipi di Lezione/Reading/Reading.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reading"
+            }
+          },
+          {
             "id": "db07b556c9e1fe2e",
             "type": "leaf",
             "state": {
@@ -90,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,8 +277,18 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "c9d7a12486beec56",
+  "active": "4c85f66f26b441b1",
   "lastOpenFiles": [
+    "Inglese/Programmare Lezione/Programmare Lezione.png",
+    "Inglese/Tipi di Lezione/Reading/Skimming.md",
+    "Inglese/Tipi di Lezione/Reading/Reading.md",
+    "Human Connection Enginering (HCE)/Corso Vendita/Corso Vendita.md",
+    "Human Connection Enginering (HCE)/Corso Vendita/5 criteri vendita/5 criteri vendita.md",
+    "Inglese/Tipi di Lezione/Reading/Scanning.md",
+    "Inglese/Tipi di Lezione/Reading/Attività Reading.md",
+    "Inglese/Tipi di Lezione/Reading/Suscitare Parola.md",
+    "Inglese/Tipi di Lezione/Reading",
+    "Inglese/Tenses/Tenses.md",
     "Inglese/Tenses/Future Perfect Continuous.md",
     "Inglese/Tenses/Future Perfect Continuous.md.tmp.516.1f2a187c5c09",
     "Inglese/Tenses/Future Perfect.md",
@@ -287,21 +311,10 @@
     "Inglese/Tenses/Present Continuous.md.tmp.516.6cc1832bb202",
     "Inglese/Tenses/Present Simple.md",
     "Inglese/Inglese.md",
-    "Inglese/Tenses/Tenses.md",
-    "Inglese/Tenses",
-    "Human Connection Enginering (HCE)/Corso Vendita/Corso Vendita.md",
-    "Inglese/Programmare Lezione/Programmare Lezione.png",
     "Human Connection Enginering (HCE)/Corso Vendita/Metodo I-Stair.md",
     "Inglese/Tipi di Lezione/Grammar/Grammar.md",
     "Inglese/Tipi di Lezione/Grammar/Clausola.md",
     "Inglese/Tipi di Lezione/Vocabulary/Determiner.md",
-    "Inglese/Tipi di Lezione/Vocabulary/Adverb.md",
-    "Inglese/Tipi di Lezione/Vocabulary/Noun.md",
-    "Inglese/Tipi di Lezione/Vocabulary/Vocabulary.md",
-    "Inglese/Tipi di Lezione/Vocabulary/Verb.md",
-    "Inglese/Tipi di Lezione/Grammar/Part of Speech/Part of Speech.md",
-    "Inglese/Tipi di Lezione/Pronunciation/Pronunciation.md",
-    "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Creazione Suono.md",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/slcc.png",
     "b.jpeg",
     "c.jpeg",
