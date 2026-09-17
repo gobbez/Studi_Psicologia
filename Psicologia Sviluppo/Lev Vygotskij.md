@@ -4,7 +4,7 @@ Sviluppo sociale e culturale
 
 # Zona Sviluppo Prossimale
 - Distanza tra ciò che l'individuo sa fare da solo e con l'aiuto di una figura più esperta.
-# Scaffolding
+# [[Scaffolding]]
 - Supporto graduale che viene ridotto all'aumentare delle competenze del coachee.
 - Getta le basi del [[Coaching]]
 
