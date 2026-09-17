@@ -22,45 +22,31 @@
             }
           },
           {
-            "id": "c9d7a12486beec56",
+            "id": "c6baa5d9a54dcb4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/Tenses/Tenses.md",
+                "file": "Inglese/Tipi di Lezione/Speaking/Speaking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tenses"
+              "title": "Speaking"
             }
           },
           {
-            "id": "bf05facea4755225",
+            "id": "63b4bc368f0d2dcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/Tipi di Lezione/Listening/Listening.md",
+                "file": "Inglese/Tipi di Lezione/Speaking/Funzioni Linguaggio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Listening"
-            }
-          },
-          {
-            "id": "957d1572bfb299ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inglese/Tipi di Lezione/Listening/Attività Listening.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Attività Listening"
+              "title": "Funzioni Linguaggio"
             }
           },
           {
@@ -118,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -291,45 +277,46 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "957d1572bfb299ec",
+  "active": "63b4bc368f0d2dcc",
   "lastOpenFiles": [
+    "Inglese/Tipi di Lezione/Speaking/Speaking.md",
+    "Inglese/Tipi di Lezione/Speaking/Funzioni Linguaggio.md",
+    "Inglese/Tipi di Lezione/Speaking",
+    "Inglese/Inglese.md",
+    "Inglese/Tipi di Lezione/Vocabulary/Adverb.md",
+    "Inglese/Tipi di Lezione/Reading/Suscitare Parola.md",
+    "Inglese/Tipi di Lezione/Reading/Skimming.md",
+    "Inglese/Tipi di Lezione/Reading/Scanning.md",
+    "Inglese/Tipi di Lezione/Reading/Reading.md",
+    "Inglese/Tipi di Lezione/Reading/Attività Reading.md",
+    "Inglese/Tipi di Lezione/Reading",
     "Inglese/Tipi di Lezione/Listening/Listening.md",
     "Inglese/Tipi di Lezione/Listening/Attività Listening.md",
-    "Inglese/Tenses/Tenses.md",
     "Inglese/Tipi di Lezione/Listening",
-    "Inglese/Programmare Lezione/Programmare Lezione.png",
-    "Inglese/Tipi di Lezione/Reading/Reading.md",
-    "Inglese/Tipi di Lezione/Reading/Skimming.md",
-    "Human Connection Enginering (HCE)/Corso Vendita/Corso Vendita.md",
-    "Human Connection Enginering (HCE)/Corso Vendita/5 criteri vendita/5 criteri vendita.md",
-    "Inglese/Tipi di Lezione/Reading/Scanning.md",
-    "Inglese/Tipi di Lezione/Reading/Attività Reading.md",
-    "Inglese/Tipi di Lezione/Reading/Suscitare Parola.md",
-    "Inglese/Tipi di Lezione/Reading",
-    "Inglese/Tenses/Future Perfect Continuous.md",
-    "Inglese/Tenses/Future Perfect Continuous.md.tmp.516.1f2a187c5c09",
-    "Inglese/Tenses/Future Perfect.md",
-    "Inglese/Tenses/Future Perfect.md.tmp.516.2f08df8d30a9",
-    "Inglese/Tenses/Future Continuous.md",
-    "Inglese/Tenses/Future Continuous.md.tmp.516.a2b0803b27b7",
-    "Inglese/Tenses/Future Simple.md",
-    "Inglese/Tenses/Future Simple.md.tmp.516.1a000d494df8",
-    "Inglese/Tenses/Past Perfect Continuous.md",
-    "Inglese/Tenses/Past Perfect Continuous.md.tmp.516.6595210fe2ac",
-    "Inglese/Tenses/Past Perfect.md",
-    "Inglese/Tenses/Past Continuous.md",
-    "Inglese/Tenses/Past Continuous.md.tmp.516.aeefa5f7870d",
-    "Inglese/Tenses/Past Simple.md",
-    "Inglese/Tenses/Past Simple.md.tmp.516.7fb4d667ab85",
-    "Inglese/Tenses/Present Perfect Continuous.md",
-    "Inglese/Tenses/Present Perfect Continuous.md.tmp.516.74ecfd47b866",
-    "Inglese/Tenses/Present Perfect.md",
-    "Inglese/Tenses/Present Continuous.md",
-    "Inglese/Tenses/Present Simple.md",
-    "Inglese/Inglese.md",
-    "Human Connection Enginering (HCE)/Corso Vendita/Metodo I-Stair.md",
     "Inglese/Tipi di Lezione/Grammar/Grammar.md",
     "Inglese/Tipi di Lezione/Grammar/Clausola.md",
+    "Inglese/Tipi di Lezione/Grammar",
+    "Inglese/Tenses/Tenses.md",
+    "Inglese/Tenses/Present Simple.md",
+    "Inglese/Tenses/Present Perfect.md",
+    "Inglese/Tenses/Present Perfect Continuous.md",
+    "Inglese/Tenses/Present Continuous.md",
+    "Inglese/Tenses/Past Simple.md",
+    "Inglese/Tenses/Past Perfect.md",
+    "Inglese/Tenses/Past Perfect Continuous.md",
+    "Inglese/Tenses/Past Continuous.md",
+    "Inglese/Tenses/Future Simple.md",
+    "Inglese/Tenses/Future Perfect Continuous.md",
+    "Inglese/Tenses/Future Perfect.md",
+    "Inglese/Tenses/Future Continuous.md",
+    "Inglese/Tenses",
+    "Inglese/IPA/Phonemic Chart.jpg",
+    "Inglese/IPA",
+    "Human Connection Enginering (HCE)/Corso Vendita/Scala d'acquisto",
+    "AUDIO_TO_NOTES/transcribe_audio.py",
+    "AUDIO_TO_NOTES",
+    "Inglese/Programmare Lezione/Programmare Lezione.png",
+    "Inglese/Tipi di Lezione/Pronunciation/Creazione Suono/Monophtongs.md.tmp.22764.1ec09f32543d",
     "Human Connection Enginering (HCE)/Corso Persuasione/SLCC/slcc.png",
     "b.jpeg",
     "c.jpeg",
@@ -337,7 +324,6 @@
     "e.jpeg",
     "a.jpeg",
     "p2.jpeg",
-    "p3.jpeg",
-    "p4.jpeg"
+    "p3.jpeg"
   ]
 }
