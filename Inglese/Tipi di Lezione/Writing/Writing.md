@@ -6,7 +6,7 @@ Si differenziano diversi stili di scrittura e obiettivi come la punteggiatura, l
 Scrivere si differenzia dal parlare perché esistono diversi tipi e stili di scrittura e c'è maggiore richiesta di precisione (ad esempio per la punteggiatura). Inoltre, la lingua Inglese non è sempre _fonetica_ (ovvero che si pronuncia come si scrive -come ad esempio l'italiano-).
 
 ## [[Coesione]]
-
+## [[Congiunzioni]]
 
 ## Connessioni
 [[Tipi di Lezione]]
