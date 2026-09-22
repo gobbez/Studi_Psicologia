@@ -7,10 +7,10 @@
 - [[Plenary]]: il riassunto finale della lezione, per rivedere gli argomenti trattati o fare domande.
 
 ### Parti aggiuntive nel Body
-PPP
-- [[Present]]: la lingua da studiare
-- [[Practice]]: attività pratiche
-- [[Produce]]: la lingua usata dagli studenti durante la pratica
+PPP (Presentation - Controller Practice - Freer Production)
+- [[Present]]: la lingua da studiare, con le regole e il contesto che si andrà ad approfondire nella lezione. In questa fase vanno presentate tutte le forme del MFP (Meaning, Form, Pronunciation)
+- [[Practice]]: attività pratiche e controllate affinché gli studenti imparino la struttura e la pronuncia. Focus su Accuracy.
+- [[Produce]]: la lingua usata dagli studenti durante la pratica libera, facendogli scegliere l'argomento sui cui parlare. Focus su Fluency.
 TTT
 - [[Test]]: Verifica su quanto gli studenti sanno già della lingua, prima di iniziare
 - [[Teach]]: La spiegazione delle parti che gli studenti non conoscono bene
