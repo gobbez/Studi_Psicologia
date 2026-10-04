@@ -22,6 +22,15 @@ Linguaggio utile:
 
 Non si compra mai con la testa, si compra sempre con la pancia e con il cuore.
 
+## Strumenti del gradino
+- ### [[La biochimica di Interesting]]: l'ossitocina, ormone dell'empatia che fa abbassare le difese
+- ### [[Interesting e la scala d'acquisto]]: i 5 gradini della iStair e l'acquisto perfetto
+- ### [[Asking Art]]: tre domande concatenate per focalizzare il cliente
+- ### [[Dragon & Princess]]: il Drago da sconfiggere e la Principessa da salvare
+- ### [[Storytelling Design]]: il viaggio dell'eroe in 3 passaggi
+- ### [[WIIFM]]: inserire tutto in una cornice di utilità per il cliente
+- ### [[Wishes Guessing]]: chiedere o indurre i desideri del cliente
+
 
 ## Collegamenti
 [[Scala d'acquisto]]

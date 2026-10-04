@@ -25,3 +25,7 @@ Pratica di accompagnamento allo sviluppo personale e professionale attraverso do
 ## [[Leadership e Intelligenza Emotiva]]
 
 ## [[Introduzione al Coaching]]
+
+## [[Domande Potenti]]
+
+## [[Processi di Coaching]]
