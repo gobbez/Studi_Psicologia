@@ -29,3 +29,9 @@ Pratica di accompagnamento allo sviluppo personale e professionale attraverso do
 ## [[Domande Potenti]]
 
 ## [[Processi di Coaching]]
+
+## [[Coaching e Consulenza Aziendale]]
+
+## [[Coaching a Distanza]]
+
+## [[Coaching Orientato ai Risultati]]
